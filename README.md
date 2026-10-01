@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/readme/harness-wordmark-dark.svg">
+    <img src="assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="docs-readme/zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="docs-readme/pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="docs-readme/uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-<h1 align="center">Learn Harness Engineering</h1>
 
 <p align="center"><strong>A project-based course on building the environment, state management, verification, and control mechanisms that make AI coding agents work reliably.</strong></p>
 
@@ -140,6 +147,18 @@ OpenAI reported the same thing with Codex: in a well-harnessed repository, the s
 
 **This course teaches you how to build that environment.**
 
+<p align="center">
+  <a href="assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/readme/harness-pattern-dark.svg">
+      <img src="assets/readme/harness-pattern.png" alt="Harness pattern: give a task, read harness files, execute, and stop after verification passes." width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Text version</summary>
+
 ```text
                     THE HARNESS PATTERN
                     ====================
@@ -159,6 +178,8 @@ OpenAI reported the same thing with Codex: in a well-harnessed repository, the s
                                          verification passes
 ```
 
+</details>
+
 ---
 
 ## What Harness Engineering Actually Means
@@ -166,6 +187,18 @@ OpenAI reported the same thing with Codex: in a well-harnessed repository, the s
 Harness engineering is about building a complete working environment around the model so it produces reliable results. It's not about writing better prompts. It's about designing the system the model operates inside.
 
 A harness has five subsystems:
+
+<p align="center">
+  <a href="assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/readme/harness-subsystems-dark.svg">
+      <img src="assets/readme/harness-subsystems.png" alt="Five harness subsystems: instructions, state, verification, scope, and session lifecycle." width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Text version</summary>
 
 ```text
     ┌────────────────────────────────────────────────────────────────┐
@@ -196,6 +229,8 @@ A harness has five subsystems:
     The harness doesn't make the model smarter.
     It makes the model's output reliable.
 ```
+
+</details>
 
 Each subsystem has one job:
 
@@ -321,6 +356,18 @@ Each course project's starter/solution is a complete copy of this Electron app a
 
 The course is designed to be done in order. Each phase builds on the last.
 
+<p align="center">
+  <a href="assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/readme/harness-learning-path-dark.svg">
+      <img src="assets/readme/harness-learning-path.png" alt="Eight learning phases connecting lectures L01–L14 with projects P01–P08." width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Text version</summary>
+
 ```text
     Phase 1: SEE THE PROBLEM              Phase 2: STRUCTURE THE REPO
     ========================              ==========================
@@ -387,6 +434,8 @@ The course is designed to be done in order. Each phase builds on the last.
          (explicit graph, parallel fan-out/fan-in,
           rollback edges, human-in-the-loop)
 ```
+
+</details>
 
 Each phase takes about a week if you're going part-time. If you want to go faster, phases 1–3 can be done in a long weekend.
 
@@ -482,6 +531,18 @@ Each phase takes about a week if you're going part-time. If you want to go faste
 
 One of the core ideas in this course: **the agent's session should follow a structured lifecycle, not a free-for-all.** Here's what that looks like:
 
+<p align="center">
+  <a href="assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="assets/readme/harness-session-lifecycle.png" alt="Start, select one feature, execute and verify with a fix-and-rerun loop, then wrap up with persistent state." width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Text version</summary>
+
 ```text
     AGENT SESSION LIFECYCLE
     ======================
@@ -522,6 +583,8 @@ One of the core ideas in this course: **the agent's session should follow a stru
     Without the harness, step 9 becomes "agent says it looks fine."
     With the harness, step 9 is "tests pass, lint is clean, types check."
 ```
+
+</details>
 
 ---
 
