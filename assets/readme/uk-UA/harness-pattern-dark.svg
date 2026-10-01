@@ -1,0 +1,357 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="690" viewBox="0 0 1600 690" role="img" aria-labelledby="title desc" lang="uk-UA">
+<title id="title">Принцип роботи harness</title><desc id="desc">Принцип роботи harness</desc>
+<rect width="1600" height="690" fill="#0D1117"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#A8A4A0"/></marker></defs>
+<g fill="#EAE5DF" aria-label="Принцип роботи harness">
+<use href="#glyph-0" transform="translate(553.1200 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-1" transform="translate(582.8000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-2" transform="translate(607.4400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-3" transform="translate(632.9200 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-4" transform="translate(657.9600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-2" transform="translate(682.8800 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-5" transform="translate(708.3600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-1" transform="translate(743.5200 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-6" transform="translate(768.1600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-7" transform="translate(792.2400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-6" transform="translate(816.4400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-8" transform="translate(840.1200 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-2" transform="translate(859.2000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-9" transform="translate(895.0800 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-10" transform="translate(920.1600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-11" transform="translate(943.0400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-12" transform="translate(959.9600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-13" transform="translate(985.0400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-14" transform="translate(1008.0000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-14" transform="translate(1027.4400 74.0000) scale(0.040000 -0.040000)"/>
+</g>
+<rect x="380" y="146" width="1140" height="284" fill="#0D1117" stroke="#E07A64" stroke-width="1.8"/>
+<g transform="translate(175 233) scale(1)" fill="none" stroke="#E07A64" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="M-26-35H12L28-19V35H-26ZM12-35V-19H28M-15-10H16M-15 1H16M-15 12H7"/></g>
+<g fill="#EAE5DF" aria-label="Поставити завдання">
+<use href="#glyph-0" transform="translate(43.2710 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-6" transform="translate(62.5630 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-15" transform="translate(78.2150 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-8" transform="translate(91.2670 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-16" transform="translate(103.6690 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-17" transform="translate(118.4370 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-2" transform="translate(133.3350 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-8" transform="translate(149.8970 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-2" transform="translate(162.2990 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-18" transform="translate(185.6210 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-16" transform="translate(198.5170 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-17" transform="translate(213.2850 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-19" transform="translate(228.1830 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-16" transform="translate(244.1990 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-3" transform="translate(258.9670 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-3" transform="translate(275.2430 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-20" transform="translate(291.5190 322.0000) scale(0.026000 -0.026000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Ви">
+<use href="#glyph-21" transform="translate(160.7990 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-2" transform="translate(175.1870 384.0000) scale(0.022000 -0.022000)"/>
+</g>
+<g transform="translate(570 233) scale(1)" fill="none" stroke="#E07A64" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="M-28-29H8L23-14V34H-28ZM8-29V-14H23M-16-4H11M-16 8H11M-16 20H4M-14-39H33V23"/></g>
+<g fill="#EAE5DF" aria-label="Прочитати файли">
+<use href="#glyph-0" transform="translate(459.1452 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-1" transform="translate(477.8436 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-6" transform="translate(493.3668 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-22" transform="translate(508.2852 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-2" transform="translate(523.4808 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-8" transform="translate(539.5332 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-16" transform="translate(551.5536 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-8" transform="translate(565.6152 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-2" transform="translate(577.6356 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-23" transform="translate(600.2400 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-16" transform="translate(619.3668 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-24" transform="translate(633.6804 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-25" transform="translate(649.7328 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-2" transform="translate(664.8024 304.5000) scale(0.025200 -0.025200)"/>
+</g>
+<g fill="#EAE5DF" aria-label="harness">
+<use href="#glyph-9" transform="translate(522.1830 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-10" transform="translate(537.9834 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-11" transform="translate(552.3978 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-12" transform="translate(563.0574 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-13" transform="translate(578.8578 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-14" transform="translate(593.3226 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-14" transform="translate(605.5698 339.5000) scale(0.025200 -0.025200)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Інструкції та стан">
+<use href="#glyph-26" transform="translate(476.7860 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-3" transform="translate(483.2980 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-15" transform="translate(497.0700 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-8" transform="translate(508.1140 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-1" transform="translate(518.6080 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-27" transform="translate(531.5000 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-28" transform="translate(543.0940 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-4" transform="translate(555.3260 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-29" transform="translate(569.0320 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-30" transform="translate(575.0380 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-8" transform="translate(586.6980 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-16" transform="translate(597.1920 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-15" transform="translate(615.4080 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-8" transform="translate(626.4520 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-16" transform="translate(636.9460 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-3" transform="translate(649.4420 384.0000) scale(0.022000 -0.022000)"/>
+</g>
+<g transform="translate(965 233) scale(1)" fill="none" stroke="#E07A64" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><rect x="-31" y="-27" width="62" height="54" rx="3"/><path d="M-12-8L-21 0L-12 8M12-8L21 0L12 8M5-14L-5 14M-15-39V-27M0-39V-27M15-39V-27M-15 27V39M0 27V39M15 27V39M-43-15H-31M-43 0H-31M-43 15H-31M31-15H43M31 0H43M31 15H43"/></g>
+<g fill="#EAE5DF" aria-label="Агент виконує">
+<use href="#glyph-31" transform="translate(867.1400 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-32" transform="translate(885.4520 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-33" transform="translate(897.7440 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-3" transform="translate(913.4520 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-8" transform="translate(930.9800 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-17" transform="translate(951.6160 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-2" transform="translate(967.6600 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-28" transform="translate(985.4960 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-6" transform="translate(1000.5040 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-3" transform="translate(1017.3600 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-27" transform="translate(1034.8880 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-34" transform="translate(1048.8040 322.0000) scale(0.028000 -0.028000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Одна функція за раз">
+<use href="#glyph-35" transform="translate(854.9010 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-19" transform="translate(871.5330 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-3" transform="translate(885.0850 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-16" transform="translate(898.8570 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-23" transform="translate(917.0730 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-27" transform="translate(933.1110 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-3" transform="translate(944.7050 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-28" transform="translate(958.4770 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-4" transform="translate(970.7090 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-29" transform="translate(984.4150 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-20" transform="translate(990.4210 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-18" transform="translate(1009.0110 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-16" transform="translate(1019.9230 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-1" transform="translate(1038.1390 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-16" transform="translate(1051.6910 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-18" transform="translate(1064.1870 384.0000) scale(0.022000 -0.022000)"/>
+</g>
+<g transform="translate(1375 233) scale(1)" fill="none" stroke="#E07A64" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="M0-38L30-25V3C30 21 15 33 0 41C-15 33-30 21-30 3V-25ZM-13 0L-3 10L17-12"/></g>
+<g fill="#EAE5DF" aria-label="Перевірку пройдено">
+<use href="#glyph-0" transform="translate(1242.8680 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-33" transform="translate(1262.1600 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-1" transform="translate(1276.7460 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-33" transform="translate(1292.7620 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-17" transform="translate(1307.3480 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-29" transform="translate(1322.2460 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-1" transform="translate(1329.3440 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-28" transform="translate(1345.3600 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-27" transform="translate(1359.8160 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-5" transform="translate(1380.2780 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-1" transform="translate(1396.3720 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-6" transform="translate(1412.3880 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-24" transform="translate(1428.0400 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-19" transform="translate(1444.6020 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-33" transform="translate(1460.6180 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-3" transform="translate(1475.2040 322.0000) scale(0.026000 -0.026000)"/>
+<use href="#glyph-6" transform="translate(1491.4800 322.0000) scale(0.026000 -0.026000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Агент зупиняється">
+<use href="#glyph-31" transform="translate(1274.7680 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-32" transform="translate(1289.1560 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-33" transform="translate(1298.8140 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-3" transform="translate(1311.1560 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-8" transform="translate(1324.9280 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-18" transform="translate(1341.1420 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-27" transform="translate(1351.8340 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-5" transform="translate(1363.4280 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-2" transform="translate(1377.0460 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-3" transform="translate(1391.0600 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-20" transform="translate(1404.8320 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-34" transform="translate(1417.7020 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-8" transform="translate(1428.7460 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-36" transform="translate(1439.2400 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-15" transform="translate(1451.5380 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-20" transform="translate(1462.3620 384.0000) scale(0.022000 -0.022000)"/>
+</g>
+<path d="M236 233H499" fill="none" stroke="#A8A4A0" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M636 233H894" fill="none" stroke="#A8A4A0" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M1031 233H1304" fill="none" stroke="#A8A4A0" stroke-width="1.8" marker-end="url(#arrow)"/>
+<rect x="380" y="430" width="1140" height="42" fill="#B8503C" stroke="none" stroke-width="1.8"/>
+<g fill="#FFFFFF" aria-label="Harness керує кожним кроком">
+<use href="#glyph-37" transform="translate(769.5440 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-10" transform="translate(787.4960 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-11" transform="translate(801.2240 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-12" transform="translate(811.3760 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-13" transform="translate(826.4240 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-14" transform="translate(840.2000 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-14" transform="translate(851.8640 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-28" transform="translate(869.7680 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-33" transform="translate(882.6320 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-1" transform="translate(896.0960 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-27" transform="translate(910.1600 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-34" transform="translate(922.0880 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-28" transform="translate(940.3760 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-6" transform="translate(953.2400 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-38" transform="translate(967.2080 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-3" transform="translate(986.1920 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-2" transform="translate(1001.2160 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-39" transform="translate(1016.5040 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-28" transform="translate(1041.6560 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-1" transform="translate(1055.0000 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-6" transform="translate(1069.7840 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-28" transform="translate(1084.2320 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-6" transform="translate(1097.0960 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-39" transform="translate(1111.5440 459.0000) scale(0.024000 -0.024000)"/>
+</g>
+<path d="M950 474V506" fill="none" stroke="#A8A4A0" stroke-width="1.8" marker-end="url(#arrow)"/>
+<rect x="80" y="525" width="1440" height="125" fill="#1B2027" stroke="none" stroke-width="1.8"/>
+<g fill="#EAE5DF" aria-label="Інструкції">
+<use href="#glyph-26" transform="translate(164.8000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-3" transform="translate(172.2000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-15" transform="translate(187.8500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-8" transform="translate(200.4000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-1" transform="translate(212.3250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-27" transform="translate(226.9750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-28" transform="translate(240.1500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-4" transform="translate(254.0500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-29" transform="translate(269.6250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-30" transform="translate(276.4500 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Що робити і в якому">
+<use href="#glyph-40" transform="translate(128.1770 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-6" transform="translate(147.8330 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-1" transform="translate(164.1248 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-6" transform="translate(175.7672 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-7" transform="translate(187.1450 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-2" transform="translate(198.5795 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-8" transform="translate(210.6188 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-2" transform="translate(219.6341 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-29" transform="translate(236.5874 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-17" transform="translate(246.6611 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-20" transform="translate(262.4048 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-28" transform="translate(273.4613 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-6" transform="translate(283.5917 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-39" transform="translate(294.9695 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-27" transform="translate(309.8627 599.8750) scale(0.018900 -0.018900)"/>
+</g>
+<g fill="#A8A4A0" aria-label="порядку">
+<use href="#glyph-5" transform="translate(185.1510 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-6" transform="translate(196.8501 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-1" transform="translate(208.2279 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-20" transform="translate(219.6814 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-19" transform="translate(230.7379 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-28" transform="translate(242.3802 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-27" transform="translate(252.8887 626.1250) scale(0.018900 -0.018900)"/>
+</g>
+<g fill="#EAE5DF" aria-label="Межі роботи">
+<use href="#glyph-41" transform="translate(433.1000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-33" transform="translate(456.0500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-38" transform="translate(469.5750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-29" transform="translate(489.3500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-1" transform="translate(502.6750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-6" transform="translate(518.0750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-7" transform="translate(533.1250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-6" transform="translate(548.2500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-8" transform="translate(563.0500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-2" transform="translate(574.9750 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Одна функція за раз">
+<use href="#glyph-35" transform="translate(406.9055 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-19" transform="translate(422.7815 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-3" transform="translate(435.7175 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-16" transform="translate(448.8635 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-23" transform="translate(466.2515 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-27" transform="translate(481.5605 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-3" transform="translate(492.6275 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-28" transform="translate(505.7735 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-4" transform="translate(517.4495 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-29" transform="translate(530.5325 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-20" transform="translate(536.2655 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-18" transform="translate(554.0105 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-16" transform="translate(564.4265 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(581.8145 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-16" transform="translate(594.7505 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-18" transform="translate(606.6785 613.0000) scale(0.021000 -0.021000)"/>
+</g>
+<path d="M368 543V629" fill="none" stroke="#37404B" stroke-width="1"/>
+<g fill="#EAE5DF" aria-label="Стан">
+<use href="#glyph-42" transform="translate(771.1000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-8" transform="translate(787.1250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-16" transform="translate(799.0500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-3" transform="translate(813.2500 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Прогрес та історія">
+<use href="#glyph-0" transform="translate(705.8045 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(721.3865 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-6" transform="translate(734.3225 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-32" transform="translate(746.9645 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(756.3935 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-33" transform="translate(769.3295 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-15" transform="translate(781.1105 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-8" transform="translate(797.1125 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-16" transform="translate(807.1295 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-29" transform="translate(824.5175 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-15" transform="translate(830.2505 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-8" transform="translate(840.7925 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-6" transform="translate(850.5995 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(863.2415 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-29" transform="translate(876.1775 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-20" transform="translate(881.9105 613.0000) scale(0.021000 -0.021000)"/>
+</g>
+<path d="M656 543V629" fill="none" stroke="#37404B" stroke-width="1"/>
+<g fill="#EAE5DF" aria-label="Перевірка">
+<use href="#glyph-0" transform="translate(1024.9250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-33" transform="translate(1043.4750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-1" transform="translate(1057.5000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-33" transform="translate(1072.9000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-17" transform="translate(1086.9250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-29" transform="translate(1101.2500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-1" transform="translate(1108.0750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-28" transform="translate(1123.4750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-16" transform="translate(1136.8750 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Тести · лінтер · типи">
+<use href="#glyph-43" transform="translate(985.1630 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-33" transform="translate(996.1250 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-15" transform="translate(1007.9060 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-8" transform="translate(1018.4480 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-2" transform="translate(1028.4650 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-44" transform="translate(1047.3020 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-25" transform="translate(1058.4740 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-29" transform="translate(1071.0320 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-3" transform="translate(1076.7650 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-8" transform="translate(1089.9110 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-33" transform="translate(1099.7180 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(1111.4990 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-44" transform="translate(1129.8950 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-8" transform="translate(1141.0670 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-2" transform="translate(1151.0840 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-5" transform="translate(1164.4610 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-2" transform="translate(1177.4600 613.0000) scale(0.021000 -0.021000)"/>
+</g>
+<path d="M944 543V629" fill="none" stroke="#37404B" stroke-width="1"/>
+<g fill="#EAE5DF" aria-label="Життєвий цикл">
+<use href="#glyph-45" transform="translate(1281.8000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-2" transform="translate(1305.1000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-8" transform="translate(1321.0250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-8" transform="translate(1332.9500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-34" transform="translate(1344.6250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-17" transform="translate(1357.1750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-2" transform="translate(1371.5000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-24" transform="translate(1387.4250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-4" transform="translate(1409.8500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-2" transform="translate(1425.4250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-28" transform="translate(1441.3500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-25" transform="translate(1455.2500 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Запуск і передача">
+<use href="#glyph-46" transform="translate(1283.4005 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-16" transform="translate(1295.6225 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-5" transform="translate(1307.5505 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-27" transform="translate(1320.5495 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-15" transform="translate(1330.9865 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-28" transform="translate(1341.5285 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-29" transform="translate(1358.6645 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-5" transform="translate(1369.8575 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-33" transform="translate(1382.8565 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(1394.6375 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-33" transform="translate(1407.5735 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-19" transform="translate(1419.1445 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-16" transform="translate(1432.0805 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-22" transform="translate(1444.0085 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-16" transform="translate(1456.6715 613.0000) scale(0.021000 -0.021000)"/>
+</g>
+<path d="M1232 543V629" fill="none" stroke="#37404B" stroke-width="1"/>
+<defs><path id="glyph-0" d="M94.93 0V714H646.62V0H539.33V621.13H202.93V0Z"/><path id="glyph-1" d="M83.52 -240V538.95H169.98L184.64 466.54H189.52Q205.23 489.25 227.29 508.1Q249.34 526.95 280.25 537.95Q311.16 548.95 352.98 548.95Q449.92 548.95 509.39 479.21Q568.85 409.48 568.85 270.48Q568.85 178.89 541.5 116.09Q514.15 53.3 465.39 21.65Q416.62 -10 351.1 -10Q310.69 -10 279.72 0.7Q248.75 11.41 226.99 28.47Q205.23 45.52 189.52 65.64H182.93Q185.52 48.05 187.52 23.67Q189.52 -0.7 189.52 -20V-240ZM329.54 77.16Q373.41 77.16 402.11 101.8Q430.8 126.44 444.98 170.14Q459.15 213.84 459.15 271.77Q459.15 360.23 427.25 410.95Q395.34 461.67 327.54 461.67Q277.97 461.67 247.57 442.5Q217.16 423.33 203.49 384.84Q189.82 346.34 189.52 287.48V270.77Q189.52 208.61 202.34 165.41Q215.16 122.21 245.86 99.69Q276.56 77.16 329.54 77.16Z"/><path id="glyph-2" d="M83.52 0V538.95H187.64V244.7Q187.64 228.28 186.34 201.74Q185.05 175.2 183.25 150.48Q181.46 125.77 179.87 112.07H181.46L426.11 538.95H553.11V0H449V287.08Q449 307.8 449.94 334.66Q450.89 361.52 452.33 386.06Q453.77 410.59 455.07 424.18H453.18L210.52 0Z"/><path id="glyph-3" d="M83.52 0V538.95H189.52V318.9H436.87V538.95H542.87V0H436.87V233.1H189.52V0Z"/><path id="glyph-4" d="M511.52 -140V0H82.4V539.06H188.94V86.78H426.88V539.06H533.42V85.96H613.34V-140Z"/><path id="glyph-5" d="M83.52 0V538.95H535.46V0H429.46V453.15H189.52V0Z"/><path id="glyph-6" d="M299.13 -10Q243.48 -10 197.15 8.8Q150.82 27.59 117.02 63.74Q83.23 99.89 64.88 151.68Q46.52 203.48 46.52 270.48Q46.52 358.89 77.61 420.98Q108.7 483.07 166.03 516.01Q223.36 548.95 302.13 548.95Q378.08 548.95 434.76 516.01Q491.44 483.07 523.44 420.77Q555.44 358.48 555.44 269.77Q555.44 203.77 537.65 151.48Q519.85 99.18 486.26 63.39Q452.67 27.59 405.29 8.8Q357.9 -10 299.13 -10ZM301.13 75.1Q375.23 75.1 410.13 126.32Q445.03 177.54 445.03 269.77Q445.03 363.41 410.13 413.63Q375.23 463.85 300.13 463.85Q225.33 463.85 191.13 413.98Q156.93 364.11 156.93 270.48Q156.93 177.54 191.63 126.32Q226.33 75.1 301.13 75.1Z"/><path id="glyph-7" d="M304.72 -10Q223.07 -10 166.59 27.5Q110.11 65 80.88 140.8Q51.64 216.59 50.93 330.07Q50.93 427.18 67.58 499.94Q84.23 572.7 117.88 622.91Q151.52 673.11 203.32 703.26Q255.11 733.41 326.52 745.7Q344.7 749 374.89 753.65Q405.07 758.3 440.6 762.94Q476.13 767.59 509.72 770.59L519.49 676.25Q488.38 673.25 453.67 668.75Q418.97 664.25 388.52 660.1Q358.08 655.95 338.61 651.95Q278.97 641.25 241.09 617.07Q203.21 592.9 182.6 549.91Q161.98 506.92 152.57 439.16H158.16Q175.05 465.64 200.75 484.38Q226.46 503.11 260.37 513.61Q294.28 524.11 334.69 524.11Q403.39 524.11 453.66 494.32Q503.92 464.52 531.18 407.32Q558.44 350.11 558.44 267.18Q558.44 180.52 526.56 118.52Q494.67 56.52 437.99 23.26Q381.31 -10 304.72 -10ZM306.43 76.28Q352.48 76.28 383.82 97.57Q415.16 118.85 431.75 160.66Q448.33 202.48 448.33 262.34Q448.33 350.03 413.57 394.64Q378.82 439.25 306.72 439.25Q235.44 439.25 199.84 395.7Q164.23 352.15 164.23 264.75Q164.23 204.18 180.81 161.87Q197.39 119.56 229.24 97.92Q261.08 76.28 306.43 76.28Z"/><path id="glyph-8" d="M185.05 0V453.74H13.52V538.95H463.28V453.74H290.34V0Z"/><path id="glyph-9" d="M188.12 557.7Q188.12 531.14 186.35 507.18Q184.58 483.22 182.58 466.14H189.12Q206.3 494.32 231.67 512.14Q257.04 529.96 288.32 539.1Q319.6 548.24 353.42 548.24Q416.62 548.24 460.21 527.65Q503.8 507.06 526.61 463.79Q549.42 420.52 549.42 350.98V0H443.52V335.62Q443.52 398.82 416.86 430.1Q390.2 461.38 333.24 461.38Q277.92 461.38 246.44 439.33Q214.96 417.28 201.54 374.86Q188.12 332.44 188.12 270.88V0H81.58V760H188.12Z"/><path id="glyph-10" d="M296.64 548.24Q395.9 548.24 445.06 503.62Q494.22 459 494.22 364.64V0H417.98L397.38 75.46H393.38Q370.38 46.46 345.88 27.14Q321.38 7.82 289.79 -1.09Q258.2 -10 213.02 -10Q165.02 -10 126.61 7.45Q88.2 24.9 66.2 61.12Q44.2 97.34 44.2 152.6Q44.2 234.22 106.93 277.63Q169.66 321.04 298.14 325.22L389.32 328.22V355.9Q389.32 417.5 362.3 441.61Q335.28 465.72 286.24 465.72Q245.86 465.72 207.5 453.4Q169.14 441.08 134.7 424.72L102.66 501.52Q140 521.6 190.25 534.92Q240.5 548.24 296.64 548.24ZM315.98 256.48Q224.62 252.84 189.18 226.91Q153.74 200.98 153.74 153.76Q153.74 111.82 178.99 92.17Q204.24 72.52 244 72.52Q306.06 72.52 347.37 107.23Q388.68 141.94 388.68 212.2V259.3Z"/><path id="glyph-11" d="M346.7 549.06Q361.88 549.06 379.29 547.47Q396.7 545.88 408.8 543.06L396.72 444.24Q384.26 447.06 368.94 449.06Q353.62 451.06 337.46 451.06Q308.8 451.06 282.15 439.77Q255.5 428.48 234.13 407.23Q212.76 385.98 200.44 354.96Q188.12 323.94 188.12 283.48V0H81.58V539.06H166.18L179.78 442.86H184.68Q201.32 472.32 225.32 496.46Q249.32 520.6 280.05 534.83Q310.78 549.06 346.7 549.06Z"/><path id="glyph-12" d="M355.42 549.06Q449.62 549.06 499.52 502.3Q549.42 455.54 549.42 350.96V0H443.7V335.62Q443.7 398.82 417.01 430.1Q390.31 461.38 333.24 461.38Q250.54 461.38 219.33 412.45Q188.12 363.51 188.12 271.52V0H81.58V539.06H165.66L181.06 466.06H186.42Q204.42 493.7 230.56 512.2Q256.7 530.7 288.61 539.88Q320.52 549.06 355.42 549.06Z"/><path id="glyph-13" d="M296.14 549.06Q367.3 549.06 418.42 519.42Q469.54 489.78 496.94 435.01Q524.34 380.24 524.34 305.08V246.32H162.02Q164.02 163.96 206 119.97Q247.98 75.98 324.02 75.98Q375.2 75.98 415.33 85.57Q455.46 95.16 498.18 113.88V26.08Q457.36 7.54 416.01 -1.23Q374.66 -10 316.6 -10Q239.16 -10 179.4 20.73Q119.64 51.46 86.15 113.23Q52.66 175 52.66 265.62Q52.66 355.78 83.06 418.96Q113.46 482.14 168.4 515.6Q223.34 549.06 296.14 549.06ZM296.58 466.62Q238.8 466.62 204.82 429.63Q170.84 392.64 164.38 325.32H417.76Q417.76 367.54 404.57 398.93Q391.38 430.32 364.77 448.47Q338.16 466.62 296.58 466.62Z"/><path id="glyph-14" d="M441.74 151.96Q441.74 99.96 416.19 63.88Q390.64 27.8 342.01 8.9Q293.38 -10 224.14 -10Q167.6 -10 126.02 -1.45Q84.44 7.1 50.38 23.46V116.6Q86.16 99.16 133.19 86.2Q180.22 73.24 224.34 73.24Q285.04 73.24 312.34 92.13Q339.64 111.02 339.64 143.06Q339.64 161.62 328.82 176.36Q318 191.1 290.04 206.2Q262.08 221.3 210.16 241.12Q159.24 260.94 123.41 281.39Q87.58 301.84 68.48 330.47Q49.38 359.1 49.38 403.28Q49.38 473.62 106.14 511.34Q162.9 549.06 255.24 549.06Q305.32 549.06 348.81 539.11Q392.3 529.16 432 511.08L398.04 431.54Q362.78 446.44 324.88 456.62Q286.98 466.8 250.5 466.8Q202.26 466.8 176.64 451.37Q151.02 435.94 151.02 409.36Q151.02 389.52 163.21 375.37Q175.4 361.22 204.73 347.53Q234.06 333.84 284.16 314.02Q334.62 295.02 369.81 274.57Q405 254.12 423.37 225.08Q441.74 196.04 441.74 151.96Z"/><path id="glyph-15" d="M306.24 -10Q183 -10 114.6 60.54Q46.2 131.08 46.2 264.62Q46.2 355.96 78.55 419.14Q110.9 482.32 169.93 515.69Q228.96 549.06 310.32 549.06Q352.38 549.06 392.46 540.7Q432.54 532.34 462.98 516.16L430.76 434.38Q399.58 448.38 372.58 454.88Q345.58 461.38 313.2 461.38Q236.88 461.38 196.31 411.3Q155.74 361.22 155.74 266.16Q155.74 172.1 196.49 125.07Q237.24 78.04 319.92 78.04Q349.92 78.04 383.28 84.22Q416.64 90.4 448.54 103.12V16.16Q421.56 4.08 384.12 -2.96Q346.68 -10 306.24 -10Z"/><path id="glyph-16" d="M215 -10Q159.82 -10 121.37 8.54Q82.92 27.08 63.06 62.89Q43.2 98.7 43.2 148.78Q43.2 232.86 105.57 277.86Q167.94 322.86 294.04 326.86L385.04 329.86V356.9Q385.04 413.04 357.71 438.79Q330.38 464.54 270.9 464.54Q234.44 464.54 196.07 455.31Q157.7 446.08 113.8 427.26L80.66 506.16Q131.56 528.34 179.67 538.7Q227.78 549.06 277.66 549.06Q384.7 549.06 437.32 502.44Q489.94 455.82 489.94 361.14V0H413.7L393.1 76.28H389.1Q365.64 46.64 339.73 27.32Q313.82 8 283.32 -1Q252.82 -10 215 -10ZM245.82 72.52Q304.6 72.52 344.5 107.23Q384.4 141.94 384.4 213.02V257.66L311.7 255.02Q228.54 251.56 190.64 227.09Q152.74 202.62 152.74 154.58Q152.74 114.28 176.94 93.4Q201.14 72.52 245.82 72.52Z"/><path id="glyph-17" d="M81.58 0V539.06H304.5Q408.36 539.06 460.94 504.29Q513.52 469.52 513.52 402.62Q513.52 355.8 486.43 326.35Q459.34 296.9 405.52 286.26V282.26Q465.9 274.26 498.03 241.44Q530.16 208.62 530.16 155.44Q530.16 112.44 508.25 77.17Q486.34 41.9 436.99 20.95Q387.64 0 305.5 0ZM187.94 81.54H295.86Q360.1 81.54 390.13 100.6Q420.16 119.66 420.16 160.06Q420.16 200.82 389.63 220.7Q359.1 240.58 294.58 240.58H187.94ZM187.94 320.4H285.84Q348 320.4 376.94 337.05Q405.88 353.7 405.88 389.28Q405.88 424.04 379.99 440.78Q354.1 457.52 300.22 457.52H187.94Z"/><path id="glyph-18" d="M216.58 -10Q167.58 -10 119.82 -2Q72.06 6 35.44 20.36V108.78Q79.34 92.24 124.07 83.51Q168.8 74.78 211.08 74.78Q277.76 74.78 310.14 96.03Q342.52 117.28 342.52 158.5Q342.52 200.54 308.86 220.29Q275.2 240.04 202.88 240.04H114.88L115.06 320.22H201.98Q265.56 320.22 297.17 338.92Q328.78 357.62 328.78 395.38Q328.78 430.32 302.44 447.7Q276.1 465.08 219.24 465.08Q184.24 465.08 149.11 457.81Q113.98 450.54 68.88 431.08L38.2 511.62Q79.72 529.7 127.52 539.47Q175.32 549.24 226.94 549.24Q324.64 549.24 379.72 511.56Q434.8 473.88 434.8 406.8Q434.8 360.62 407.39 329.53Q379.98 298.44 325.7 286.44V282.26Q387.8 269.98 419.62 235.66Q451.44 201.34 451.44 150.62Q451.44 74.54 390.91 32.27Q330.38 -10 216.58 -10Z"/><path id="glyph-19" d="M8.52 -140V85.8H66Q86.64 111.15 100.25 139.49Q113.87 167.84 122.28 202.53Q130.69 237.23 134.39 280.69Q136.39 301.34 138.04 323.39Q139.69 345.43 141.19 374.14Q142.69 402.85 144.69 442.91Q146.69 482.97 148.39 538.95H526.03V85.8H605.85V-140H504.92V0H109.46V-140ZM176.34 85.8H420.74V453.15H240.74Q239.74 421.85 237.89 392Q236.03 362.15 234.18 335.39Q232.33 308.62 230.33 284.8Q224.92 216.41 211.45 168.69Q197.98 120.97 176.34 85.8Z"/><path id="glyph-20" d="M27.8 0 204.96 254.06 217.38 210.66Q142.38 219.74 100.88 262.87Q59.38 306 60.2 375.18Q60.2 452.98 112.18 496.02Q164.16 539.06 257.58 539.06H504.52V0H397.98V204.3H286.18L148.96 0ZM285.76 285.66H397.98V456.7H272.18Q220.78 456.7 194.67 435.82Q168.56 414.94 169.38 373.82Q168.56 330.42 198.04 308.04Q227.52 285.66 285.76 285.66Z"/><path id="glyph-21" d="M93.4 0V714H306.04Q443.82 714 511.87 673.33Q579.92 632.66 579.92 536.82Q579.92 493.92 564.15 461.42Q548.38 428.92 518.78 407.87Q489.18 386.82 448.24 379V374Q490.36 367 525.51 348.36Q560.66 329.72 581.39 294.99Q602.12 260.26 602.12 204.08Q602.12 139.08 571.58 93.31Q541.04 47.54 484.55 23.77Q428.06 0 349.8 0ZM201.58 89.14H333.62Q419.44 89.14 453.92 122.99Q488.4 156.84 488.4 212.7Q488.4 248.36 472.98 274.2Q457.56 300.04 422.21 314.28Q386.86 328.52 327.16 328.52H201.58ZM201.58 415.4H321.16Q404.16 415.4 436.09 442.74Q468.02 470.08 468.02 523.4Q468.02 577.36 429.94 600.97Q391.86 624.58 308.96 624.58H201.58Z"/><path id="glyph-22" d="M413.64 0V258.02L445.25 222.52Q396.25 201.11 353.3 190.97Q310.36 180.82 262.89 180.82Q162.59 180.82 111.3 226.76Q60 272.7 60 363.89V538.95H166V376.9Q166 318.56 193.99 292.53Q221.98 266.51 285.15 266.51Q325.08 266.51 364.81 276.21Q404.54 285.92 447.49 308.28L413.64 244.3V538.95H519.64V0Z"/><path id="glyph-23" d="M354.97 -13.52Q258.84 -13.52 189.77 20.18Q120.7 53.89 83.61 117.03Q46.52 180.18 46.52 267.95Q46.52 356.13 83.82 419.13Q121.11 482.13 190.89 515.69Q260.66 549.25 358.49 549.25H400.05Q497.88 549.25 567.66 515.69Q637.43 482.13 674.72 419.13Q712.02 356.13 712.02 267.95Q712.02 180.18 674.93 117.03Q637.84 53.89 568.92 20.18Q500 -13.52 403.57 -13.52ZM327.36 -240V19.13L329.36 43.64V495.15L327.36 521.52V760H430.48V521.52L429.18 495.74V43.64L430.48 15.89V-240ZM353.59 69.98H404.25Q501.75 69.98 551.98 120.74Q602.2 171.49 602.2 267.66Q602.2 364.23 551.77 414.98Q501.34 465.74 403.54 465.74H354.3Q257.2 465.74 206.77 414.98Q156.34 364.23 156.34 267.66Q156.34 171.49 206.57 120.74Q256.79 69.98 353.59 69.98Z"/><path id="glyph-24" d="M83.52 0V538.95H187.64V244.7Q187.64 228.28 186.34 201.74Q185.05 175.2 183.25 150.48Q181.46 125.77 179.87 112.07H181.46L426.11 538.95H553.11V0H449V287.08Q449 307.8 449.94 334.66Q450.89 361.52 452.33 386.06Q453.77 410.59 455.07 424.18H453.18L210.52 0ZM317.49 606Q244.59 606 202.58 642.77Q160.57 679.54 152.57 749.44H246.21Q250.92 711.26 268.94 692.06Q286.97 672.85 318.38 672.85Q350.2 672.85 368.02 692.2Q385.84 711.56 390.54 749.44H484.18Q476.88 680.13 434.29 643.07Q391.69 606 317.49 606Z"/><path id="glyph-25" d="M60.48 -7Q44.22 -7 29.69 -4.41Q15.16 -1.82 0.9 2.18V90.6Q13 87.78 21.5 86.78Q30 85.78 38.82 85.78Q61.74 85.78 77.02 95.74Q92.3 105.7 101.44 129.9Q110.58 154.1 114.22 197.96Q117.04 231.7 119.54 264.7Q122.04 297.7 124.04 336.06Q126.04 374.42 128.95 423.69Q131.86 472.96 134.86 539.06H516.04V0H409.5V452.28H226.88Q224.06 408.44 222.15 371.79Q220.24 335.14 218.24 303.04Q216.24 270.94 214.24 241.57Q212.24 212.2 209.24 183.74Q199.42 81.18 165.44 37.09Q131.46 -7 60.48 -7Z"/><path id="glyph-26" d="M93.4 0V714H202.12V0Z"/><path id="glyph-27" d="M91.1 -240Q67.74 -240 49.52 -237.41Q31.3 -234.82 18.58 -231.64V-140.04Q31.58 -143.04 45.26 -145.04Q58.94 -147.04 75.12 -147.04Q107.38 -147.04 129.88 -136.09Q152.38 -125.14 168.34 -105.46Q184.3 -85.78 194.12 -59.32L235.5 45.54L234.24 -45.94L-0.18 539.06H113.98L225.66 232.62Q234.22 209.22 241.55 186.92Q248.88 164.62 254.89 143.37Q260.9 122.12 264.18 102.1H268.18Q273.46 126.2 284.34 162.02Q295.22 197.84 308.06 233.26L414.36 539.06H527.18L298.34 -66.98Q278.26 -120.04 251.32 -159.07Q224.38 -198.1 185.63 -219.05Q146.88 -240 91.1 -240Z"/><path id="glyph-28" d="M427.72 0 243.54 270.48 242.25 278.48 425.08 538.95H535.38L336.31 255.84L332.02 315.77L548.97 0ZM83.52 0V538.95H189.52V0ZM179.39 232.28V318.08H283.98V232.28Z"/><path id="glyph-29" d="M83.23 0V538.95H189.23V0ZM137.08 621.46Q109.43 621.46 92.98 636.05Q76.52 650.64 76.52 682.48Q76.52 715.31 93.33 729.4Q110.13 743.49 137.08 743.49Q163.74 743.49 180.34 729.4Q196.93 715.31 196.93 682.48Q196.93 650.64 179.98 636.05Q163.03 621.46 137.08 621.46Z"/><path id="glyph-30" d="M83.1 0V539.06H189.64V0ZM72.68 621.58Q23.18 621.58 23.18 682.71Q23.18 743.84 73.56 743.84Q97.66 743.84 110.15 728.08Q122.64 712.32 122.64 682.57Q122.64 653.92 109.83 637.75Q97.02 621.58 72.68 621.58ZM200.88 621.58Q151.56 621.58 151.56 682.71Q151.56 743.84 201.7 743.84Q225.81 743.84 238.42 728.08Q251.02 712.32 251.02 682.57Q251.02 653.92 238.12 637.75Q225.22 621.58 200.88 621.58Z"/><path id="glyph-31" d="M539.6 0 462.78 205.34H188.96L112.78 0H0L270.72 717H383.4L653.84 0ZM362.26 497.56Q358.9 507.54 351.54 531.15Q344.18 554.76 337.23 580.05Q330.28 605.34 326.1 619.5Q321.28 598.78 315.24 575.49Q309.2 552.2 303.16 531.96Q297.12 511.72 292.76 497.56L220.76 299.38H433.44Z"/><path id="glyph-32" d="M83.52 0V538.95H428.8V452.26H189.52V0Z"/><path id="glyph-33" d="M311.04 -10.18Q232.52 -10.18 172.58 20.91Q112.64 52 79.42 113.95Q46.2 175.9 46.2 265.98Q46.2 355.06 76.69 418.24Q107.18 481.42 162.39 515.24Q217.6 549.06 291.12 549.06Q362.46 549.06 413.13 519.06Q463.8 489.06 490.84 434.2Q517.88 379.34 517.88 305.08V244.68H156.38Q159.2 163.14 201.49 120.01Q243.78 76.88 319.54 76.88Q368.38 76.88 408.51 86.74Q448.64 96.6 491.54 115.32V26.08Q450.18 7.72 408.56 -1.23Q366.94 -10.18 311.04 -10.18ZM158.74 325.32H410.48Q410.48 367.54 397.38 398.93Q384.28 430.32 357.76 448.47Q331.24 466.62 290.3 466.62Q233.34 466.62 199.27 429.63Q165.2 392.64 158.74 325.32Z"/><path id="glyph-34" d="M306.24 -10Q183 -10 114.6 60.54Q46.2 131.08 46.2 264.62Q46.2 355.96 78.55 419.55Q110.9 483.14 169.93 516.51Q228.96 549.88 310.32 549.88Q352.38 549.88 392.46 541.52Q432.54 533.16 462.98 516.98L430.76 436.28Q400.12 450.28 372.85 456.78Q345.58 463.28 313.02 463.28Q234.8 463.28 194.23 412.79Q153.66 362.3 153.66 266.16Q153.66 171.2 194.23 124.17Q234.8 77.14 319.02 77.14Q350.1 77.14 383.82 83.5Q417.54 89.86 448.54 102.22V16.16Q421.56 4.08 384.12 -2.96Q346.68 -10 306.24 -10ZM118.42 236.4 118.24 317.04H402.7V236.4Z"/><path id="glyph-35" d="M383.34 -10Q306.9 -10 246.5 14.91Q186.1 39.82 144.06 87.64Q102.02 135.46 79.84 204.05Q57.66 272.64 57.66 359Q57.66 474.54 96.61 556.04Q135.56 637.54 208.64 681.27Q281.72 725 384.52 725Q487.32 725 559.4 681.68Q631.48 638.36 669.84 556.36Q708.2 474.36 708.2 358Q708.2 271.64 686.02 203.14Q663.84 134.64 622.3 87.14Q580.76 39.64 520.36 14.82Q459.96 -10 383.34 -10ZM383.34 82.58Q486.68 82.58 540.49 153.21Q594.3 223.84 594.3 358Q594.3 492.34 540.76 562.47Q487.22 632.6 385.06 632.6Q281.72 632.6 226.64 562.38Q171.56 492.16 171.56 358Q171.56 269.5 195.94 207.83Q220.32 146.16 267.67 114.37Q315.02 82.58 383.34 82.58Z"/><path id="glyph-36" d="M83.52 0V538.95H189.52V347.74H286.08Q400.8 347.74 457.93 305.06Q515.05 262.38 515.05 177.02Q515.05 91.48 457.22 45.74Q399.39 0 287.26 0ZM189.52 84.51H284.02Q346.12 84.51 376.23 107.29Q406.34 130.08 406.34 174.72Q406.34 219.89 377.03 241.26Q347.72 262.64 283.43 262.64H189.52Z"/><path id="glyph-37" d="M652.44 0H544.44V325.62H202.93V0H94.93V714H202.93V418.49H544.44V714H652.44Z"/><path id="glyph-38" d="M662.8 0 487.1 268.7 484.33 276.7 658.98 538.95H768.39L576.69 255.84L574.16 312.23L783.46 0ZM7.11 0 216.7 312.23 213.89 255.84 22.18 538.95H131.59L306.25 276.7L303.48 268.7L127.48 0ZM344.38 0V538.95H445.61V0ZM253.26 232.57V317.67H536.72V232.57Z"/><path id="glyph-39" d="M83.52 0V538.95H230.08L412.28 80.28L376.15 80.98L561.75 538.95H704.84V0H606.02V320.16Q606.02 346.77 607.52 374.2Q609.02 401.62 611.31 426.57H608.31L434.11 0H350.61L181.46 426.87H178.16Q180.75 401.62 181.55 374.34Q182.34 347.07 182.34 316.87V0Z"/><path id="glyph-40" d="M926.04 -158.36V0H93.4V714H202.12V93.22H460.12V714H568.12V93.22H826.12V714H934.84V93.22H1030.58V-158.36Z"/><path id="glyph-41" d="M94.93 0V714H249.48L454.43 140.51H458.13L668.85 714H822.69V0H718.34V409.2Q718.34 443.9 719.49 481.21Q720.64 518.51 722.49 551.66Q724.34 584.82 725.34 605.52H721.34L499.28 0H406.1L189.69 606.52H185.69Q187.39 586.52 189.04 552.87Q190.69 519.21 191.98 480.06Q193.28 440.9 193.28 403.2V0Z"/><path id="glyph-42" d="M394.74 -10Q282.64 -10 207.37 33.82Q132.1 77.64 94.88 159.64Q57.66 241.64 57.66 355Q57.66 469.36 98.43 552.27Q139.2 635.18 216.24 679.59Q293.28 724 400.18 724Q453.26 724 503.34 713.96Q553.42 703.92 603.24 680.56L561.66 591.96Q520.84 611.96 481.24 621.37Q441.64 630.78 403.9 630.78Q329.76 630.78 277.86 598.58Q225.96 566.38 198.94 504.62Q171.92 442.86 171.92 354.82Q171.92 222.3 232.87 152.94Q293.82 83.58 409.52 83.58Q450.8 83.58 493.67 92.26Q536.54 100.94 582.54 120.12V23.62Q541.18 6.9 493.64 -1.55Q446.1 -10 394.74 -10Z"/><path id="glyph-43" d="M335.42 0H226.88V620.78H12.7V714H548.78V620.78H335.42Z"/><path id="glyph-44" d="M66.6 353Q66.6 392.68 86.88 408.77Q107.17 424.86 135.34 424.86Q164.09 424.86 184.54 408.77Q205 392.68 205 353Q205 314.62 184.54 297.56Q164.09 280.5 135.34 280.5Q107.17 280.5 86.88 297.56Q66.6 314.62 66.6 353Z"/><path id="glyph-45" d="M804.02 0 574.9 360.7V383.05L793.2 714H906.79L676.61 366.05L677.2 390.07L926.97 0ZM3.77 0 253.84 390.07 255.54 364.64 23.95 714H137.25L355.54 383.05L354.84 360.7L126.13 0ZM412.13 0V714H517.72V0ZM301.75 326.33V419.2H637.62V326.33Z"/><path id="glyph-46" d="M241.26 -10Q185.72 -10 134.28 -1.35Q82.84 7.3 41.07 23.89V120.16Q86.89 102.46 136.36 92.16Q185.84 81.87 235.25 82.57Q322.57 81.87 367.68 113.51Q412.79 145.15 412.79 205.95Q412.79 267.23 366.41 296.43Q320.03 325.62 227.16 326.33L130.18 327.03V415.31L225.69 414.61Q308.39 413.9 351.27 444.16Q394.15 474.41 394.15 528.57Q394.15 579.44 356.95 606.14Q319.75 632.84 250.84 633.54Q209.84 634.25 168.63 624.75Q127.43 615.25 77.95 594.54L44.93 682.46Q91.77 703.23 145.19 714.32Q198.61 725.41 256.26 725.41Q372.79 725.41 438.23 677.82Q503.67 630.23 503.67 546.52Q503.67 481.82 465.11 435.56Q426.56 389.3 357.15 377.7V372.7Q440.08 360.59 482.99 316.24Q525.9 271.89 525.9 198.48Q525.9 134.25 492.34 87.3Q458.79 40.36 395.38 15.18Q331.97 -10 241.26 -10Z"/></defs>
+</svg>

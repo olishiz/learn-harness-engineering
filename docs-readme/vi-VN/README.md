@@ -1,9 +1,9 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
-    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
-    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/vi-VN/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/vi-VN/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/vi-VN/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/vi-VN/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
   </picture>
 </h1>
 
@@ -120,10 +120,10 @@ OpenAI cũng báo cáo điều tương tự với Codex: trong một kho mã đ�
 **Khóa học này dạy bạn cách xây dựng môi trường đó.**
 
 <p align="center">
-  <a href="../../assets/readme/harness-pattern.svg">
+  <a href="../../assets/readme/vi-VN/harness-pattern.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
-      <img src="../../assets/readme/harness-pattern.png" alt="Mô hình thì thông minh, Harness giúp nó đáng tin cậy" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/vi-VN/harness-pattern-dark.svg">
+      <img src="../../assets/readme/vi-VN/harness-pattern.png" alt="Mô hình thì thông minh, Harness giúp nó đáng tin cậy" width="920">
     </picture>
   </a>
 </p>
@@ -161,10 +161,10 @@ Harness engineering là về việc xây dựng một môi trường làm việc
 Một harness có năm hệ thống con:
 
 <p align="center">
-  <a href="../../assets/readme/harness-subsystems.svg">
+  <a href="../../assets/readme/vi-VN/harness-subsystems.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
-      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering thực sự có nghĩa là gì" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/vi-VN/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/vi-VN/harness-subsystems.png" alt="Harness Engineering thực sự có nghĩa là gì" width="920">
     </picture>
   </a>
 </p>
@@ -324,10 +324,10 @@ Mỗi starter/solution của dự án khóa học là một bản sao hoàn ch�
 Khóa học được thiết kế để hoàn thành theo thứ tự. Mỗi giai đoạn xây dựng dựa trên giai đoạn trước.
 
 <p align="center">
-  <a href="../../assets/readme/harness-learning-path.svg">
+  <a href="../../assets/readme/vi-VN/harness-learning-path.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
-      <img src="../../assets/readme/harness-learning-path.png" alt="Lộ trình học tập" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/vi-VN/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/vi-VN/harness-learning-path.png" alt="Lộ trình học tập" width="920">
     </picture>
   </a>
 </p>
@@ -500,10 +500,10 @@ Mỗi giai đoạn mất khoảng một tuần nếu bạn học bán thời gia
 Một trong những ý tưởng cốt lõi trong khóa học này: **phiên của agent nên tuân theo một vòng đời có cấu trúc, không phải tự do không kiểm soát.** Đây là cách nó trông như thế này:
 
 <p align="center">
-  <a href="../../assets/readme/harness-session-lifecycle.svg">
+  <a href="../../assets/readme/vi-VN/harness-session-lifecycle.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
-      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Vòng đời phiên Agent" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/vi-VN/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/vi-VN/harness-session-lifecycle.png" alt="Vòng đời phiên Agent" width="920">
     </picture>
   </a>
 </p>

@@ -1,9 +1,9 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
-    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
-    <img src="../../assets/readme/harness-wordmark.svg" alt="Aprenda Engenharia de Harness" width="880">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/pt-BR/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/pt-BR/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/pt-BR/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/pt-BR/harness-wordmark.svg" alt="Aprenda Engenharia de Harness" width="880">
   </picture>
 </h1>
 
@@ -129,10 +129,10 @@ A OpenAI relatou a mesma coisa com o Codex: em um repositório bem estruturado c
 **Este curso ensina como construir esse ambiente.**
 
 <p align="center">
-  <a href="../../assets/readme/harness-pattern.svg">
+  <a href="../../assets/readme/pt-BR/harness-pattern.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
-      <img src="../../assets/readme/harness-pattern.png" alt="O Modelo é Inteligente, o Harness o Torna Confiável" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/pt-BR/harness-pattern-dark.svg">
+      <img src="../../assets/readme/pt-BR/harness-pattern.png" alt="O Modelo é Inteligente, o Harness o Torna Confiável" width="920">
     </picture>
   </a>
 </p>
@@ -170,10 +170,10 @@ Engenharia de harness trata de construir um ambiente de trabalho completo ao red
 Um harness possui cinco subsistemas:
 
 <p align="center">
-  <a href="../../assets/readme/harness-subsystems.svg">
+  <a href="../../assets/readme/pt-BR/harness-subsystems.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
-      <img src="../../assets/readme/harness-subsystems.png" alt="O que Realmente Significa Engenharia de Harness" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/pt-BR/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/pt-BR/harness-subsystems.png" alt="O que Realmente Significa Engenharia de Harness" width="920">
     </picture>
   </a>
 </p>
@@ -332,10 +332,10 @@ O ponto de partida/solução de cada projeto do curso é uma cópia completa des
 O curso foi projetado para ser realizado em ordem. Cada fase se baseia na anterior.
 
 <p align="center">
-  <a href="../../assets/readme/harness-learning-path.svg">
+  <a href="../../assets/readme/pt-BR/harness-learning-path.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
-      <img src="../../assets/readme/harness-learning-path.png" alt="Trilha de Aprendizado" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/pt-BR/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/pt-BR/harness-learning-path.png" alt="Trilha de Aprendizado" width="920">
     </picture>
   </a>
 </p>
@@ -509,10 +509,10 @@ Cada fase leva cerca de uma semana se você estiver estudando em meio período. 
 Uma das ideias centrais deste curso: **a sessão do agente deve seguir um ciclo de vida estruturado, e não funcionar sem regras ou organização.** Veja como isso funciona:
 
 <p align="center">
-  <a href="../../assets/readme/harness-session-lifecycle.svg">
+  <a href="../../assets/readme/pt-BR/harness-session-lifecycle.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
-      <img src="../../assets/readme/harness-session-lifecycle.png" alt="O Ciclo de Vida de uma Sessão de Agente" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/pt-BR/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/pt-BR/harness-session-lifecycle.png" alt="O Ciclo de Vida de uma Sessão de Agente" width="920">
     </picture>
   </a>
 </p>

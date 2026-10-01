@@ -1,0 +1,396 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="690" viewBox="0 0 1600 690" role="img" aria-labelledby="title desc" lang="fr-FR">
+<title id="title">Le fonctionnement du harness</title><desc id="desc">Le fonctionnement du harness</desc>
+<rect width="1600" height="690" fill="#0D1117"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#A8A4A0"/></marker></defs>
+<g fill="#EAE5DF" aria-label="Le fonctionnement du harness">
+<use href="#glyph-0" transform="translate(507.2200 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-1" transform="translate(528.5800 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-2" transform="translate(561.9400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-3" transform="translate(576.2200 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-4" transform="translate(600.6600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-5" transform="translate(625.7400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-6" transform="translate(645.3800 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-7" transform="translate(660.7000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-3" transform="translate(671.5000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-4" transform="translate(695.9400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-4" transform="translate(721.0200 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-1" transform="translate(746.1000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-8" transform="translate(769.0600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-1" transform="translate(806.9400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-4" transform="translate(829.9000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-6" transform="translate(854.9800 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-9" transform="translate(880.7000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-10" transform="translate(905.5000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-11" transform="translate(940.9800 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-12" transform="translate(966.0600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-13" transform="translate(988.9400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-4" transform="translate(1005.8600 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-1" transform="translate(1030.9400 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-14" transform="translate(1053.9000 74.0000) scale(0.040000 -0.040000)"/>
+<use href="#glyph-14" transform="translate(1073.3400 74.0000) scale(0.040000 -0.040000)"/>
+</g>
+<rect x="380" y="146" width="1140" height="284" fill="#0D1117" stroke="#E07A64" stroke-width="1.8"/>
+<g transform="translate(175 233) scale(1)" fill="none" stroke="#E07A64" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="M-26-35H12L28-19V35H-26ZM12-35V-19H28M-15-10H16M-15 1H16M-15 12H7"/></g>
+<g fill="#EAE5DF" aria-label="Donner une tâche">
+<use href="#glyph-15" transform="translate(54.7680 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-3" transform="translate(75.2360 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-4" transform="translate(92.3440 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-4" transform="translate(109.9000 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-1" transform="translate(127.4560 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-13" transform="translate(143.5280 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-10" transform="translate(162.6520 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-4" transform="translate(180.2080 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-1" transform="translate(197.7640 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-6" transform="translate(221.1160 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-16" transform="translate(231.8400 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-5" transform="translate(247.8560 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-11" transform="translate(261.6040 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-1" transform="translate(279.1600 322.0000) scale(0.028000 -0.028000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Vous">
+<use href="#glyph-17" transform="translate(149.4910 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-3" transform="translate(162.5810 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-10" transform="translate(176.0230 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-14" transform="translate(189.8170 384.0000) scale(0.022000 -0.022000)"/>
+</g>
+<g transform="translate(570 233) scale(1)" fill="none" stroke="#E07A64" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="M-28-29H8L23-14V34H-28ZM8-29V-14H23M-16-4H11M-16 8H11M-16 20H4M-14-39H33V23"/></g>
+<g fill="#EAE5DF" aria-label="Lire les fichiers du">
+<use href="#glyph-0" transform="translate(461.1990 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-7" transform="translate(474.6558 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-13" transform="translate(481.4598 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-1" transform="translate(491.6154 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-18" transform="translate(512.6322 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-1" transform="translate(519.4362 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-14" transform="translate(533.9010 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-19" transform="translate(552.7002 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-5" transform="translate(568.4754 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-11" transform="translate(580.8486 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-7" transform="translate(596.6490 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-1" transform="translate(603.4530 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-13" transform="translate(617.9178 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-14" transform="translate(628.5774 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-9" transform="translate(647.3766 304.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-10" transform="translate(663.0006 304.5000) scale(0.025200 -0.025200)"/>
+</g>
+<g fill="#EAE5DF" aria-label="harness">
+<use href="#glyph-11" transform="translate(522.1830 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-12" transform="translate(537.9834 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-13" transform="translate(552.3978 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-4" transform="translate(563.0574 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-1" transform="translate(578.8578 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-14" transform="translate(593.3226 339.5000) scale(0.025200 -0.025200)"/>
+<use href="#glyph-14" transform="translate(605.5698 339.5000) scale(0.025200 -0.025200)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Instructions et état">
+<use href="#glyph-20" transform="translate(469.2730 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-4" transform="translate(477.0610 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-14" transform="translate(490.8550 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-6" transform="translate(501.5470 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-13" transform="translate(509.9730 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-10" transform="translate(519.2790 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-5" transform="translate(533.0730 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-6" transform="translate(543.8750 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-7" transform="translate(552.3010 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-3" transform="translate(558.2410 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-4" transform="translate(571.6830 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-14" transform="translate(585.4770 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-1" transform="translate(601.8890 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-6" transform="translate(614.5170 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-21" transform="translate(628.6630 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-6" transform="translate(641.2910 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-12" transform="translate(649.7170 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-6" transform="translate(662.3010 384.0000) scale(0.022000 -0.022000)"/>
+</g>
+<g transform="translate(965 233) scale(1)" fill="none" stroke="#E07A64" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><rect x="-31" y="-27" width="62" height="54" rx="3"/><path d="M-12-8L-21 0L-12 8M12-8L21 0L12 8M5-14L-5 14M-15-39V-27M0-39V-27M15-39V-27M-15 27V39M0 27V39M15 27V39M-43-15H-31M-43 0H-31M-43 15H-31M31-15H43M31 0H43M31 15H43"/></g>
+<g fill="#EAE5DF" aria-label="L’agent exécute">
+<use href="#glyph-0" transform="translate(861.9180 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-22" transform="translate(874.6300 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-12" transform="translate(878.7460 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-23" transform="translate(894.7620 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-1" transform="translate(912.1220 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-4" transform="translate(928.1940 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-6" transform="translate(945.7500 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-1" transform="translate(963.7540 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-24" transform="translate(979.2660 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-21" transform="translate(993.9100 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-5" transform="translate(1009.9820 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-10" transform="translate(1023.7300 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-6" transform="translate(1041.2860 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-1" transform="translate(1052.0100 322.0000) scale(0.028000 -0.028000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Une fonctionnalité à la fois">
+<use href="#glyph-25" transform="translate(830.7050 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-4" transform="translate(846.2030 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(859.3700 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-2" transform="translate(876.8840 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-3" transform="translate(884.3810 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-4" transform="translate(897.2120 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-5" transform="translate(910.3790 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-6" transform="translate(920.6900 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-7" transform="translate(928.7330 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-3" transform="translate(934.4030 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-4" transform="translate(947.2340 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-4" transform="translate(960.4010 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-12" transform="translate(973.5680 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-18" transform="translate(985.5800 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-7" transform="translate(991.2500 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-6" transform="translate(996.9200 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-21" transform="translate(1004.9630 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-26" transform="translate(1022.4770 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-18" transform="translate(1039.9490 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-12" transform="translate(1045.6190 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-2" transform="translate(1063.0910 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-3" transform="translate(1070.5880 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-7" transform="translate(1083.4190 384.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-14" transform="translate(1089.0890 384.0000) scale(0.021000 -0.021000)"/>
+</g>
+<g transform="translate(1375 233) scale(1)" fill="none" stroke="#E07A64" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="M0-38L30-25V3C30 21 15 33 0 41C-15 33-30 21-30 3V-25ZM-13 0L-3 10L17-12"/></g>
+<g fill="#EAE5DF" aria-label="Vérification réussie">
+<use href="#glyph-17" transform="translate(1247.2920 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-21" transform="translate(1263.9520 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-13" transform="translate(1280.0240 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-7" transform="translate(1291.8680 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-19" transform="translate(1299.4280 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-5" transform="translate(1316.9560 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-12" transform="translate(1330.7040 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-6" transform="translate(1346.7200 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-7" transform="translate(1357.4440 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-3" transform="translate(1365.0040 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-4" transform="translate(1382.1120 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-13" transform="translate(1406.9480 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-21" transform="translate(1418.2320 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-10" transform="translate(1434.3040 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-14" transform="translate(1451.8600 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-14" transform="translate(1465.4680 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-7" transform="translate(1479.0760 322.0000) scale(0.028000 -0.028000)"/>
+<use href="#glyph-1" transform="translate(1486.6360 322.0000) scale(0.028000 -0.028000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="L’agent s’arrête">
+<use href="#glyph-0" transform="translate(1295.8110 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-22" transform="translate(1305.7990 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-12" transform="translate(1309.0330 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-23" transform="translate(1321.6170 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-1" transform="translate(1335.2570 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-4" transform="translate(1347.8850 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-6" transform="translate(1361.6790 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-14" transform="translate(1375.8250 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-22" transform="translate(1386.5170 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-12" transform="translate(1389.7510 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-13" transform="translate(1402.3350 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-13" transform="translate(1411.6410 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-27" transform="translate(1420.5070 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-6" transform="translate(1433.1350 384.0000) scale(0.022000 -0.022000)"/>
+<use href="#glyph-1" transform="translate(1441.5610 384.0000) scale(0.022000 -0.022000)"/>
+</g>
+<path d="M236 233H499" fill="none" stroke="#A8A4A0" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M636 233H894" fill="none" stroke="#A8A4A0" stroke-width="1.8" marker-end="url(#arrow)"/>
+<path d="M1031 233H1304" fill="none" stroke="#A8A4A0" stroke-width="1.8" marker-end="url(#arrow)"/>
+<rect x="380" y="430" width="1140" height="42" fill="#B8503C" stroke="none" stroke-width="1.8"/>
+<g fill="#FFFFFF" aria-label="Le harness encadre chaque étape">
+<use href="#glyph-0" transform="translate(757.5440 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-1" transform="translate(770.3600 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-11" transform="translate(790.3760 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-12" transform="translate(805.4240 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-13" transform="translate(819.1520 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-4" transform="translate(829.3040 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-1" transform="translate(844.3520 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-14" transform="translate(858.1280 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-14" transform="translate(869.7920 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-1" transform="translate(887.6960 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-4" transform="translate(901.4720 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-5" transform="translate(916.5200 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-12" transform="translate(928.3040 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-9" transform="translate(942.0320 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-13" transform="translate(956.9120 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-1" transform="translate(966.5840 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-5" transform="translate(986.6000 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-11" transform="translate(998.3840 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-12" transform="translate(1013.4320 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-28" transform="translate(1027.1600 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-10" transform="translate(1042.0400 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-1" transform="translate(1057.0880 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-21" transform="translate(1077.1040 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-6" transform="translate(1090.8800 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-12" transform="translate(1100.0720 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-29" transform="translate(1113.8000 459.0000) scale(0.024000 -0.024000)"/>
+<use href="#glyph-1" transform="translate(1128.6800 459.0000) scale(0.024000 -0.024000)"/>
+</g>
+<path d="M950 474V506" fill="none" stroke="#A8A4A0" stroke-width="1.8" marker-end="url(#arrow)"/>
+<rect x="80" y="525" width="1440" height="125" fill="#1B2027" stroke="none" stroke-width="1.8"/>
+<g fill="#EAE5DF" aria-label="Instructions">
+<use href="#glyph-20" transform="translate(151.9000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-4" transform="translate(160.7500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-14" transform="translate(176.4250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-6" transform="translate(188.5750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-13" transform="translate(198.1500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-10" transform="translate(208.7250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-5" transform="translate(224.4000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-6" transform="translate(236.6750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-7" transform="translate(246.2500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-3" transform="translate(253.0000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-4" transform="translate(268.2750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-14" transform="translate(283.9500 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Quoi faire et dans quel">
+<use href="#glyph-30" transform="translate(121.3635 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-10" transform="translate(136.1811 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-3" transform="translate(148.0314 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-7" transform="translate(159.5793 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-2" transform="translate(169.5963 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-12" transform="translate(176.3436 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-7" transform="translate(187.1544 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-13" transform="translate(192.2575 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-1" transform="translate(199.8741 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-1" transform="translate(215.6368 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-6" transform="translate(226.4853 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-9" transform="translate(238.6380 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-12" transform="translate(250.3560 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-4" transform="translate(261.1668 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-14" transform="translate(273.0172 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-28" transform="translate(287.1166 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-10" transform="translate(298.8346 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-1" transform="translate(310.6848 599.8750) scale(0.018900 -0.018900)"/>
+<use href="#glyph-18" transform="translate(321.5335 599.8750) scale(0.018900 -0.018900)"/>
+</g>
+<g fill="#A8A4A0" aria-label="ordre">
+<use href="#glyph-3" transform="translate(199.3261 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-13" transform="translate(210.8740 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-9" transform="translate(218.4907 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-13" transform="translate(230.2087 626.1250) scale(0.018900 -0.018900)"/>
+<use href="#glyph-1" transform="translate(237.8254 626.1250) scale(0.018900 -0.018900)"/>
+</g>
+<g fill="#EAE5DF" aria-label="Périmètre">
+<use href="#glyph-31" transform="translate(452.5250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-21" transform="translate(467.7750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-13" transform="translate(482.1250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-7" transform="translate(492.7000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-8" transform="translate(499.4500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-32" transform="translate(523.1250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-6" transform="translate(537.4750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-13" transform="translate(547.0500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-1" transform="translate(557.1250 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Une fonctionnalité à la fois">
+<use href="#glyph-25" transform="translate(390.4950 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-4" transform="translate(404.5170 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-1" transform="translate(416.4300 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-2" transform="translate(432.2760 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-3" transform="translate(439.0590 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-4" transform="translate(450.6680 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-5" transform="translate(462.5810 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-6" transform="translate(471.9100 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-7" transform="translate(479.1870 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-3" transform="translate(484.3170 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-4" transform="translate(495.9260 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-4" transform="translate(507.8390 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-12" transform="translate(519.7520 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-18" transform="translate(530.6200 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-7" transform="translate(535.7500 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-6" transform="translate(540.8800 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-21" transform="translate(548.1570 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-26" transform="translate(564.0030 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-18" transform="translate(579.8110 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-12" transform="translate(584.9410 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-2" transform="translate(600.7490 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-3" transform="translate(607.5320 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-7" transform="translate(619.1410 613.0000) scale(0.019000 -0.019000)"/>
+<use href="#glyph-14" transform="translate(624.2710 613.0000) scale(0.019000 -0.019000)"/>
+</g>
+<path d="M368 543V629" fill="none" stroke="#37404B" stroke-width="1"/>
+<g fill="#EAE5DF" aria-label="État">
+<use href="#glyph-33" transform="translate(776.3125 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-6" transform="translate(790.2375 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-12" transform="translate(799.8125 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-6" transform="translate(814.1125 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Avancement et historique">
+<use href="#glyph-34" transform="translate(676.5500 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-35" transform="translate(689.6500 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-12" transform="translate(700.1900 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-4" transform="translate(711.6300 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-5" transform="translate(724.1700 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-1" transform="translate(733.9900 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-8" transform="translate(745.4700 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-1" transform="translate(764.4100 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-4" transform="translate(775.8900 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-6" transform="translate(788.4300 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-1" transform="translate(801.2900 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-6" transform="translate(812.7700 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-11" transform="translate(825.6300 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-7" transform="translate(838.1700 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-14" transform="translate(843.5700 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-6" transform="translate(853.2900 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-3" transform="translate(860.9500 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-13" transform="translate(873.1700 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-7" transform="translate(881.6300 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-28" transform="translate(887.0300 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-10" transform="translate(899.4300 613.0000) scale(0.020000 -0.020000)"/>
+<use href="#glyph-1" transform="translate(911.9700 613.0000) scale(0.020000 -0.020000)"/>
+</g>
+<path d="M656 543V629" fill="none" stroke="#37404B" stroke-width="1"/>
+<g fill="#EAE5DF" aria-label="Vérification">
+<use href="#glyph-17" transform="translate(1019.9750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-21" transform="translate(1034.8500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-13" transform="translate(1049.2000 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-7" transform="translate(1059.7750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-19" transform="translate(1066.5250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-5" transform="translate(1082.1750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-12" transform="translate(1094.4500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-6" transform="translate(1108.7500 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-7" transform="translate(1118.3250 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-3" transform="translate(1125.0750 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-4" transform="translate(1140.3500 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Tests · lint · types">
+<use href="#glyph-36" transform="translate(1002.4670 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(1012.7990 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-14" transform="translate(1024.8530 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-6" transform="translate(1035.0590 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-14" transform="translate(1043.1020 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-37" transform="translate(1058.7680 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-18" transform="translate(1069.9400 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-7" transform="translate(1075.6100 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-4" transform="translate(1081.2800 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-6" transform="translate(1094.4470 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-37" transform="translate(1107.9500 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-6" transform="translate(1119.1220 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-38" transform="translate(1127.1650 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-29" transform="translate(1138.2530 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(1151.2730 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-14" transform="translate(1163.3270 613.0000) scale(0.021000 -0.021000)"/>
+</g>
+<path d="M944 543V629" fill="none" stroke="#37404B" stroke-width="1"/>
+<g fill="#EAE5DF" aria-label="Cycle de vie">
+<use href="#glyph-39" transform="translate(1306.2125 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-38" transform="translate(1322.0875 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-5" transform="translate(1335.2875 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-18" transform="translate(1347.5625 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-1" transform="translate(1354.3125 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-9" transform="translate(1375.1625 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-1" transform="translate(1390.6625 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-35" transform="translate(1411.5125 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-7" transform="translate(1424.6875 562.0000) scale(0.025000 -0.025000)"/>
+<use href="#glyph-1" transform="translate(1431.4375 562.0000) scale(0.025000 -0.025000)"/>
+</g>
+<g fill="#A8A4A0" aria-label="Démarrage et relais">
+<use href="#glyph-15" transform="translate(1276.5860 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-21" transform="translate(1291.9370 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-8" transform="translate(1303.9910 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-12" transform="translate(1323.8780 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-13" transform="translate(1335.8900 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-13" transform="translate(1344.7730 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-12" transform="translate(1353.2360 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-23" transform="translate(1365.2480 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(1378.2680 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(1395.7820 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-6" transform="translate(1407.8360 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-13" transform="translate(1421.3390 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-1" transform="translate(1429.8020 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-18" transform="translate(1441.8560 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-12" transform="translate(1447.5260 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-7" transform="translate(1459.5380 613.0000) scale(0.021000 -0.021000)"/>
+<use href="#glyph-14" transform="translate(1465.2080 613.0000) scale(0.021000 -0.021000)"/>
+</g>
+<path d="M1232 543V629" fill="none" stroke="#37404B" stroke-width="1"/>
+<defs><path id="glyph-0" d="M93.4 0V714H201.94V93.68H507.28V0Z"/><path id="glyph-1" d="M296.14 549.06Q367.3 549.06 418.42 519.42Q469.54 489.78 496.94 435.01Q524.34 380.24 524.34 305.08V246.32H162.02Q164.02 163.96 206 119.97Q247.98 75.98 324.02 75.98Q375.2 75.98 415.33 85.57Q455.46 95.16 498.18 113.88V26.08Q457.36 7.54 416.01 -1.23Q374.66 -10 316.6 -10Q239.16 -10 179.4 20.73Q119.64 51.46 86.15 113.23Q52.66 175 52.66 265.62Q52.66 355.78 83.06 418.96Q113.46 482.14 168.4 515.6Q223.34 549.06 296.14 549.06ZM296.58 466.62Q238.8 466.62 204.82 429.63Q170.84 392.64 164.38 325.32H417.76Q417.76 367.54 404.57 398.93Q391.38 430.32 364.77 448.47Q338.16 466.62 296.58 466.62Z"/><path id="glyph-2" d="M346.16 457.97H212.93V0H106.93V457.97H16.48V508.11L106.93 541.07V574.72Q106.93 644.02 128.32 685.69Q149.7 727.36 190.03 746.18Q230.36 765 286.54 765Q322.08 765 351.24 759.06Q380.39 753.11 400.28 745.52L372.85 664.72Q356.56 669.72 335.85 674.57Q315.15 679.43 291.97 679.43Q251.8 679.43 232.37 653.02Q212.93 626.62 212.93 573.66V538.95H346.16Z"/><path id="glyph-3" d="M558.74 270.62Q558.74 203.26 540.97 151.31Q523.2 99.36 490.07 63.27Q456.94 27.18 409.63 8.59Q362.32 -10 303.88 -10Q249.62 -10 203.63 8.59Q157.64 27.18 124.01 63.27Q90.38 99.36 71.52 151.31Q52.66 203.26 52.66 270.62Q52.66 360.16 83.29 422.02Q113.92 483.88 171 516.47Q228.08 549.06 306.88 549.06Q381.14 549.06 437.72 516.47Q494.3 483.88 526.52 422.02Q558.74 360.16 558.74 270.62ZM162.2 270.62Q162.2 210.5 177.17 166.43Q192.14 122.36 224.17 98.89Q256.2 75.42 305.88 75.42Q355.56 75.42 387.41 98.89Q419.26 122.36 434.23 166.43Q449.2 210.5 449.2 270.62Q449.2 331.56 433.82 374.22Q418.44 416.88 386.91 439.85Q355.38 462.82 304.88 462.82Q229.9 462.82 196.05 412.06Q162.2 361.3 162.2 270.62Z"/><path id="glyph-4" d="M355.42 549.06Q449.62 549.06 499.52 502.3Q549.42 455.54 549.42 350.96V0H443.7V335.62Q443.7 398.82 417.01 430.1Q390.31 461.38 333.24 461.38Q250.54 461.38 219.33 412.45Q188.12 363.51 188.12 271.52V0H81.58V539.06H165.66L181.06 466.06H186.42Q204.42 493.7 230.56 512.2Q256.7 530.7 288.61 539.88Q320.52 549.06 355.42 549.06Z"/><path id="glyph-5" d="M303.24 -10Q229.9 -10 173.23 19.18Q116.56 48.36 84.61 109.72Q52.66 171.08 52.66 266.62Q52.66 365.98 86.56 428.25Q120.46 490.52 178.58 519.79Q236.7 549.06 310.86 549.06Q353.66 549.06 393.01 540.11Q432.36 531.16 459.06 517.72L426.84 432.48Q401.04 442.56 369.49 450.74Q337.94 458.92 309.22 458.92Q259.72 458.92 227.06 437.36Q194.4 415.8 178.3 373.41Q162.2 331.02 162.2 267.62Q162.2 206.5 178.39 164.38Q194.58 122.26 226.42 100.97Q258.26 79.68 305.3 79.68Q348.76 79.68 383.7 89.4Q418.64 99.12 448.26 113.92V22.6Q420 7.16 385.61 -1.42Q351.22 -10 303.24 -10Z"/><path id="glyph-6" d="M276.98 75.87Q298.46 75.87 320.05 79.81Q341.64 83.75 357.59 88.64V8.66Q340.64 0.77 311.84 -4.61Q283.03 -10 253.72 -10Q209.66 -10 173.27 4.94Q136.89 19.89 114.74 56.92Q92.59 93.95 92.59 160.43V457.97H18.07V506.16L96.54 545.59L133.9 659.89H198.59V538.95H353V457.97H198.59V161.84Q198.59 118.15 220.47 97.01Q242.34 75.87 276.98 75.87Z"/><path id="glyph-7" d="M188.3 539.06V0H81.76V539.06ZM135.94 744.02Q159.72 744.02 177.92 729.89Q196.12 715.76 196.12 682.8Q196.12 651.02 177.92 636.39Q159.72 621.76 135.94 621.76Q110.34 621.76 92.73 636.39Q75.12 651.02 75.12 682.8Q75.12 715.76 92.73 729.89Q110.34 744.02 135.94 744.02Z"/><path id="glyph-8" d="M685.24 549.06Q776.96 549.06 822.86 502.29Q868.76 455.52 868.76 350.98V0H763.04V337.08Q763.04 400.08 738.25 430.73Q713.46 461.38 661.6 461.38Q589.36 461.38 558.65 417.19Q527.94 373 527.94 289.16V0H422.22V337.08Q422.22 378.72 411.12 406.5Q400.02 434.28 377.82 447.83Q355.62 461.38 320.5 461.38Q270.28 461.38 241.53 439.33Q212.78 417.28 200.45 375.18Q188.12 333.08 188.12 271.52V0H81.58V539.06H165.72L181.42 466.96H186.42Q203.06 494.06 227.29 512.38Q251.52 530.7 281.88 539.88Q312.24 549.06 345.86 549.06Q407.68 549.06 448.82 527.33Q489.96 505.6 510.04 461.4H515.22Q542.04 505.78 587.64 527.42Q633.24 549.06 685.24 549.06Z"/><path id="glyph-9" d="M268.34 -10Q171.04 -10 111.85 60.13Q52.66 130.26 52.66 268.62Q52.66 407.34 112.44 478.2Q172.22 549.06 270.42 549.06Q311.52 549.06 341.8 538.56Q372.08 528.06 394.54 509.97Q417 491.88 432.64 469.7H438.28Q436.74 484.14 434.24 511.71Q431.74 539.28 431.74 557.88V760H538.46V0H454.32L436.28 71.64H431.74Q416.28 48.82 393.82 30.41Q371.36 12 340.49 1Q309.62 -10 268.34 -10ZM293.86 77.04Q371.84 77.04 403.55 120.39Q435.26 163.74 435.44 251.62V267.44Q435.44 361.14 405.05 411.31Q374.66 461.48 292.68 461.48Q228.34 461.48 195.18 409.21Q162.02 356.94 162.02 266.44Q162.02 175.3 195.18 126.17Q228.34 77.04 293.86 77.04Z"/><path id="glyph-10" d="M545.78 539.06V0H460.82L445.84 70.64H440.58Q423.58 42.64 396.67 24.73Q369.76 6.82 337.85 -1.59Q305.94 -10 271.12 -10Q208.92 -10 165.33 10.59Q121.74 31.18 99.11 74.54Q76.48 117.9 76.48 186.44V539.06H183.84V201.8Q183.84 139.6 210.41 108.32Q236.98 77.04 293.3 77.04Q348.98 77.04 380.87 99Q412.76 120.96 426 163.47Q439.24 205.98 439.24 266.72V539.06Z"/><path id="glyph-11" d="M188.12 557.7Q188.12 531.14 186.35 507.18Q184.58 483.22 182.58 466.14H189.12Q206.3 494.32 231.67 512.14Q257.04 529.96 288.32 539.1Q319.6 548.24 353.42 548.24Q416.62 548.24 460.21 527.65Q503.8 507.06 526.61 463.79Q549.42 420.52 549.42 350.98V0H443.52V335.62Q443.52 398.82 416.86 430.1Q390.2 461.38 333.24 461.38Q277.92 461.38 246.44 439.33Q214.96 417.28 201.54 374.86Q188.12 332.44 188.12 270.88V0H81.58V760H188.12Z"/><path id="glyph-12" d="M296.64 548.24Q395.9 548.24 445.06 503.62Q494.22 459 494.22 364.64V0H417.98L397.38 75.46H393.38Q370.38 46.46 345.88 27.14Q321.38 7.82 289.79 -1.09Q258.2 -10 213.02 -10Q165.02 -10 126.61 7.45Q88.2 24.9 66.2 61.12Q44.2 97.34 44.2 152.6Q44.2 234.22 106.93 277.63Q169.66 321.04 298.14 325.22L389.32 328.22V355.9Q389.32 417.5 362.3 441.61Q335.28 465.72 286.24 465.72Q245.86 465.72 207.5 453.4Q169.14 441.08 134.7 424.72L102.66 501.52Q140 521.6 190.25 534.92Q240.5 548.24 296.64 548.24ZM315.98 256.48Q224.62 252.84 189.18 226.91Q153.74 200.98 153.74 153.76Q153.74 111.82 178.99 92.17Q204.24 72.52 244 72.52Q306.06 72.52 347.37 107.23Q388.68 141.94 388.68 212.2V259.3Z"/><path id="glyph-13" d="M346.7 549.06Q361.88 549.06 379.29 547.47Q396.7 545.88 408.8 543.06L396.72 444.24Q384.26 447.06 368.94 449.06Q353.62 451.06 337.46 451.06Q308.8 451.06 282.15 439.77Q255.5 428.48 234.13 407.23Q212.76 385.98 200.44 354.96Q188.12 323.94 188.12 283.48V0H81.58V539.06H166.18L179.78 442.86H184.68Q201.32 472.32 225.32 496.46Q249.32 520.6 280.05 534.83Q310.78 549.06 346.7 549.06Z"/><path id="glyph-14" d="M441.74 151.96Q441.74 99.96 416.19 63.88Q390.64 27.8 342.01 8.9Q293.38 -10 224.14 -10Q167.6 -10 126.02 -1.45Q84.44 7.1 50.38 23.46V116.6Q86.16 99.16 133.19 86.2Q180.22 73.24 224.34 73.24Q285.04 73.24 312.34 92.13Q339.64 111.02 339.64 143.06Q339.64 161.62 328.82 176.36Q318 191.1 290.04 206.2Q262.08 221.3 210.16 241.12Q159.24 260.94 123.41 281.39Q87.58 301.84 68.48 330.47Q49.38 359.1 49.38 403.28Q49.38 473.62 106.14 511.34Q162.9 549.06 255.24 549.06Q305.32 549.06 348.81 539.11Q392.3 529.16 432 511.08L398.04 431.54Q362.78 446.44 324.88 456.62Q286.98 466.8 250.5 466.8Q202.26 466.8 176.64 451.37Q151.02 435.94 151.02 409.36Q151.02 389.52 163.21 375.37Q175.4 361.22 204.73 347.53Q234.06 333.84 284.16 314.02Q334.62 295.02 369.81 274.57Q405 254.12 423.37 225.08Q441.74 196.04 441.74 151.96Z"/><path id="glyph-15" d="M671.52 365.44Q671.52 244.72 626.66 163.36Q581.8 82 498.62 41Q415.44 0 298.16 0H93.4V714H318.26Q427.52 714 506.7 674.09Q585.88 634.18 628.7 556.95Q671.52 479.72 671.52 365.44ZM557.62 361.72Q557.62 451.32 528.64 509.08Q499.66 566.84 443.84 594.81Q388.02 622.78 307.96 622.78H201.94V91.58H289.22Q423.96 91.58 490.79 159.39Q557.62 227.2 557.62 361.72Z"/><path id="glyph-16" d="M296.64 548.24Q395.9 548.24 445.06 503.62Q494.22 459 494.22 364.64V0H417.98L397.38 75.46H393.38Q370.38 46.46 345.88 27.14Q321.38 7.82 289.79 -1.09Q258.2 -10 213.02 -10Q165.02 -10 126.61 7.45Q88.2 24.9 66.2 61.12Q44.2 97.34 44.2 152.6Q44.2 234.22 106.93 277.63Q169.66 321.04 298.14 325.22L389.32 328.22V355.9Q389.32 417.5 362.3 441.61Q335.28 465.72 286.24 465.72Q245.86 465.72 207.5 453.4Q169.14 441.08 134.7 424.72L102.66 501.52Q140 521.6 190.25 534.92Q240.5 548.24 296.64 548.24ZM315.98 256.48Q224.62 252.84 189.18 226.91Q153.74 200.98 153.74 153.76Q153.74 111.82 178.99 92.17Q204.24 72.52 244 72.52Q306.06 72.52 347.37 107.23Q388.68 141.94 388.68 212.2V259.3ZM340.12 766Q352.84 743.82 375.34 716.32Q397.84 688.82 422.16 662.5Q446.48 636.18 465.12 617.54V606H391.96Q365.96 621.82 338.86 644.33Q311.76 666.84 284.94 692.94Q258.12 666.84 232.11 644.92Q206.1 623 180.1 606H108.22V617.54Q127.22 637.18 150.72 663.09Q174.22 689 196.31 716.41Q218.4 743.82 231.76 766Z"/><path id="glyph-17" d="M614.75 714 363.29 0H251.16L0 714H111.41L264.44 265.74Q273.38 242.05 281.23 214.31Q289.08 186.57 296.02 159.71Q302.97 132.85 307.38 109.44Q311.79 132.85 318.58 160.07Q325.38 187.28 333.73 215.02Q342.08 242.75 350.02 267.15L502.64 714Z"/><path id="glyph-18" d="M188.12 0H81.58V760H188.12Z"/><path id="glyph-19" d="M346.16 457.97H212.93V0H106.93V457.97H16.48V508.11L106.93 541.07V574.72Q106.93 644.02 128.32 685.69Q149.7 727.36 190.03 746.18Q230.36 765 286.54 765Q322.08 765 351.24 759.06Q380.39 753.11 400.28 745.52L372.85 664.72Q356.56 669.72 335.85 674.57Q315.15 679.43 291.97 679.43Q251.8 679.43 232.37 653.02Q212.93 626.62 212.93 573.66V538.95H346.16ZM544.72 539.06V0H438.18V539.06ZM492.36 744.02Q516.14 744.02 534.34 729.89Q552.54 715.76 552.54 682.8Q552.54 651.02 534.34 636.39Q516.14 621.76 492.36 621.76Q466.76 621.76 449.15 636.39Q431.54 651.02 431.54 682.8Q431.54 715.76 449.15 729.89Q466.76 744.02 492.36 744.02Z"/><path id="glyph-20" d="M315.41 0H37.64V62.03L122.52 87.23V626.07L37.64 651.97V714H315.41V651.97L230.52 626.07V87.23L315.41 62.03Z"/><path id="glyph-21" d="M296.14 549.06Q367.3 549.06 418.42 519.42Q469.54 489.78 496.94 435.01Q524.34 380.24 524.34 305.08V246.32H162.02Q164.02 163.96 206 119.97Q247.98 75.98 324.02 75.98Q375.2 75.98 415.33 85.57Q455.46 95.16 498.18 113.88V26.08Q457.36 7.54 416.01 -1.23Q374.66 -10 316.6 -10Q239.16 -10 179.4 20.73Q119.64 51.46 86.15 113.23Q52.66 175 52.66 265.62Q52.66 355.78 83.06 418.96Q113.46 482.14 168.4 515.6Q223.34 549.06 296.14 549.06ZM296.58 466.62Q238.8 466.62 204.82 429.63Q170.84 392.64 164.38 325.32H417.76Q417.76 367.54 404.57 398.93Q391.38 430.32 364.77 448.47Q338.16 466.62 296.58 466.62ZM453.7 756Q443.08 742 424.28 721.91Q405.48 701.82 383.09 680.32Q360.7 658.82 338.76 639.32Q316.82 619.82 298.46 606H228.04V618.36Q243.4 637.36 262.07 663.27Q280.74 689.18 299 716.59Q317.26 744 329.16 766H453.7Z"/><path id="glyph-22" d="M175.39 703.03Q166.39 668.11 152.39 627.2Q138.39 586.3 122.04 545.8Q105.69 505.3 89.39 469H12Q19 497.59 26.42 529.59Q33.84 561.59 40.27 594.09Q46.7 626.59 52.2 657.3Q57.7 688 61.7 714H168.39Z"/><path id="glyph-23" d="M269.24 549.06Q323.14 549.06 364.38 528.61Q405.62 508.16 434.18 468.6H439L451.36 539.06H538.46V-7.56Q538.46 -83.92 511.38 -135.69Q484.3 -187.46 429.05 -213.73Q373.8 -240 288.56 -240Q228.94 -240 179.99 -231.77Q131.04 -223.54 91.42 -206.36V-111.32Q131.58 -131.5 181.5 -142.41Q231.42 -153.32 290.68 -153.32Q357.7 -153.32 395.22 -116.33Q432.74 -79.34 432.74 -14.74V4.28Q432.74 16.46 433.83 38.15Q434.92 59.84 436.28 70.82H431.92Q405.54 31.26 365.21 10.63Q324.88 -10 269.52 -10Q168.4 -10 110.53 63Q52.66 136 52.66 268.62Q52.66 398.78 110.71 473.92Q168.76 549.06 269.24 549.06ZM292.04 461.74Q250.46 461.74 221.39 439.18Q192.32 416.62 177.26 373.23Q162.2 329.84 162.2 267.26Q162.2 173.12 195.73 124.4Q229.26 75.68 294.22 75.68Q331.98 75.68 358.64 85.64Q385.3 95.6 402.59 116.66Q419.88 137.72 428.07 170.38Q436.26 203.04 436.26 247.8V269.16Q436.26 336.76 421.38 379.15Q406.5 421.54 374.47 441.64Q342.44 461.74 292.04 461.74Z"/><path id="glyph-24" d="M205.51 275.48 23.16 538.95H143.52L272.08 345.21L400.23 538.95H519.88L336.95 275.48L529.29 0H408.93L272.08 206.03L133.82 0H14.16Z"/><path id="glyph-25" d="M649.15 252Q649.15 178 618.41 118.5Q587.67 59 524.99 24.5Q462.31 -10 365.84 -10Q230.18 -10 159.35 62.5Q88.52 135 88.52 254V714H196.52V258.67Q196.52 171.38 239.93 126.92Q283.33 82.46 370.54 82.46Q431.11 82.46 468.81 104.04Q506.51 125.62 524.18 165.5Q541.85 205.38 541.85 259.67V714H649.15Z"/><path id="glyph-26" d="M296.64 548.24Q395.9 548.24 445.06 503.62Q494.22 459 494.22 364.64V0H417.98L397.38 75.46H393.38Q370.38 46.46 345.88 27.14Q321.38 7.82 289.79 -1.09Q258.2 -10 213.02 -10Q165.02 -10 126.61 7.45Q88.2 24.9 66.2 61.12Q44.2 97.34 44.2 152.6Q44.2 234.22 106.93 277.63Q169.66 321.04 298.14 325.22L389.32 328.22V355.9Q389.32 417.5 362.3 441.61Q335.28 465.72 286.24 465.72Q245.86 465.72 207.5 453.4Q169.14 441.08 134.7 424.72L102.66 501.52Q140 521.6 190.25 534.92Q240.5 548.24 296.64 548.24ZM315.98 256.48Q224.62 252.84 189.18 226.91Q153.74 200.98 153.74 153.76Q153.74 111.82 178.99 92.17Q204.24 72.52 244 72.52Q306.06 72.52 347.37 107.23Q388.68 141.94 388.68 212.2V259.3ZM273.46 766Q285.54 744 303.3 716.59Q321.06 689.18 340.55 663.27Q360.04 637.36 375.22 618.36V606H303.98Q286.44 619.82 264.09 639.32Q241.74 658.82 219.44 680.32Q197.14 701.82 178.66 721.91Q160.18 742 149.56 756V766Z"/><path id="glyph-27" d="M296.14 549.06Q367.3 549.06 418.42 519.42Q469.54 489.78 496.94 435.01Q524.34 380.24 524.34 305.08V246.32H162.02Q164.02 163.96 206 119.97Q247.98 75.98 324.02 75.98Q375.2 75.98 415.33 85.57Q455.46 95.16 498.18 113.88V26.08Q457.36 7.54 416.01 -1.23Q374.66 -10 316.6 -10Q239.16 -10 179.4 20.73Q119.64 51.46 86.15 113.23Q52.66 175 52.66 265.62Q52.66 355.78 83.06 418.96Q113.46 482.14 168.4 515.6Q223.34 549.06 296.14 549.06ZM296.58 466.62Q238.8 466.62 204.82 429.63Q170.84 392.64 164.38 325.32H417.76Q417.76 367.54 404.57 398.93Q391.38 430.32 364.77 448.47Q338.16 466.62 296.58 466.62ZM342.86 766Q355.58 743.82 378.08 716.32Q400.58 688.82 424.9 662.5Q449.22 636.18 467.86 617.54V606H394.7Q368.7 621.82 341.6 644.33Q314.5 666.84 287.68 692.94Q260.86 666.84 234.85 644.92Q208.84 623 182.84 606H110.96V617.54Q129.96 637.18 153.46 663.09Q176.96 689 199.05 716.41Q221.14 743.82 234.5 766Z"/><path id="glyph-28" d="M431.92 -11Q431.92 7.36 433.01 30.73Q434.1 54.1 437.1 71.64H431.1Q408.82 37.82 369.31 13.91Q329.8 -10 267.06 -10Q171.68 -10 112.17 60.13Q52.66 130.26 52.66 268.62Q52.66 360.98 80.21 423.25Q107.76 485.52 156.95 517.29Q206.14 549.06 270.06 549.06Q332.16 549.06 371.35 525.33Q410.54 501.6 434.18 466.96H438.18L451.36 539.06H538.46V-240H431.92ZM295.04 76.5Q345.72 76.5 376.43 95.24Q407.14 113.98 420.88 152.78Q434.62 191.58 435.44 249.44V268.34Q435.44 363.68 404.41 413.12Q373.38 462.56 292.86 462.56Q226.62 462.56 194.41 409.75Q162.2 356.94 162.2 266.44Q162.2 175.58 194.91 126.04Q227.62 76.5 295.04 76.5Z"/><path id="glyph-29" d="M351.52 549.06Q449.26 549.06 508.23 479.25Q567.2 409.44 567.2 270.62Q567.2 179.08 539.88 116.22Q512.56 53.36 463.78 21.68Q415 -10 349.62 -10Q308.98 -10 277.88 0.82Q246.78 11.64 225.09 28.6Q203.4 45.56 188.12 65.48H182.12Q184.12 48.12 186.12 22.84Q188.12 -2.44 188.12 -23.24V-240H81.58V539.06H168.52L183.22 466.6H188.12Q203.76 489.42 225.72 508.24Q247.68 527.06 278.55 538.06Q309.42 549.06 351.52 549.06ZM325.44 461.38Q276.12 461.38 246.18 442.14Q216.24 422.9 202.68 384.6Q189.12 346.3 188.12 287.44V270.8Q188.12 208.76 200.77 165.64Q213.42 122.52 243.95 100.05Q274.48 77.58 327.26 77.58Q371.76 77.58 400.56 102.15Q429.36 126.72 443.51 170.25Q457.66 213.78 457.66 271.8Q457.66 360.38 425.13 410.88Q392.6 461.38 325.44 461.38Z"/><path id="glyph-30" d="M724.5 358Q724.5 273.34 702.35 203.69Q680.2 134.04 636.45 85.22Q592.7 36.4 526.22 12.14L697.76 -170H548.78L414.02 -9.18Q408.92 -9.18 403.14 -9.59Q397.36 -10 392.26 -10Q307.18 -10 244.55 16.41Q181.92 42.82 140.65 91.41Q99.38 140 79.29 207.91Q59.2 275.82 59.2 359Q59.2 469.18 95.38 551.27Q131.56 633.36 205.69 679.18Q279.82 725 393.26 725Q502.96 725 576.59 679.5Q650.22 634 687.36 551.5Q724.5 469 724.5 358ZM173.64 358Q173.64 272.68 196.75 211.01Q219.86 149.34 268.67 116.14Q317.48 82.94 392.26 82.94Q468.22 82.94 516.12 116.14Q564.02 149.34 587.04 211.01Q610.06 272.68 610.06 358Q610.06 486.16 558.38 558.97Q506.7 631.78 393.26 631.78Q317.48 631.78 268.67 598.9Q219.86 566.02 196.75 504.76Q173.64 443.5 173.64 358Z"/><path id="glyph-31" d="M292.84 714Q432.12 714 496.75 658.28Q561.38 602.56 561.38 500.94Q561.38 456.04 546.97 414.82Q532.56 373.6 499.83 340.97Q467.1 308.34 412.64 289.48Q358.18 270.62 278.9 270.62H201.94V0H93.4V714ZM285.56 622.78H201.94V362.02H267.82Q328.08 362.02 368.85 375.44Q409.62 388.86 430 418.61Q450.38 448.36 450.38 496.76Q450.38 559.46 410.7 591.12Q371.02 622.78 285.56 622.78Z"/><path id="glyph-32" d="M296.14 549.06Q367.3 549.06 418.42 519.42Q469.54 489.78 496.94 435.01Q524.34 380.24 524.34 305.08V246.32H162.02Q164.02 163.96 206 119.97Q247.98 75.98 324.02 75.98Q375.2 75.98 415.33 85.57Q455.46 95.16 498.18 113.88V26.08Q457.36 7.54 416.01 -1.23Q374.66 -10 316.6 -10Q239.16 -10 179.4 20.73Q119.64 51.46 86.15 113.23Q52.66 175 52.66 265.62Q52.66 355.78 83.06 418.96Q113.46 482.14 168.4 515.6Q223.34 549.06 296.14 549.06ZM296.58 466.62Q238.8 466.62 204.82 429.63Q170.84 392.64 164.38 325.32H417.76Q417.76 367.54 404.57 398.93Q391.38 430.32 364.77 448.47Q338.16 466.62 296.58 466.62ZM276.2 766Q288.28 744 306.04 716.59Q323.8 689.18 343.29 663.27Q362.78 637.36 377.96 618.36V606H306.72Q289.18 619.82 266.83 639.32Q244.48 658.82 222.18 680.32Q199.88 701.82 181.4 721.91Q162.92 742 152.3 756V766Z"/><path id="glyph-33" d="M497.48 0H94.93V714H497.48V621.72H202.93V418.2H479.48V326.62H202.93V92.57H497.48ZM460.84 931.05Q450.22 917.05 431.42 896.96Q412.62 876.87 390.23 855.37Q367.84 833.87 345.9 814.37Q323.96 794.87 305.6 781.05H235.18V793.41Q250.54 812.41 269.21 838.32Q287.88 864.23 306.14 891.64Q324.4 919.05 336.3 941.05H460.84Z"/><path id="glyph-34" d="M539.6 0 462.78 205.34H188.96L112.78 0H0L270.72 717H383.4L653.84 0ZM362.26 497.56Q358.9 507.54 351.54 531.15Q344.18 554.76 337.23 580.05Q330.28 605.34 326.1 619.5Q321.28 598.78 315.24 575.49Q309.2 552.2 303.16 531.96Q297.12 511.72 292.76 497.56L220.76 299.38H433.44Z"/><path id="glyph-35" d="M204.44 0 0 539.06H112.9L223.3 221.08Q230.04 202.5 237.78 178.65Q245.52 154.8 251.62 132.64Q257.72 110.48 260.18 94.56H264Q267.28 110.48 273.7 132.87Q280.12 155.26 288.36 179.02Q296.6 202.78 302.52 220.9L413.64 539.06H526.54L321.28 0Z"/><path id="glyph-36" d="M335.42 0H226.88V620.78H12.7V714H548.78V620.78H335.42Z"/><path id="glyph-37" d="M66.6 353Q66.6 392.68 86.88 408.77Q107.17 424.86 135.34 424.86Q164.09 424.86 184.54 408.77Q205 392.68 205 353Q205 314.62 184.54 297.56Q164.09 280.5 135.34 280.5Q107.17 280.5 86.88 297.56Q66.6 314.62 66.6 353Z"/><path id="glyph-38" d="M0.64 539.06H113.9L225.94 231.9Q234.5 208.5 241.83 186.2Q249.16 163.9 255.17 142.65Q261.18 121.4 264.46 101.38H268.46Q273.74 125.48 285.03 161.3Q296.32 197.12 308.34 232.54L415 539.06H528L299.16 -66.98Q279.08 -120.04 252.14 -159.07Q225.2 -198.1 186.45 -219.05Q147.7 -240 91.92 -240Q67.56 -240 49.38 -237.5Q31.2 -235 18.02 -232V-147.6Q29.02 -149.6 44.52 -151.6Q60.02 -153.6 77.02 -153.6Q108.2 -153.6 130.16 -141.83Q152.12 -130.06 167.58 -108.74Q183.04 -87.42 193.68 -59.32L217 -0.2Z"/><path id="glyph-39" d="M401.56 630.78Q348.7 630.78 306.12 612.18Q263.54 593.58 233.88 557.88Q204.22 522.18 188.48 471.29Q172.74 420.4 172.74 356.46Q172.74 272.24 198.35 210.66Q223.96 149.08 274.95 116.15Q325.94 83.22 402.72 83.22Q449.72 83.22 492.17 92.12Q534.62 101.02 575.52 114.28V20.98Q534.26 4.9 490.5 -2.55Q446.74 -10 388.28 -10Q278.02 -10 204.84 35.18Q131.66 80.36 95.43 163.27Q59.2 246.18 59.2 357.46Q59.2 438.46 81.7 505.55Q104.2 572.64 147.79 621.73Q191.38 670.82 255.47 697.41Q319.56 724 402.74 724Q457.2 724 509.28 712.82Q561.36 701.64 604.06 680.56L563.92 590.88Q529.84 606.6 489.43 618.69Q449.02 630.78 401.56 630.78Z"/></defs>
+</svg>

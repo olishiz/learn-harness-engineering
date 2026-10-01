@@ -1,9 +1,9 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
-    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
-    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/ru-RU/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/ru-RU/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ru-RU/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/ru-RU/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
   </picture>
 </h1>
 
@@ -120,10 +120,10 @@ OpenAI сообщает то же самое с Codex: в хорошо подг�
 **Этот курс научит вас, как построить такое окружение.**
 
 <p align="center">
-  <a href="../../assets/readme/harness-pattern.svg">
+  <a href="../../assets/readme/ru-RU/harness-pattern.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
-      <img src="../../assets/readme/harness-pattern.png" alt="Модель умна, harness делает её надёжной" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ru-RU/harness-pattern-dark.svg">
+      <img src="../../assets/readme/ru-RU/harness-pattern.png" alt="Модель умна, harness делает её надёжной" width="920">
     </picture>
   </a>
 </p>
@@ -162,10 +162,10 @@ Harness Engineering — это построение полноценной ра�
 Harness состоит из пяти подсистем:
 
 <p align="center">
-  <a href="../../assets/readme/harness-subsystems.svg">
+  <a href="../../assets/readme/ru-RU/harness-subsystems.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
-      <img src="../../assets/readme/harness-subsystems.png" alt="Что на самом деле означает Harness Engineering" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ru-RU/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/ru-RU/harness-subsystems.png" alt="Что на самом деле означает Harness Engineering" width="920">
     </picture>
   </a>
 </p>
@@ -331,10 +331,10 @@ Harness состоит из пяти подсистем:
 Курс рассчитан на последовательное прохождение. Каждая фаза строится на предыдущей.
 
 <p align="center">
-  <a href="../../assets/readme/harness-learning-path.svg">
+  <a href="../../assets/readme/ru-RU/harness-learning-path.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
-      <img src="../../assets/readme/harness-learning-path.png" alt="Путь обучения" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ru-RU/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/ru-RU/harness-learning-path.png" alt="Путь обучения" width="920">
     </picture>
   </a>
 </p>
@@ -506,10 +506,10 @@ Harness состоит из пяти подсистем:
 Одна из ключевых идей этого курса: **сессия агента должна следовать структурированному жизненному циклу, а не быть свободным плаванием.** Вот как это выглядит:
 
 <p align="center">
-  <a href="../../assets/readme/harness-session-lifecycle.svg">
+  <a href="../../assets/readme/ru-RU/harness-session-lifecycle.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
-      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Жизненный цикл агентской сессии" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ru-RU/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/ru-RU/harness-session-lifecycle.png" alt="Жизненный цикл агентской сессии" width="920">
     </picture>
   </a>
 </p>

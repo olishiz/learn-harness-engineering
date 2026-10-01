@@ -1,9 +1,9 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
-    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
-    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/uz-UZ/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/uz-UZ/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/uz-UZ/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/uz-UZ/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
   </picture>
 </h1>
 
@@ -120,10 +120,10 @@ OpenAI Codex bilan xuddi shu haqida xabar berdi: yaxshi harnesslangan repozitori
 **Ushbu kurs sizga shu muhitni qanday qurishni oʻrgatadi.**
 
 <p align="center">
-  <a href="../../assets/readme/harness-pattern.svg">
+  <a href="../../assets/readme/uz-UZ/harness-pattern.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
-      <img src="../../assets/readme/harness-pattern.png" alt="Model aqlli, harness uni ishonchli qiladi" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/uz-UZ/harness-pattern-dark.svg">
+      <img src="../../assets/readme/uz-UZ/harness-pattern.png" alt="Model aqlli, harness uni ishonchli qiladi" width="920">
     </picture>
   </a>
 </p>
@@ -161,10 +161,10 @@ Harness Engineering — model atrofida toʻliq ish muhiti qurishdir, shunda u is
 Harnessʼning beshta quyi tizimi bor:
 
 <p align="center">
-  <a href="../../assets/readme/harness-subsystems.svg">
+  <a href="../../assets/readme/uz-UZ/harness-subsystems.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
-      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering nima degani" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/uz-UZ/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/uz-UZ/harness-subsystems.png" alt="Harness Engineering nima degani" width="920">
     </picture>
   </a>
 </p>
@@ -324,10 +324,10 @@ Har bir kurs loyihasi (boshlangʻich/yechim) ushbu Electron ilovasining mos rivo
 Kurs xronologik tartibda bajarish uchun moʻljallangan. Har bir bosqich oldingisiga asoslanadi.
 
 <p align="center">
-  <a href="../../assets/readme/harness-learning-path.svg">
+  <a href="../../assets/readme/uz-UZ/harness-learning-path.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
-      <img src="../../assets/readme/harness-learning-path.png" alt="Oʻqish yoʻli" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/uz-UZ/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/uz-UZ/harness-learning-path.png" alt="Oʻqish yoʻli" width="920">
     </picture>
   </a>
 </p>
@@ -497,10 +497,10 @@ Agar parallel oʻqisangiz, har bir bosqich taxminan bir hafta davom etadi. Agar 
 Ushbu kursning asosiy gʻoyalaridan biri: **Agent sessiyasi tuzilgan hayot sikliga amal qilishi kerak, emas xohlagancha ishlashiga.** Bu quyidagicha koʻrinadi:
 
 <p align="center">
-  <a href="../../assets/readme/harness-session-lifecycle.svg">
+  <a href="../../assets/readme/uz-UZ/harness-session-lifecycle.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
-      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Agent sessiyasi hayot sikli" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/uz-UZ/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/uz-UZ/harness-session-lifecycle.png" alt="Agent sessiyasi hayot sikli" width="920">
     </picture>
   </a>
 </p>

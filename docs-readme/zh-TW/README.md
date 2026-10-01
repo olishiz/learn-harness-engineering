@@ -1,9 +1,9 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
-    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
-    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/zh-TW/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/zh-TW/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/zh-TW/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/zh-TW/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
   </picture>
 </h1>
 
@@ -120,10 +120,10 @@ OpenAI 也報告了 Codex 的相同結果，在一個 well-harnessed 的儲存�
 **這門課程教你如何建構那個環境。**
 
 <p align="center">
-  <a href="../../assets/readme/harness-pattern.svg">
+  <a href="../../assets/readme/zh-TW/harness-pattern.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
-      <img src="../../assets/readme/harness-pattern.png" alt="模型很聰明，Harness 讓它可靠" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/zh-TW/harness-pattern-dark.svg">
+      <img src="../../assets/readme/zh-TW/harness-pattern.png" alt="模型很聰明，Harness 讓它可靠" width="920">
     </picture>
   </a>
 </p>
@@ -161,10 +161,10 @@ Harness Engineering 是關於在模型周圍建構一個完整的工作環境，
 一個 harness 有五個子系統：
 
 <p align="center">
-  <a href="../../assets/readme/harness-subsystems.svg">
+  <a href="../../assets/readme/zh-TW/harness-subsystems.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
-      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering 的真正含義" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/zh-TW/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/zh-TW/harness-subsystems.png" alt="Harness Engineering 的真正含義" width="920">
     </picture>
   </a>
 </p>
@@ -322,10 +322,10 @@ Harness Engineering 是關於在模型周圍建構一個完整的工作環境，
 課程設計為按順序進行。每個階段建立在前一個階段之上。
 
 <p align="center">
-  <a href="../../assets/readme/harness-learning-path.svg">
+  <a href="../../assets/readme/zh-TW/harness-learning-path.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
-      <img src="../../assets/readme/harness-learning-path.png" alt="學習路徑" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/zh-TW/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/zh-TW/harness-learning-path.png" alt="學習路徑" width="920">
     </picture>
   </a>
 </p>
@@ -482,10 +482,10 @@ Harness Engineering 是關於在模型周圍建構一個完整的工作環境，
 這門課程的核心理念之一：**代理的工作階段應該遵循結構化的生命週期，而不是隨意進行。** 以下是它的樣貌：
 
 <p align="center">
-  <a href="../../assets/readme/harness-session-lifecycle.svg">
+  <a href="../../assets/readme/zh-TW/harness-session-lifecycle.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
-      <img src="../../assets/readme/harness-session-lifecycle.png" alt="代理工作階段生命週期" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/zh-TW/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/zh-TW/harness-session-lifecycle.png" alt="代理工作階段生命週期" width="920">
     </picture>
   </a>
 </p>

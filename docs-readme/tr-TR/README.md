@@ -1,9 +1,9 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
-    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
-    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/tr-TR/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/tr-TR/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/tr-TR/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/tr-TR/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
   </picture>
 </h1>
 
@@ -120,10 +120,10 @@ OpenAI Codex ile aynı şeyi bildirdi: iyi harness'lanmış bir depoda aynı mod
 **Bu kurs size o ortamı nasıl kuracağınızı öğretir.**
 
 <p align="center">
-  <a href="../../assets/readme/harness-pattern.svg">
+  <a href="../../assets/readme/tr-TR/harness-pattern.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
-      <img src="../../assets/readme/harness-pattern.png" alt="Model akıllıdır, harness onu güvenilir kılar" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/tr-TR/harness-pattern-dark.svg">
+      <img src="../../assets/readme/tr-TR/harness-pattern.png" alt="Model akıllıdır, harness onu güvenilir kılar" width="920">
     </picture>
   </a>
 </p>
@@ -161,10 +161,10 @@ Harness engineering, modelin güvenilir sonuçlar üretmesi için etrafına eksi
 Bir harness'ın beş alt sistemi vardır:
 
 <p align="center">
-  <a href="../../assets/readme/harness-subsystems.svg">
+  <a href="../../assets/readme/tr-TR/harness-subsystems.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
-      <img src="../../assets/readme/harness-subsystems.png" alt="Harness engineering aslında ne demek" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/tr-TR/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/tr-TR/harness-subsystems.png" alt="Harness engineering aslında ne demek" width="920">
     </picture>
   </a>
 </p>
@@ -323,10 +323,10 @@ Her kurs projesinin starter/solution'ı, bu Electron uygulamasının o evrimsel 
 Kurs sırayla yapılacak şekilde tasarlanmıştır. Her aşama bir öncekinin üzerine inşa edilir.
 
 <p align="center">
-  <a href="../../assets/readme/harness-learning-path.svg">
+  <a href="../../assets/readme/tr-TR/harness-learning-path.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
-      <img src="../../assets/readme/harness-learning-path.png" alt="Öğrenme yolu" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/tr-TR/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/tr-TR/harness-learning-path.png" alt="Öğrenme yolu" width="920">
     </picture>
   </a>
 </p>
@@ -494,10 +494,10 @@ Yarı zamanlı ilerliyorsanız her aşama yaklaşık bir hafta sürer. Daha hız
 Bu kursun temel fikirlerinden biri: **ajanın oturumu serbest takılma değil, yapılandırılmış bir yaşam döngüsünü izlemelidir.** İşte bunun nasıl göründüğü:
 
 <p align="center">
-  <a href="../../assets/readme/harness-session-lifecycle.svg">
+  <a href="../../assets/readme/tr-TR/harness-session-lifecycle.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
-      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Ajan oturumunun yaşam döngüsü" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/tr-TR/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/tr-TR/harness-session-lifecycle.png" alt="Ajan oturumunun yaşam döngüsü" width="920">
     </picture>
   </a>
 </p>

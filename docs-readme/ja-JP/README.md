@@ -1,9 +1,9 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
-    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
-    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/ja-JP/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/ja-JP/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ja-JP/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/ja-JP/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
   </picture>
 </h1>
 
@@ -120,10 +120,10 @@ OpenAI も Codex で同じことを報告しています：適切にハーネス
 **このコースは、その環境の構築方法を教えます。**
 
 <p align="center">
-  <a href="../../assets/readme/harness-pattern.svg">
+  <a href="../../assets/readme/ja-JP/harness-pattern.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
-      <img src="../../assets/readme/harness-pattern.png" alt="モデルは賢い、ハーネスがそれを確実にする" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ja-JP/harness-pattern-dark.svg">
+      <img src="../../assets/readme/ja-JP/harness-pattern.png" alt="モデルは賢い、ハーネスがそれを確実にする" width="920">
     </picture>
   </a>
 </p>
@@ -161,10 +161,10 @@ Harness Engineering は、モデルの周囲に完全な作業環境を構築し
 ハーネスには5つのサブシステムがあります：
 
 <p align="center">
-  <a href="../../assets/readme/harness-subsystems.svg">
+  <a href="../../assets/readme/ja-JP/harness-subsystems.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
-      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering が本当に意味すること" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ja-JP/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/ja-JP/harness-subsystems.png" alt="Harness Engineering が本当に意味すること" width="920">
     </picture>
   </a>
 </p>
@@ -323,10 +323,10 @@ Harness Engineering は、モデルの周囲に完全な作業環境を構築し
 このコースは順番に進めるように設計されています。各フェーズは前のフェーズの上に構築されます。
 
 <p align="center">
-  <a href="../../assets/readme/harness-learning-path.svg">
+  <a href="../../assets/readme/ja-JP/harness-learning-path.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
-      <img src="../../assets/readme/harness-learning-path.png" alt="学習パス" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ja-JP/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/ja-JP/harness-learning-path.png" alt="学習パス" width="920">
     </picture>
   </a>
 </p>
@@ -494,10 +494,10 @@ Harness Engineering は、モデルの周囲に完全な作業環境を構築し
 このコースのコアアイデアの一つ：**エージェントのセッションは自由放任ではなく、構造化されたライフサイクルに従うべきです。** どのようなものか：
 
 <p align="center">
-  <a href="../../assets/readme/harness-session-lifecycle.svg">
+  <a href="../../assets/readme/ja-JP/harness-session-lifecycle.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
-      <img src="../../assets/readme/harness-session-lifecycle.png" alt="エージェントセッションライフサイクル" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ja-JP/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/ja-JP/harness-session-lifecycle.png" alt="エージェントセッションライフサイクル" width="920">
     </picture>
   </a>
 </p>

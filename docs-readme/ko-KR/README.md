@@ -1,9 +1,9 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
-    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
-    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/ko-KR/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/ko-KR/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ko-KR/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/ko-KR/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
   </picture>
 </h1>
 
@@ -120,10 +120,10 @@ OpenAI도 Codex에서 동일한 결과를 보고했습니다: 잘 구축된 하�
 **이 강좌는 그 환경을 구축하는 방법을 가르칩니다.**
 
 <p align="center">
-  <a href="../../assets/readme/harness-pattern.svg">
+  <a href="../../assets/readme/ko-KR/harness-pattern.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
-      <img src="../../assets/readme/harness-pattern.png" alt="모델은 똑똑하고, 하니스가 안정성을 만듭니다" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ko-KR/harness-pattern-dark.svg">
+      <img src="../../assets/readme/ko-KR/harness-pattern.png" alt="모델은 똑똑하고, 하니스가 안정성을 만듭니다" width="920">
     </picture>
   </a>
 </p>
@@ -161,10 +161,10 @@ Harness engineering은 모델 주변에 안정적인 결과를 생성하는 완�
 하니스에는 다섯 가지 하위 시스템이 있습니다:
 
 <p align="center">
-  <a href="../../assets/readme/harness-subsystems.svg">
+  <a href="../../assets/readme/ko-KR/harness-subsystems.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
-      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering의 진정한 의미" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ko-KR/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/ko-KR/harness-subsystems.png" alt="Harness Engineering의 진정한 의미" width="920">
     </picture>
   </a>
 </p>
@@ -323,10 +323,10 @@ Harness engineering은 모델 주변에 안정적인 결과를 생성하는 완�
 이 강좌는 순서대로 진행하도록 설계되었습니다. 각 단계는 이전 단계를 기반으로 구축됩니다.
 
 <p align="center">
-  <a href="../../assets/readme/harness-learning-path.svg">
+  <a href="../../assets/readme/ko-KR/harness-learning-path.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
-      <img src="../../assets/readme/harness-learning-path.png" alt="학습 경로" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ko-KR/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/ko-KR/harness-learning-path.png" alt="학습 경로" width="920">
     </picture>
   </a>
 </p>
@@ -492,10 +492,10 @@ Harness engineering은 모델 주변에 안정적인 결과를 생성하는 완�
 이 강좌의 핵심 아이디어 중 하나: **에이전트의 세션은 자유 방임이 아닌 구조화된 수명 주기를 따라야 합니다.** 그 모습은 다음과 같습니다:
 
 <p align="center">
-  <a href="../../assets/readme/harness-session-lifecycle.svg">
+  <a href="../../assets/readme/ko-KR/harness-session-lifecycle.svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
-      <img src="../../assets/readme/harness-session-lifecycle.png" alt="에이전트 세션 수명 주기" width="920">
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/ko-KR/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/ko-KR/harness-session-lifecycle.png" alt="에이전트 세션 수명 주기" width="920">
     </picture>
   </a>
 </p>
