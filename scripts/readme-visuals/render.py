@@ -3,7 +3,7 @@
 
 Dependencies: pip install fonttools uharfbuzz python-bidi cairosvg
 Fonts are downloaded to a cache, verified against fonts.json, and never embedded
-as external links. English artwork and all README prose remain untouched.
+as external links. README prose remains untouched; course maps include the English edition.
 """
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -27,6 +27,7 @@ from fontTools.pens.boundsPen import BoundsPen
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
 COPY = json.loads((HERE / 'translations.json').read_text())
+COURSE = json.loads((HERE / 'course-map.json').read_text())
 MANIFEST = json.loads((HERE / 'fonts.json').read_text())
 WIDTH = 1600
 
@@ -217,7 +218,62 @@ class Figure:
             cairosvg.svg2png(bytestring=source.encode(),write_to=str(dest/f'{self.name}{suffix}.png'),output_width=880)
 
 
+def course_map(variant, locale, t, typesetter):
+    """A readable course outline: actual lecture titles plus the matching project."""
+    content = COURSE[locale]
+    total = t.get('road.total', '14 lectures · 8 hands-on projects')
+    units = []
+    for i in range(8):
+        numbers = [i*2+1, i*2+2] if i < 6 else [i+7]
+        lessons = [content['lessons'][n-1] for n in numbers]
+        # Reserve two lecture slots even for the last single-lecture units.
+        units.append((i, numbers, lessons, content['projects'][i]))
+    width, gap, left = 700, 64, 68
+    body_size, title_size = 32, 39
+    rows = []
+    for row in range(4):
+        h = 0
+        for i, numbers, lessons, project in units[row*2:row*2+2]:
+            lesson_lines = [len(typesetter.lines(item['title'], body_size, width-106)) for item in lessons]
+            project_lines = len(typesetter.lines(project['title'], 30, width-52))
+            lesson_height = sum(lines*43+25 for lines in lesson_lines)
+            h = max(h, 145 + max(lesson_height,136) + 65 + project_lines*40 + 28)
+        rows.append(h)
+    height = 196 + sum(rows) + 56*3 + 76
+    f = Figure('harness-learning-path', variant, height, locale, typesetter, content['title'], content['title'] + '. ' + total)
+    f.text(content['title'], 800, 82, 52, max_width=1440)
+    f.text(total, 800, 139, 29, 'accent', max_width=1440)
+    y = 196
+    for row in range(4):
+        h = rows[row]
+        for col in range(2):
+            i,numbers,lessons,project = units[row*2+col]
+            x = left+(width+gap)*col
+            f.text(f'{i+1:02d}', x, y+42, 30, 'accent', anchor='start')
+            f.text(content['topics'][i], x+76, y+42, title_size, anchor='start',
+                   max_width=width-84, min_size=35, max_lines=2, line_height=44)
+            code = str(numbers[0]).zfill(2) + ('–'+str(numbers[-1]).zfill(2) if len(numbers)>1 else '')
+            f.text(content['lecture' if len(numbers)>1 else 'lecture.single']+' '+code, x, y+94, 25, 'muted', anchor='start', max_width=width)
+            f.path(f'M{x} {y+113}H{x+width}', color='line', width=1.5)
+            cursor = y+153
+            for item in lessons:
+                lines = typesetter.lines(item['title'], body_size, width-106)
+                f.text(f'{item["number"]:02d}', x, cursor, 25, 'accent', anchor='start')
+                for j,line in enumerate(lines):
+                    f.text(line, x+64, cursor+j*43, body_size, anchor='start', max_width=width-100,min_size=body_size)
+                cursor += len(lines)*43+25
+            py = y+h-(65+len(typesetter.lines(project['title'],30,width-52))*40+28)
+            ph = y+h-py
+            f.rect(x, py, width, ph, fill='soft')
+            f.text(content['project']+f' {i+1:02d}', x+26, py+38, 24, 'accent', anchor='start', max_width=width-52)
+            for j,line in enumerate(typesetter.lines(project['title'],30,width-52)):
+                f.text(line, x+26, py+85+j*40, 30, anchor='start',max_width=width-52,min_size=30)
+        y += h+56
+    return f
+
+
 def diagram(name,variant,locale,t,typesetter):
+    if name == "learning-path": return course_map(variant,locale,t,typesetter)
     height={'pattern':690,'subsystems':700,'learning-path':980,'session-lifecycle':650}[name]
     title=t[{'pattern':'pattern.title','subsystems':'subsystems.title','learning-path':'road.title','session-lifecycle':'session.title'}[name]]
     f=Figure('harness-'+name,variant,height,locale,typesetter,title,title)
@@ -244,21 +300,6 @@ def diagram(name,variant,locale,t,typesetter):
             if i:f.path(f'M{80+288*i} 189V526',color='line',width=1)
         f.rect(80,551,1440,44,fill='bar');f.text(t['harness'],800,582,24,'#FFFFFF',max_width=1380)
         f.text(t['model.decides'],800,653,23,'muted',max_width=1440)
-    elif name=='learning-path':
-        f.heading(title,t['road.subtitle'])
-        icons=['problem','repo','connect','feedback','check','system','lifecycle','graph']
-        codes=['L01–L02 · P01','L03–L04 · P02','L05–L06 · P03','L07–L08 · P04','L09–L10 · P05','L11–L12 · P06','L13 · P07','L14 · P08']
-        for row,y in [(0,170),(1,554)]:
-            f.rect(80,y,1440,310,stroke='accent')
-            for col in range(4):
-                i=row*4+col; x=260+360*col
-                f.text(f'{i+1:02d}',x,y+38,20,'accent'); f.icon(icons[i],x,y+110,scale=.86)
-                f.label(t[f'phase.{i+1}'],x,y+184,27,310)
-                f.text(codes[i],x,y+240,22,'accent')
-                f.label(t[f'phase.sub.{i+1}'],x,y+283,20,310,color='muted')
-                if col<3:f.arrow(x+65,x+286,y+110)
-        f.path('M1340 482V514H260V552',arrow=True)
-        f.rect(80,864,1440,42,fill='bar');f.text(t['road.total'],800,893,24,'#FFFFFF',max_width=1380)
     else:
         f.heading(title);f.rect(80,156,1440,355,stroke='accent')
         for i,(key,icon,a,b) in enumerate([('start','files','read.init','load.state'),('select','scope','unfinished','only.feature'),('execute','agent','implement.verify','evidence'),('wrap','lifecycle','state.commit','restart')]):
@@ -308,7 +349,8 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--font-dir',type=Path,default=Path.home()/'.cache/learn-harness-engineering/readme-fonts')
     parser.add_argument('--preview-dir',type=Path)
-    parser.add_argument('--locale',action='append',choices=sorted(COPY))
+    parser.add_argument('--locale',action='append',choices=sorted(COURSE))
+    parser.add_argument('--figure', choices=['all','learning-path'], default='all')
     args=parser.parse_args();args.font_dir.mkdir(parents=True,exist_ok=True)
     fonts={}
     for filename,meta in MANIFEST.items():
@@ -318,13 +360,19 @@ def main():
         assert hashlib.sha256(target.read_bytes()).hexdigest()==meta['sha256'],filename
         if target.suffix in ['.ttf','.otf']:fonts[filename]=Font(target)
         else:(ROOT/'assets/readme/licenses'/filename).write_text('\n'.join(line.rstrip() for line in target.read_text().splitlines())+'\n')
-    for locale in args.locale or COPY:
-        t=COPY[locale];typesetter=Typesetter(fonts,locale)
-        out=ROOT/'assets/readme'/locale;out.mkdir(exist_ok=True)
+    for locale in args.locale or (COURSE if args.figure=='learning-path' else COPY):
+        t=COPY.get(locale,{});typesetter=Typesetter(fonts,locale)
+        out=ROOT/'assets/readme'
+        if locale != 'en': out=out/locale
+        out.mkdir(exist_ok=True)
         for variant in ['light','dark']:
-            for compact in [False,True]:wordmark(variant,compact,locale,t,typesetter).save(out,args.preview_dir)
-            for name in ['pattern','subsystems','learning-path','session-lifecycle']:
+            if args.figure=='all':
+                for compact in [False,True]:wordmark(variant,compact,locale,t,typesetter).save(out,args.preview_dir)
+            for name in (['learning-path'] if args.figure=='learning-path' else ['pattern','subsystems','learning-path','session-lifecycle']):
                 diagram(name,variant,locale,t,typesetter).save(out,args.preview_dir)
+        if args.figure=='learning-path':
+            print(locale, '— course map generated',flush=True)
+            continue
         readme=ROOT/'docs-readme'/locale/'README.md'
         content=readme.read_text()
         content=re.sub(r'../../assets/readme/(?:'+re.escape(locale)+r'/)?(harness-[^"\s]+)',r'../../assets/readme/'+locale+r'/\1',content)

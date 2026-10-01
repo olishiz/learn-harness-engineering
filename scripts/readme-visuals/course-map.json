@@ -1,0 +1,1952 @@
+{
+  "en": {
+    "title": "Course outline",
+    "lecture": "Lectures",
+    "project": "Project",
+    "topics": [
+      "Understanding harnesses",
+      "Repository and instructions",
+      "Context across sessions",
+      "Task boundaries and feature lists",
+      "Testing and verification",
+      "Observability and handoff",
+      "Automated agent loops",
+      "Workflow graphs"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Strong Models Don't Mean Reliable Execution",
+        "source": "docs/en/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "What a Harness Actually Is",
+        "source": "docs/en/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Making the Repository the Single Source of Truth",
+        "source": "docs/en/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Split Instructions Across Files",
+        "source": "docs/en/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Keeping Context Alive Across Sessions",
+        "source": "docs/en/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Make the Agent Initialize Before Every Work Session",
+        "source": "docs/en/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Draw Clear Task Boundaries for Agents",
+        "source": "docs/en/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Use Feature Lists to Constrain What the Agent Does",
+        "source": "docs/en/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Preventing Agents from Declaring Victory Too Early",
+        "source": "docs/en/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Only a Full Pipeline Run Counts as Real Verification",
+        "source": "docs/en/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Making the Agent's Runtime Observable",
+        "source": "docs/en/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Leave a Clean Handoff at the End of Every Session",
+        "source": "docs/en/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "From Manual Prompting to Autonomous Loops",
+        "source": "docs/en/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "From Single Loops to Graph Engineering",
+        "source": "docs/en/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Prompt-Only vs. Rules-First: How Much Difference Does It Make",
+        "source": "docs/en/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Make the Project Readable and Pick Up Where You Left Off",
+        "source": "docs/en/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Keep the Agent Working Across Session Restarts",
+        "source": "docs/en/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Use Runtime Feedback to Correct Agent Behavior",
+        "source": "docs/en/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Make the Agent Verify Its Own Work",
+        "source": "docs/en/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Build a Complete Agent Harness (Capstone)",
+        "source": "docs/en/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Build Your First Automated Loop",
+        "source": "docs/en/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Draw Your Workflow as a Graph",
+        "source": "docs/en/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Lecture"
+  },
+  "zh-CN": {
+    "title": "课程路线",
+    "lecture": "讲义",
+    "project": "项目",
+    "topics": [
+      "认识 Harness",
+      "仓库与指令文件",
+      "跨会话上下文",
+      "任务边界与功能清单",
+      "测试与验证",
+      "可观测性与交接",
+      "自动运行的代理循环",
+      "工作流与图工程"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "模型能力强，不等于执行可靠",
+        "source": "docs/zh/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Harness 到底是什么",
+        "source": "docs/zh/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "让代码仓库成为唯一的事实来源",
+        "source": "docs/zh/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "把指令拆分到不同文件里",
+        "source": "docs/zh/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "让跨会话的任务保持上下文连续",
+        "source": "docs/zh/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "让 代理 每次工作前先初始化",
+        "source": "docs/zh/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "给 代理 划清每次任务的边界",
+        "source": "docs/zh/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "用功能清单约束 代理 该做什么",
+        "source": "docs/zh/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "防止 代理 提前宣告完成",
+        "source": "docs/zh/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "跑通完整流程才算真正验证",
+        "source": "docs/zh/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "让 代理 的运行过程可观测",
+        "source": "docs/zh/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "每次会话结束前都做好交接",
+        "source": "docs/zh/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "从手动驱动到自动循环",
+        "source": "docs/zh/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "从单循环到图工程",
+        "source": "docs/zh/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "对比提示词驱动与规则驱动",
+        "source": "docs/zh/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "让代理读懂仓库并接续工作",
+        "source": "docs/zh/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "重启会话后继续完成任务",
+        "source": "docs/zh/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "用运行反馈修正代理行为",
+        "source": "docs/zh/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "让代理验证自己的工作",
+        "source": "docs/zh/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "搭建完整的代理工作环境",
+        "source": "docs/zh/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "搭建第一个自动循环",
+        "source": "docs/zh/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "绘制工作流，加入并行与回退",
+        "source": "docs/zh/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "讲义"
+  },
+  "zh-TW": {
+    "title": "課程路線",
+    "lecture": "講義",
+    "project": "專案",
+    "topics": [
+      "認識 Harness",
+      "儲存庫與指令檔案",
+      "跨工作階段的上下文",
+      "任務邊界與功能清單",
+      "測試與驗證",
+      "可觀測性與交接",
+      "自動執行的代理迴圈",
+      "工作流程與圖工程"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "模型能力強，不等於執行可靠",
+        "source": "docs/zh-TW/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Harness 到底是什麼",
+        "source": "docs/zh-TW/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "讓程式碼儲存庫成為唯一的事實來源",
+        "source": "docs/zh-TW/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "把指令拆分到不同檔案裡",
+        "source": "docs/zh-TW/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "讓跨工作階段的任務保持脈絡連續",
+        "source": "docs/zh-TW/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "讓 agent 每次工作前先初始化",
+        "source": "docs/zh-TW/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "給 agent 劃清每次任務的邊界",
+        "source": "docs/zh-TW/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "用功能清單約束 agent 該做什麼",
+        "source": "docs/zh-TW/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "防止 agent 提前宣告完成",
+        "source": "docs/zh-TW/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "跑通完整流程才算真正驗證",
+        "source": "docs/zh-TW/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "讓 agent 的執行過程可觀測",
+        "source": "docs/zh-TW/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "每次工作階段結束前都做好交接",
+        "source": "docs/zh-TW/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "從手動驅動到自動循環",
+        "source": "docs/zh-TW/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "從單循環到圖工程",
+        "source": "docs/zh-TW/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "只寫提示詞讓代理做，和定好規則再讓它做，差多少",
+        "source": "docs/zh-TW/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "讓代理看懂專案、銜接上次的工作",
+        "source": "docs/zh-TW/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "讓代理重啟後還能繼續執行",
+        "source": "docs/zh-TW/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "用執行回饋修正代理的行為",
+        "source": "docs/zh-TW/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "讓代理自己檢查自己做得對不對",
+        "source": "docs/zh-TW/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "搭建完整的代理工作環境",
+        "source": "docs/zh-TW/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "搭建你的第一個自動循環",
+        "source": "docs/zh-TW/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "把你的工作流畫成一張圖",
+        "source": "docs/zh-TW/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "講義"
+  },
+  "ja-JP": {
+    "title": "カリキュラム",
+    "lecture": "講義",
+    "project": "プロジェクト",
+    "topics": [
+      "ハーネスの基礎",
+      "リポジトリと指示ファイル",
+      "セッション間のコンテキスト",
+      "タスク境界と機能リスト",
+      "テストと検証",
+      "可観測性と引き継ぎ",
+      "エージェントループの自動化",
+      "ワークフローとグラフ"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "強いモデルは信頼できる実行を意味しない",
+        "source": "docs/ja/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Harness とは何か",
+        "source": "docs/ja/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "リポジトリを唯一の信頼できる情報源にする",
+        "source": "docs/ja/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "指示を複数ファイルに分割する",
+        "source": "docs/ja/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "セッションをまたいでコンテキストを保つ",
+        "source": "docs/ja/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "すべてのエージェントセッション前に初期化する",
+        "source": "docs/ja/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "エージェントのタスク境界を明確にする",
+        "source": "docs/ja/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "機能リストでエージェントの作業を制約する",
+        "source": "docs/ja/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "エージェントの早すぎる完了宣言を防ぐ",
+        "source": "docs/ja/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "End-to-End テストだけが本当の検証である",
+        "source": "docs/ja/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "エージェントのランタイムを観測可能にする",
+        "source": "docs/ja/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "すべてのセッションをきれいな引き継ぎで終える",
+        "source": "docs/ja/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "手動プロンプトから自律ループへ",
+        "source": "docs/ja/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "単一ループからグラフエンジニアリングへ",
+        "source": "docs/ja/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "プロンプトのみ vs ルール優先: どれほど差が出るか",
+        "source": "docs/ja/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "プロジェクトを読みやすくし、中断地点から再開できるようにする",
+        "source": "docs/ja/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "セッション再起動後もエージェントが作業を続けられるようにする",
+        "source": "docs/ja/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "ランタイムフィードバックでエージェントの挙動を修正する",
+        "source": "docs/ja/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "エージェントに自分の作業を検証させる",
+        "source": "docs/ja/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "完全なエージェント harness を構築する（総合課題）",
+        "source": "docs/ja/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "初めての自動ループを構築する",
+        "source": "docs/ja/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "ワークフローをグラフとして描く",
+        "source": "docs/ja/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "講義"
+  },
+  "ko-KR": {
+    "title": "강의 로드맵",
+    "lecture": "강의",
+    "project": "프로젝트",
+    "topics": [
+      "하니스 이해하기",
+      "저장소와 지침 파일",
+      "세션 간 컨텍스트",
+      "작업 경계와 기능 목록",
+      "테스트와 검증",
+      "관측 가능성과 인계",
+      "에이전트 루프 자동화",
+      "워크플로와 그래프"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "강력한 모델도 실행 신뢰성을 보장하지 않는다",
+        "source": "docs/ko/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "하네스란 실제로 무엇인가",
+        "source": "docs/ko/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "저장소를 단일 진실 원천으로 만들어라",
+        "source": "docs/ko/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "명령 파일을 여러 파일로 분산하라",
+        "source": "docs/ko/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "세션을 넘어 컨텍스트를 살아있게 유지하라",
+        "source": "docs/ko/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "모든 에이전트 세션 전에 초기화하라",
+        "source": "docs/ko/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "에이전트에게 명확한 작업 경계를 그어 주어야 합니다",
+        "source": "docs/ko/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "기능 목록으로 에이전트의 행동을 제약하십시오",
+        "source": "docs/ko/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "에이전트가 너무 일찍 완료를 선언하지 못하도록 방지하기",
+        "source": "docs/ko/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "엔드투엔드 테스트(end-to-end testing)만이 진정한 검증이다",
+        "source": "docs/ko/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "에이전트의 런타임을 관측 가능하게 만들어라",
+        "source": "docs/ko/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "모든 세션은 클린 상태(clean state)로 끝나야 한다",
+        "source": "docs/ko/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "수동 프롬프팅에서 자율 루프로",
+        "source": "docs/ko/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "단일 루프에서 그래프 엔지니어링으로",
+        "source": "docs/ko/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "프롬프트 단독 vs. 규칙 우선(Rules-First): 차이는 얼마나 클까",
+        "source": "docs/ko/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "프로젝트를 읽기 쉽게 만들고 중단된 곳에서 재개하기",
+        "source": "docs/ko/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "세션 재시작 후에도 에이전트가 계속 작업하도록 만들기",
+        "source": "docs/ko/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "런타임 피드백을 사용하여 에이전트 동작 수정하기",
+        "source": "docs/ko/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "에이전트가 자신의 작업을 검증하도록 만들기",
+        "source": "docs/ko/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "완전한 에이전트 하네스 구축하기 (캡스톤)",
+        "source": "docs/ko/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "첫 번째 자동 루프 구축하기",
+        "source": "docs/ko/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "내 워크플로우를 그래프로 그리기",
+        "source": "docs/ko/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "강의"
+  },
+  "es-ES": {
+    "title": "Plan del curso",
+    "lecture": "Lecciones",
+    "project": "Proyecto",
+    "topics": [
+      "Comprender el harness",
+      "Repositorio e instrucciones",
+      "Contexto entre sesiones",
+      "Límites y listas de funciones",
+      "Pruebas y verificación",
+      "Observabilidad y relevo",
+      "Bucles de agentes automáticos",
+      "Flujos de trabajo y grafos"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Los modelos fuertes no significan ejecución fiable",
+        "source": "docs/es/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Qué significa realmente harness",
+        "source": "docs/es/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Convierte el repositorio en la fuente única de verdad",
+        "source": "docs/es/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Divide las instrucciones entre archivos",
+        "source": "docs/es/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Mantén vivo el contexto entre sesiones",
+        "source": "docs/es/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Inicializa antes de cada sesión del agente",
+        "source": "docs/es/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Define límites claros para las tareas del agente",
+        "source": "docs/es/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Usa listas de funciones para limitar al agente",
+        "source": "docs/es/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Evita que los agentes declaren victoria demasiado pronto",
+        "source": "docs/es/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Solo las pruebas end-to-end son verificación real",
+        "source": "docs/es/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Haz observable el runtime del agente",
+        "source": "docs/es/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Deja un handoff limpio al final de cada sesión",
+        "source": "docs/es/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "Del Prompting Manual a los Loops Autónomos",
+        "source": "docs/es/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "De los Loops Únicos a la Ingeniería de Grafos",
+        "source": "docs/es/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Solo prompt vs reglas primero: cuánta diferencia produce",
+        "source": "docs/es/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Haz el proyecto legible y retoma el trabajo donde lo dejaste",
+        "source": "docs/es/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Mantén al agente trabajando tras reiniciar sesiones",
+        "source": "docs/es/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Usa feedback de runtime para corregir el comportamiento del agente",
+        "source": "docs/es/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Haz que el agente verifique su propio trabajo",
+        "source": "docs/es/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Construye un harness completo para agentes (capstone)",
+        "source": "docs/es/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Construye Tu Primer Loop Automatizado",
+        "source": "docs/es/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Dibuja Tu Flujo de Trabajo como un Grafo",
+        "source": "docs/es/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Lección"
+  },
+  "fr-FR": {
+    "title": "Plan du cours",
+    "lecture": "Leçons",
+    "project": "Projet",
+    "topics": [
+      "Comprendre le harness",
+      "Dépôt et instructions",
+      "Contexte entre sessions",
+      "Limites et listes de fonctions",
+      "Tests et vérification",
+      "Observabilité et relais",
+      "Boucles d’agents automatisées",
+      "Workflows et graphes"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Les modèles forts ne garantissent pas une exécution fiable",
+        "source": "docs/fr/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Ce que signifie vraiment harness",
+        "source": "docs/fr/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Faire du dépôt la source unique de vérité",
+        "source": "docs/fr/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Répartir les instructions entre fichiers",
+        "source": "docs/fr/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Garder le contexte vivant entre les sessions",
+        "source": "docs/fr/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Initialiser avant chaque session d'agent",
+        "source": "docs/fr/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Définir des limites de tâche claires",
+        "source": "docs/fr/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Utiliser les listes de fonctionnalités pour contraindre l'agent",
+        "source": "docs/fr/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Empêcher les agents de déclarer victoire trop tôt",
+        "source": "docs/fr/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Seul le test end-to-end est une vraie vérification",
+        "source": "docs/fr/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Rendre le runtime de l'agent observable",
+        "source": "docs/fr/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Laisser un handoff propre à la fin de chaque session",
+        "source": "docs/fr/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "Du prompting manuel aux boucles autonomes",
+        "source": "docs/fr/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "Des boucles simples à l'ingénierie des graphes",
+        "source": "docs/fr/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Prompt seul vs règles d'abord : quelle différence cela fait-il ?",
+        "source": "docs/fr/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Rendre le projet lisible et reprendre là où vous vous êtes arrêté",
+        "source": "docs/fr/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Garder l'agent au travail après les redémarrages de session",
+        "source": "docs/fr/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Utiliser le feedback runtime pour corriger le comportement de l'agent",
+        "source": "docs/fr/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Faire vérifier son propre travail par l'agent",
+        "source": "docs/fr/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Construire un harness complet pour agents (capstone)",
+        "source": "docs/fr/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Construisez votre première boucle automatisée",
+        "source": "docs/fr/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Dessinez votre workflow sous forme de graphe",
+        "source": "docs/fr/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Leçon"
+  },
+  "de-DE": {
+    "title": "Kursübersicht",
+    "lecture": "Lektionen",
+    "project": "Projekt",
+    "topics": [
+      "Harness verstehen",
+      "Repository und Anweisungen",
+      "Kontext über Sessions",
+      "Grenzen und Feature-Listen",
+      "Tests und Verifizierung",
+      "Beobachtbarkeit und Übergabe",
+      "Automatisierte Agenten-Loops",
+      "Workflows und Graphen"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Starke Modelle bedeuten keine zuverlässige Ausführung",
+        "source": "docs/de/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Was harness wirklich bedeutet",
+        "source": "docs/de/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Das Repository zur einzigen Quelle der Wahrheit machen",
+        "source": "docs/de/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Anweisungen auf Dateien verteilen",
+        "source": "docs/de/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Kontext über Sessions hinweg erhalten",
+        "source": "docs/de/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Vor jeder Agenten-Session initialisieren",
+        "source": "docs/de/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Klare Aufgabengrenzen für Agenten ziehen",
+        "source": "docs/de/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Feature-Listen nutzen, um Agentenarbeit zu begrenzen",
+        "source": "docs/de/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Verhindern, dass Agenten zu früh Erfolg melden",
+        "source": "docs/de/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Nur End-to-End-Tests sind echte Verifikation",
+        "source": "docs/de/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Die Runtime des Agenten beobachtbar machen",
+        "source": "docs/de/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Sauberes Handoff am Ende jeder Session",
+        "source": "docs/de/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "Von manuellen Prompts zu autonomen Loops",
+        "source": "docs/de/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "Von Einzel-Loops zu Graph Engineering",
+        "source": "docs/de/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Nur Prompt vs Regeln zuerst: Wie groß ist der Unterschied?",
+        "source": "docs/de/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Das Projekt lesbar machen und dort weiterarbeiten, wo du aufgehört hast",
+        "source": "docs/de/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Den Agenten über Session-Neustarts hinweg weiterarbeiten lassen",
+        "source": "docs/de/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Runtime-Feedback nutzen, um Agentenverhalten zu korrigieren",
+        "source": "docs/de/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Den Agenten seine eigene Arbeit verifizieren lassen",
+        "source": "docs/de/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Einen vollständigen Agenten-harness bauen (Capstone)",
+        "source": "docs/de/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Baue deinen ersten automatisierten Loop",
+        "source": "docs/de/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Zeichne deinen Workflow als Graph",
+        "source": "docs/de/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Lektion"
+  },
+  "pt-BR": {
+    "title": "Roteiro do curso",
+    "lecture": "Aulas",
+    "project": "Projeto",
+    "topics": [
+      "Entender o harness",
+      "Repositório e instruções",
+      "Contexto entre sessões",
+      "Limites e listas de funções",
+      "Testes e verificação",
+      "Observabilidade e passagem",
+      "Ciclos de agentes automáticos",
+      "Fluxos de trabalho e grafos"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Modelos Fortes Não Significam Execução Confiável",
+        "source": "docs/pt-BR/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "O Que um Harness Realmente É",
+        "source": "docs/pt-BR/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Tornando o Repositório a Fonte Única da Verdade",
+        "source": "docs/pt-BR/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Divida as Instruções em Múltiplos Arquivos",
+        "source": "docs/pt-BR/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Mantendo o Contexto Vivo Entre Sessões",
+        "source": "docs/pt-BR/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Faça o Agente Inicializar Antes de Cada Sessão de Trabalho",
+        "source": "docs/pt-BR/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Defina Limites Claros de Tarefa para os Agentes",
+        "source": "docs/pt-BR/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Use Listas de Funcionalidades para Restringir o que o Agente Faz",
+        "source": "docs/pt-BR/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Como Impedir que Agentes Declarem Vitória Cedo Demais",
+        "source": "docs/pt-BR/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Apenas uma Execução Completa do Pipeline Conta como Verificação Real",
+        "source": "docs/pt-BR/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Tornando o Runtime do Agente Observável",
+        "source": "docs/pt-BR/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Deixe uma Transferência Limpa ao Final de Cada Sessão",
+        "source": "docs/pt-BR/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "Do Prompting Manual aos Loops Autônomos",
+        "source": "docs/pt-BR/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "Do Loop Único à Engenharia de Grafos",
+        "source": "docs/pt-BR/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Apenas Prompt vs. Regras Primeiro: Quanta Diferença Isso Faz",
+        "source": "docs/pt-BR/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Torne o Projeto Legível e Continue de Onde Você Parou",
+        "source": "docs/pt-BR/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Mantenha o Agente Trabalhando Entre Reinicializações de Sessão",
+        "source": "docs/pt-BR/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Utilize Feedback em Runtime para Corrigir o Comportamento do Agente",
+        "source": "docs/pt-BR/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Faça o Agente Verificar o Próprio Trabalho",
+        "source": "docs/pt-BR/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Construa um Harness Completo para Agentes (Capstone)",
+        "source": "docs/pt-BR/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Construa Seu Primeiro Loop Automatizado",
+        "source": "docs/pt-BR/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Desenhe Seu Fluxo de Trabalho como um Grafo",
+        "source": "docs/pt-BR/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Aula"
+  },
+  "ru-RU": {
+    "title": "План курса",
+    "lecture": "Лекции",
+    "project": "Проект",
+    "topics": [
+      "Основы harness",
+      "Репозиторий и инструкции",
+      "Контекст между сессиями",
+      "Границы и списки функций",
+      "Тестирование и проверка",
+      "Наблюдаемость и передача",
+      "Автоматические циклы агента",
+      "Рабочие процессы и графы"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Сильные модели не означают надёжного исполнения",
+        "source": "docs/ru/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Что на самом деле означает harness",
+        "source": "docs/ru/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Сделайте репозиторий своим единственным источником истины",
+        "source": "docs/ru/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Разносите инструкции по файлам",
+        "source": "docs/ru/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Сохраняйте контекст между сессиями",
+        "source": "docs/ru/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Инициализируйте проект перед каждой сессией агента",
+        "source": "docs/ru/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Очерчивайте чёткие границы задач для агентов",
+        "source": "docs/ru/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Используйте списки фич, чтобы ограничивать поведение агента",
+        "source": "docs/ru/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Предотвращение преждевременных заявлений о завершении",
+        "source": "docs/ru/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Только сквозное тестирование — настоящая верификация",
+        "source": "docs/ru/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Сделайте рантайм агента наблюдаемым",
+        "source": "docs/ru/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Чистая передача в конце каждой сессии",
+        "source": "docs/ru/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "От ручных запросов к автономным циклам",
+        "source": "docs/ru/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "От одиночных циклов к графовой инженерии",
+        "source": "docs/ru/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Только промпт vs. правила в первую очередь: насколько велика разница",
+        "source": "docs/ru/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Сделайте проект читаемым и продолжите с того места, где остановились",
+        "source": "docs/ru/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Заставьте агента продолжать работу через перезапуски сессий",
+        "source": "docs/ru/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Используйте runtime-обратную связь, чтобы корректировать поведение агента",
+        "source": "docs/ru/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Заставьте агента самостоятельно проверять свою работу",
+        "source": "docs/ru/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Соберите полноценный агентский harness (Capstone)",
+        "source": "docs/ru/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Постройте свой первый автоматизированный цикл",
+        "source": "docs/ru/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Нарисуйте ваш workflow как граф",
+        "source": "docs/ru/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Лекция"
+  },
+  "uk-UA": {
+    "title": "План курсу",
+    "lecture": "Лекції",
+    "project": "Проєкт",
+    "topics": [
+      "Основи harness",
+      "Репозиторій та інструкції",
+      "Контекст між сесіями",
+      "Межі та списки функцій",
+      "Тестування й перевірка",
+      "Спостережуваність і передача",
+      "Автоматичні цикли агента",
+      "Робочі процеси та графи"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Сильна модель — ще не гарантія надійного виконання",
+        "source": "docs/uk/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Що таке harness насправді",
+        "source": "docs/uk/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Чому репозиторій має стати єдиним джерелом правди",
+        "source": "docs/uk/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Розподіліть інструкції між файлами",
+        "source": "docs/uk/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Збереження контексту між сесіями",
+        "source": "docs/uk/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Нехай агент ініціалізується перед кожною робочою сесією",
+        "source": "docs/uk/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Встановіть чіткі межі задач для агентів",
+        "source": "docs/uk/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Використовуйте списки функціональності для обмеження дій агента",
+        "source": "docs/uk/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Запобігання передчасному оголошенню перемоги агентами",
+        "source": "docs/uk/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Лише повний запуск пайплайну є справжньою верифікацією",
+        "source": "docs/uk/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Спостережуваність runtime агента",
+        "source": "docs/uk/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Залишайте чистий стан наприкінці кожної сесії",
+        "source": "docs/uk/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "Від ручного введення промптів до автономних циклів",
+        "source": "docs/uk/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "Від одиночних циклів до графової інженерії",
+        "source": "docs/uk/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Тільки промпт vs. правила спочатку: наскільки велика різниця",
+        "source": "docs/uk/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Зробіть проєкт зрозумілим і відновлюйте роботу з місця зупинки",
+        "source": "docs/uk/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Підтримуйте роботу агента під час перезапуску сесій",
+        "source": "docs/uk/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Використовуйте зворотний зв'язок у runtime для корекції поведінки агента",
+        "source": "docs/uk/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Змусьте агента верифікувати власну роботу",
+        "source": "docs/uk/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Побудуйте повний harness агента (підсумковий проєкт)",
+        "source": "docs/uk/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Побудова вашого першого автоматизованого циклу",
+        "source": "docs/uk/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Намалюйте ваш робочий процес як граф",
+        "source": "docs/uk/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Лекція"
+  },
+  "vi-VN": {
+    "title": "Lộ trình khóa học",
+    "lecture": "Bài giảng",
+    "project": "Dự án",
+    "topics": [
+      "Hiểu về harness",
+      "Kho mã và chỉ dẫn",
+      "Ngữ cảnh giữa các phiên",
+      "Ranh giới và danh sách tính năng",
+      "Kiểm thử và kiểm chứng",
+      "Quan sát và bàn giao",
+      "Vòng lặp tác nhân tự động",
+      "Luồng công việc và đồ thị"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Mô hình mạnh không có nghĩa là thực thi đáng tin cậy",
+        "source": "docs/vi/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Harness thực sự có nghĩa là gì",
+        "source": "docs/vi/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Biến kho lưu trữ thành nguồn sự thật duy nhất",
+        "source": "docs/vi/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Chia hướng dẫn ra thành nhiều tệp",
+        "source": "docs/vi/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Duy trì ngữ cảnh xuyên suốt các phiên",
+        "source": "docs/vi/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Khởi tạo trước mỗi phiên agent",
+        "source": "docs/vi/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Vạch ranh giới tác vụ rõ ràng cho agent",
+        "source": "docs/vi/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Sử dụng feature list để ràng buộc những gì agent làm",
+        "source": "docs/vi/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Ngăn chặn agent tuyên bố thành công quá sớm",
+        "source": "docs/vi/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Chỉ chạy toàn bộ pipeline mới tính là xác minh thật sự",
+        "source": "docs/vi/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Làm cho runtime của agent có thể quan sát được",
+        "source": "docs/vi/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Bàn giao sạch ở cuối mỗi phiên",
+        "source": "docs/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "Từ Nhắc lệnh Thủ công đến Vòng lặp Tự chủ",
+        "source": "docs/vi/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "Từ Vòng lặp Đơn lẻ đến Kỹ thuật Đồ thị",
+        "source": "docs/vi/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Chỉ Prompt vs. Ưu tiên Quy tắc: Sự Khác biệt Lớn thế Nào",
+        "source": "docs/vi/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Làm cho Dự án Có thể Đọc Được và Tiếp tục từ Nơi Đã Dừng",
+        "source": "docs/vi/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Giữ cho Agent Tiếp tục Làm việc Qua Các Lần Khởi động Lại Phiên",
+        "source": "docs/vi/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Sử dụng Phản hồi Runtime để Điều chỉnh Hành vi Agent",
+        "source": "docs/vi/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Để Agent Xác minh Công việc của Chính nó",
+        "source": "docs/vi/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Xây dựng Harness Agent Đầy đủ (Capstone)",
+        "source": "docs/vi/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Xây dựng Vòng lặp Tự động Đầu tiên",
+        "source": "docs/vi/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Vẽ Quy trình Làm việc của bạn thành một Đồ thị",
+        "source": "docs/vi/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Bài giảng"
+  },
+  "uz-UZ": {
+    "title": "Kurs rejasi",
+    "lecture": "Ma’ruzalar",
+    "project": "Loyiha",
+    "topics": [
+      "Harness asoslari",
+      "Repo va ko‘rsatmalar",
+      "Sessiyalar orasidagi kontekst",
+      "Chegaralar va funksiya ro‘yxati",
+      "Testlar va tekshiruv",
+      "Kuzatuv va topshirish",
+      "Avtomatik agent sikllari",
+      "Ish jarayonlari va graflar"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Kuchli model — ishonchli bajarilish degani emas",
+        "source": "docs/uz/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Harness aslida nima degani",
+        "source": "docs/uz/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Repozitoriyni yagona haqiqat manbaiga aylantiring",
+        "source": "docs/uz/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Yoʻriqnomalarni fayllar boʻylab ajrating",
+        "source": "docs/uz/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Sessiyalar oʻrtasida kontekstni saqlab qoling",
+        "source": "docs/uz/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Har bir agent sessiyasidan oldin inisializatsiya qiling",
+        "source": "docs/uz/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Agentlar uchun aniq vazifa chegaralarini chizing",
+        "source": "docs/uz/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Agent nima qilishini cheklash uchun funksiyalar roʻyxatidan foydalaning",
+        "source": "docs/uz/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Agentlarni vaqtidan oldin gʻalabani eʼlon qilishdan saqlash",
+        "source": "docs/uz/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Faqatgina End-to-End testlash chinakam tekshiruvdir",
+        "source": "docs/uz/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Agent runtimeʼini kuzatuvchan qiling",
+        "source": "docs/uz/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Har bir sessiya oxirida toza holat topshiring",
+        "source": "docs/uz/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "Qoʻlda prompt yozishdan avtonom loop'largacha",
+        "source": "docs/uz/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "Yakka loopʼdan grafik muhandisligigacha",
+        "source": "docs/uz/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Prompt-only vs. rules-first: Bu qanchalik farq qiladi",
+        "source": "docs/uz/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Loyihani oʻqishga qulay qiling va toʻxtagan joyidan davom ettiring",
+        "source": "docs/uz/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Agentning ishlashini sessiyalar boʻylab uzluksiz taʼminlang",
+        "source": "docs/uz/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Agent harakatlarini toʻgʻrilash uchun Runtime qayta aloqadan foydalaning",
+        "source": "docs/uz/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Agentga oʻz ishini oʻzi tekshirishiga imkon bering",
+        "source": "docs/uz/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Toʻliq agent harnessʼini quring (Capstone)",
+        "source": "docs/uz/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Birinchi avtomatlashtirilgan loop'ingizni qurish",
+        "source": "docs/uz/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Ish oqimingizni grafik qilib chizing",
+        "source": "docs/uz/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Ma’ruza"
+  },
+  "ar-SA": {
+    "title": "خطة المقرر",
+    "lecture": "المحاضرات",
+    "project": "المشروع",
+    "topics": [
+      "فهم الحزام",
+      "المستودع والتعليمات",
+      "السياق بين الجلسات",
+      "حدود المهام وقوائم الميزات",
+      "الاختبارات والتحقق",
+      "المراقبة وتسليم الجلسات",
+      "حلقات الوكيل الآلية",
+      "سير العمل والرسوم البيانية"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "النماذج القوية لا تعني تنفيذًا موثوقًا",
+        "source": "docs/ar/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "ما معنى harness فعليًا",
+        "source": "docs/ar/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "اجعل المستودع مصدر الحقيقة الوحيد",
+        "source": "docs/ar/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "قسّم التعليمات عبر ملفات",
+        "source": "docs/ar/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "حافظ على السياق عبر الجلسات",
+        "source": "docs/ar/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "هيئ قبل كل جلسة وكيل",
+        "source": "docs/ar/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "ارسم حدود مهمة واضحة للوكلاء",
+        "source": "docs/ar/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "استخدم قوائم الميزات لتقييد الوكيل",
+        "source": "docs/ar/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "منع الوكلاء من إعلان النجاح مبكرًا",
+        "source": "docs/ar/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "الاختبار end-to-end هو التحقق الحقيقي",
+        "source": "docs/ar/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "اجعل runtime الوكيل قابلًا للملاحظة",
+        "source": "docs/ar/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "اترك handoff نظيفًا في نهاية كل جلسة",
+        "source": "docs/ar/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "من المطالبة اليدوية إلى الحلقات المستقلة",
+        "source": "docs/ar/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "من الحلقة الواحدة إلى هندسة الرسوم البيانية",
+        "source": "docs/ar/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Prompt فقط مقابل القواعد أولًا: ما حجم الفرق؟",
+        "source": "docs/ar/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "اجعل المشروع قابلًا للقراءة واستأنف من حيث توقفت",
+        "source": "docs/ar/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "أبقِ الوكيل يعمل بعد إعادة تشغيل الجلسات",
+        "source": "docs/ar/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "استخدم feedback في runtime لتصحيح سلوك الوكيل",
+        "source": "docs/ar/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "اجعل الوكيل يتحقق من عمله",
+        "source": "docs/ar/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "ابنِ harness كاملًا للوكيل (Capstone)",
+        "source": "docs/ar/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "ابني أول حلقة آلية",
+        "source": "docs/ar/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "ارسم سير عملك كرسم بياني",
+        "source": "docs/ar/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "المحاضرة"
+  },
+  "tr-TR": {
+    "title": "Ders planı",
+    "lecture": "Dersler",
+    "project": "Proje",
+    "topics": [
+      "Harness temelleri",
+      "Depo ve talimatlar",
+      "Oturumlar arası bağlam",
+      "Görev sınırları ve özellik listesi",
+      "Testler ve doğrulama",
+      "Gözlemlenebilirlik ve devir",
+      "Otomatik ajan döngüleri",
+      "İş akışları ve graflar"
+    ],
+    "lessons": [
+      {
+        "number": 1,
+        "title": "Güçlü ajanlar neden hâlâ başarısız olur",
+        "source": "docs/tr/lectures/lecture-01-why-capable-agents-still-fail/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Harness aslında nedir",
+        "source": "docs/tr/lectures/lecture-02-what-a-harness-actually-is/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Depo neden kayıt sistemi olmalı",
+        "source": "docs/tr/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Tek bir dev talimat dosyası neden yetmez",
+        "source": "docs/tr/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Uzun süren görevler neden sürekliliği kaybeder",
+        "source": "docs/tr/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Başlatma neden kendine ait bir aşama olmalı",
+        "source": "docs/tr/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md"
+      },
+      {
+        "number": 7,
+        "title": "Ajanlar neden sınırı aşar ve bitirmez",
+        "source": "docs/tr/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md"
+      },
+      {
+        "number": 8,
+        "title": "Özellik listeleri neden harness'ın temel yapı taşı",
+        "source": "docs/tr/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md"
+      },
+      {
+        "number": 9,
+        "title": "Ajanların çok erken zaferi ilan etmesini önlemek",
+        "source": "docs/tr/lectures/lecture-09-why-agents-declare-victory-too-early/index.md"
+      },
+      {
+        "number": 10,
+        "title": "Uçtan uca test sonuçları neden değiştirir",
+        "source": "docs/tr/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md"
+      },
+      {
+        "number": 11,
+        "title": "Gözlemlenebilirlik neden harness'ın içinde olmalı",
+        "source": "docs/tr/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md"
+      },
+      {
+        "number": 12,
+        "title": "Her oturum neden temiz bir durumla bitmeli",
+        "source": "docs/tr/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md"
+      },
+      {
+        "number": 13,
+        "title": "Manuel Prompting'den Otonom Loop'lara",
+        "source": "docs/tr/lectures/lecture-13-loop-engineering/index.md"
+      },
+      {
+        "number": 14,
+        "title": "Tek Döngülerden Graf Mühendisliğine",
+        "source": "docs/tr/lectures/lecture-14-graph-engineering/index.md"
+      }
+    ],
+    "projects": [
+      {
+        "number": 1,
+        "title": "Yalnızca prompt vs. önce kurallar: Aradaki fark ne kadar büyük",
+        "source": "docs/tr/projects/project-01-baseline-vs-minimal-harness/index.md"
+      },
+      {
+        "number": 2,
+        "title": "Projeyi okunabilir kılın ve kaldığınız yerden devam edin",
+        "source": "docs/tr/projects/project-02-agent-readable-workspace/index.md"
+      },
+      {
+        "number": 3,
+        "title": "Ajanı oturum yeniden başlatmaları boyunca çalışır tutun",
+        "source": "docs/tr/projects/project-03-multi-session-continuity/index.md"
+      },
+      {
+        "number": 4,
+        "title": "Ajan davranışını düzeltmek için runtime geri bildirimi kullanın",
+        "source": "docs/tr/projects/project-04-incremental-indexing/index.md"
+      },
+      {
+        "number": 5,
+        "title": "Ajanın kendi işini doğrulamasını sağlayın",
+        "source": "docs/tr/projects/project-05-grounded-qa-verification/index.md"
+      },
+      {
+        "number": 6,
+        "title": "Eksiksiz bir ajan harness'ı inşa edin (Bitirme Projesi)",
+        "source": "docs/tr/projects/project-06-runtime-observability-and-debugging/index.md"
+      },
+      {
+        "number": 7,
+        "title": "İlk Otomatik Loop'unuzu Oluşturun",
+        "source": "docs/tr/projects/project-07-loop-engineering-first-loop/index.md"
+      },
+      {
+        "number": 8,
+        "title": "İş Akışınızı Bir Graf Olarak Çizin",
+        "source": "docs/tr/projects/project-08-graph-engineering-first-graph/index.md"
+      }
+    ],
+    "lecture.single": "Ders"
+  }
+}
