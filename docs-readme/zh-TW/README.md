@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **一門專案導向的課程，教你建構讓 AI 程式設計代理可靠運作的環境、狀態管理、驗證與控制機制。**
 
@@ -112,6 +119,18 @@ OpenAI 也報告了 Codex 的相同結果，在一個 well-harnessed 的儲存�
 
 **這門課程教你如何建構那個環境。**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="模型很聰明，Harness 讓它可靠" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>文字版</summary>
+
 ```text
                     HARNESS 模式
                     ============
@@ -131,6 +150,8 @@ OpenAI 也報告了 Codex 的相同結果，在一個 well-harnessed 的儲存�
                                          才會停止
 ```
 
+</details>
+
 ---
 
 ## Harness Engineering 的真正含義
@@ -138,6 +159,18 @@ OpenAI 也報告了 Codex 的相同結果，在一個 well-harnessed 的儲存�
 Harness Engineering 是關於在模型周圍建構一個完整的工作環境，使其產生可靠的結果。它不是關於寫更好的提示。它是關於設計模型運作所在的系統。
 
 一個 harness 有五個子系統：
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering 的真正含義" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>文字版</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@ Harness Engineering 是關於在模型周圍建構一個完整的工作環境，
     Harness 不會讓模型變得更聰明。
     它讓模型的輸出變得可靠。
 ```
+
+</details>
 
 每個子系統各有其職責：
 
@@ -286,6 +321,18 @@ Harness Engineering 是關於在模型周圍建構一個完整的工作環境，
 
 課程設計為按順序進行。每個階段建立在前一個階段之上。
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="學習路徑" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>文字版</summary>
+
 ```text
     階段 1：看見問題                        階段 2：建構儲存庫結構
     ===================                    ========================
@@ -343,6 +390,8 @@ Harness Engineering 是關於在模型周圍建構一個完整的工作環境，
          （顯式圖、平行 fan-out/fan-in、
           回退邊、人機協同）
 ```
+
+</details>
 
 如果你是兼職學習，每個階段大約需要一週。如果你想加快速度，階段 1-3 可以在一個長週末完成。
 
@@ -432,6 +481,18 @@ Harness Engineering 是關於在模型周圍建構一個完整的工作環境，
 
 這門課程的核心理念之一：**代理的工作階段應該遵循結構化的生命週期，而不是隨意進行。** 以下是它的樣貌：
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="代理工作階段生命週期" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>文字版</summary>
+
 ```text
     代理工作階段生命週期
     ===================
@@ -472,6 +533,8 @@ Harness Engineering 是關於在模型周圍建構一個完整的工作環境，
     沒有 harness 時，步驟 9 變成「代理說看起來沒問題」。
     有了 harness 時，步驟 9 是「測試通過、lint 乾淨、型別檢查通過」。
 ```
+
+</details>
 
 ---
 

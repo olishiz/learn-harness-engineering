@@ -1,22 +1,29 @@
-<p align="center">
-  <a href="README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
-  <a href="docs-readme/zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
-  <a href="docs-readme/zh-TW/README.md"><img alt="繁體中文" src="https://img.shields.io/badge/ZH--TW-繁體中文-orange?style=flat-square"></a>
-  <a href="docs-readme/ja-JP/README.md"><img alt="日本語" src="https://img.shields.io/badge/JA-日本語-green?style=flat-square"></a>
-  <a href="docs-readme/ko-KR/README.md"><img alt="한국어" src="https://img.shields.io/badge/KO-한국어-blueviolet?style=flat-square"></a>
-  <a href="docs-readme/es-ES/README.md"><img alt="Español" src="https://img.shields.io/badge/ES-Español-yellow?style=flat-square"></a>
-  <a href="docs-readme/fr-FR/README.md"><img alt="Français" src="https://img.shields.io/badge/FR-Français-007EC6?style=flat-square"></a>
-  <a href="docs-readme/ru-RU/README.md"><img alt="Русский" src="https://img.shields.io/badge/RU-Русский-informational?style=flat-square"></a>
-  <a href="docs-readme/de-DE/README.md"><img alt="Deutsch" src="https://img.shields.io/badge/DE-Deutsch-2EA043?style=flat-square"></a>
-  <a href="docs-readme/ar-SA/README.md"><img alt="العربية" src="https://img.shields.io/badge/AR-العربية-success?style=flat-square"></a>
-  <a href="docs-readme/vi-VN/README.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/VI-Tiếng_Việt-cc6699?style=flat-square"></a>
-  <a href="docs-readme/uz-UZ/README.md"><img alt="Oʻzbekcha" src="https://img.shields.io/badge/UZ-Oʻzbekcha-1A8BBA?style=flat-square"></a>
-  <a href="docs-readme/tr-TR/README.md"><img alt="Türkçe" src="https://img.shields.io/badge/TR-Türkçe-E30A17?style=flat-square"></a>
-  <a href="docs-readme/pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
-  <a href="docs-readme/uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
-</p>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Aprenda Engenharia de Harness" width="880">
+  </picture>
+</h1>
 
-<h1 align="center">Aprenda Engenharia de Harness</h1>
+<p align="center">
+  <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
+  <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
+  <a href="../zh-TW/README.md"><img alt="繁體中文" src="https://img.shields.io/badge/ZH--TW-繁體中文-orange?style=flat-square"></a>
+  <a href="../ja-JP/README.md"><img alt="日本語" src="https://img.shields.io/badge/JA-日本語-green?style=flat-square"></a>
+  <a href="../ko-KR/README.md"><img alt="한국어" src="https://img.shields.io/badge/KO-한국어-blueviolet?style=flat-square"></a>
+  <a href="../es-ES/README.md"><img alt="Español" src="https://img.shields.io/badge/ES-Español-yellow?style=flat-square"></a>
+  <a href="../fr-FR/README.md"><img alt="Français" src="https://img.shields.io/badge/FR-Français-007EC6?style=flat-square"></a>
+  <a href="../ru-RU/README.md"><img alt="Русский" src="https://img.shields.io/badge/RU-Русский-informational?style=flat-square"></a>
+  <a href="../de-DE/README.md"><img alt="Deutsch" src="https://img.shields.io/badge/DE-Deutsch-2EA043?style=flat-square"></a>
+  <a href="../ar-SA/README.md"><img alt="العربية" src="https://img.shields.io/badge/AR-العربية-success?style=flat-square"></a>
+  <a href="../vi-VN/README.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/VI-Tiếng_Việt-cc6699?style=flat-square"></a>
+  <a href="../uz-UZ/README.md"><img alt="Oʻzbekcha" src="https://img.shields.io/badge/UZ-Oʻzbekcha-1A8BBA?style=flat-square"></a>
+  <a href="../tr-TR/README.md"><img alt="Türkçe" src="https://img.shields.io/badge/TR-Türkçe-E30A17?style=flat-square"></a>
+  <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
+  <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
+</p>
 
 <p align="center"><strong>Um curso baseado em projetos sobre a construção do ambiente, gerenciamento de estado, verificação e mecanismos de controle que fazem os agentes de codificação de IA funcionarem de forma confiável.</strong></p>
 
@@ -121,6 +128,18 @@ A OpenAI relatou a mesma coisa com o Codex: em um repositório bem estruturado c
 
 **Este curso ensina como construir esse ambiente.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="O Modelo é Inteligente, o Harness o Torna Confiável" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Versão em texto</summary>
+
 ```text
                     O PADRÃO DO HARNESS
                     ====================
@@ -140,6 +159,8 @@ A OpenAI relatou a mesma coisa com o Codex: em um repositório bem estruturado c
                                          verificação é aprovada
 ```
 
+</details>
+
 ---
 
 ## O que Realmente Significa Engenharia de Harness
@@ -147,6 +168,18 @@ A OpenAI relatou a mesma coisa com o Codex: em um repositório bem estruturado c
 Engenharia de harness trata de construir um ambiente de trabalho completo ao redor do modelo para que ele produza resultados confiáveis. Não se trata de escrever prompts melhores. Trata-se de projetar o sistema dentro do qual o modelo opera.
 
 Um harness possui cinco subsistemas:
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="O que Realmente Significa Engenharia de Harness" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Versão em texto</summary>
 
 ```text
     ┌────────────────────────────────────────────────────────────────┐
@@ -177,6 +210,8 @@ Um harness possui cinco subsistemas:
     O harness não torna o modelo mais inteligente.
     Ele torna a saída do modelo confiável.
 ```
+
+</details>
 
 Cada subsistema tem uma função:
 
@@ -296,6 +331,18 @@ O ponto de partida/solução de cada projeto do curso é uma cópia completa des
 
 O curso foi projetado para ser realizado em ordem. Cada fase se baseia na anterior.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="Trilha de Aprendizado" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Versão em texto</summary>
+
 ```text
     Fase 1: ENTENDA O PROBLEMA            Fase 2: ESTRUTURE O REPOSITÓRIO
     ==========================           ===============================
@@ -363,6 +410,8 @@ O curso foi projetado para ser realizado em ordem. Cada fase se baseia na anteri
          (grafo explícito, fan-out/fan-in paralelo,
           aresta de rollback, humano no loop)
 ```
+
+</details>
 
 Cada fase leva cerca de uma semana se você estiver estudando em meio período. Se quiser avançar mais rápido, as fases 1–3 podem ser concluídas em um fim de semana prolongado.
 
@@ -459,6 +508,18 @@ Cada fase leva cerca de uma semana se você estiver estudando em meio período. 
 
 Uma das ideias centrais deste curso: **a sessão do agente deve seguir um ciclo de vida estruturado, e não funcionar sem regras ou organização.** Veja como isso funciona:
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="O Ciclo de Vida de uma Sessão de Agente" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Versão em texto</summary>
+
 ```text
     CICLO DE VIDA DE UMA SESSÃO DE AGENTE
     =====================================
@@ -500,6 +561,8 @@ Uma das ideias centrais deste curso: **a sessão do agente deve seguir um ciclo 
     │                                                                  │
     └──────────────────────────────────────────────────────────────────┘
 ```
+
+</details>
 
     O harness governa cada transição desse ciclo de vida.
     O modelo decide qual código escrever em cada etapa.

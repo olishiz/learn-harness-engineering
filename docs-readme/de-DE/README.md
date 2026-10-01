@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **Ein projektbasierter Kurs über den Aufbau von Umgebungen, Zustandsverwaltung, Verifizierung und Kontrollmechanismen, die KI-Coding-Agenten zuverlässig machen.**
 
@@ -112,6 +119,18 @@ OpenAI berichtete dasselbe mit Codex: in einem gut geharnischten Repository wech
 
 **Dieser Kurs bringt Ihnen bei, wie Sie diese Umgebung aufbauen.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="Das Modell ist klug, das Harness macht es zuverlässig" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Textversion</summary>
+
 ```text
                     DAS HARNESS-MUSTER
                     ==================
@@ -131,6 +150,8 @@ OpenAI berichtete dasselbe mit Codex: in einem gut geharnischten Repository wech
                                                Verifizierung bestanden ist
 ```
 
+</details>
+
 ---
 
 ## Was Harness Engineering wirklich bedeutet
@@ -138,6 +159,18 @@ OpenAI berichtete dasselbe mit Codex: in einem gut geharnischten Repository wech
 Harness Engineering handelt davon, eine vollständige Arbeitsumgebung um das Modell herum aufzubauen, damit es zuverlässige Ergebnisse liefert. Es geht nicht darum, bessere Prompts zu schreiben. Es geht darum, das System zu entwerfen, in dem das Modell arbeitet.
 
 Ein Harness hat fünf Subsysteme:
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Was Harness Engineering wirklich bedeutet" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Textversion</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@ Ein Harness hat fünf Subsysteme:
     Das Harness macht das Modell nicht schlauer.
     Es macht die Ausgabe des Modells zuverlässig.
 ```
+
+</details>
 
 Jedes Subsystem hat eine Aufgabe:
 
@@ -287,6 +322,18 @@ Jedes Kursprojekt (Starter/Lösung) ist eine vollständige Kopie dieser Electron
 
 Der Kurs ist für die chronologische Abarbeitung konzipiert. Jede Phase baut auf der vorherigen auf.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="Lernpfad" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Textversion</summary>
+
 ```text
     Phase 1: DAS PROBLEM ERKENNEN          Phase 2: DAS REPO STRUKTURIEREN
     ==============================         ===============================
@@ -352,6 +399,8 @@ Der Kurs ist für die chronologische Abarbeitung konzipiert. Jede Phase baut auf
          Fan-out/Fan-in, Rollback-Kanten,
          Mensch+Maschine)
 ```
+
+</details>
 
 Jede Phase dauert etwa eine Woche, wenn Sie nebenbei lernen. Wenn Sie schneller vorgehen möchten, können die Phasen 1–3 an einem langen Wochenende absolviert werden.
 
@@ -448,6 +497,18 @@ Jede Phase dauert etwa eine Woche, wenn Sie nebenbei lernen. Wenn Sie schneller 
 
 Eine der Kernideen dieses Kurses: **Die Session eines Agenten sollte einem strukturierten Lebenszyklus folgen, keinem Freifür-alle.** So sieht das aus:
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Der Lebenszyklus einer Agenten-Session" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Textversion</summary>
+
 ```text
     AGENTEN-SESSION-LEBENSZYKLUS
     ============================
@@ -488,6 +549,8 @@ Eine der Kernideen dieses Kurses: **Die Session eines Agenten sollte einem struk
     Ohne Harness wird Schritt 9 zu „Agent sagt, es sieht gut aus."
     Mit Harness ist Schritt 9: „Tests bestanden, Lint sauber, Typen geprüft."
 ```
+
+</details>
 
 ---
 

@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **Проектный курс о построении окружений, управлении состоянием, верификации и механизмах контроля, которые делают KI-Coding-агентов надёжными.**
 
@@ -112,6 +119,18 @@ OpenAI сообщает то же самое с Codex: в хорошо подг�
 
 **Этот курс научит вас, как построить такое окружение.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="Модель умна, harness делает её надёжной" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Текстовая версия</summary>
+
 ```text
                     ПАТТЕРН HARNESS
                     ================
@@ -132,6 +151,8 @@ OpenAI сообщает то же самое с Codex: в хорошо подг�
                                          только когда верификация пройдена
 ```
 
+</details>
+
 ---
 
 ## Что на самом деле означает Harness Engineering
@@ -139,6 +160,18 @@ OpenAI сообщает то же самое с Codex: в хорошо подг�
 Harness Engineering — это построение полноценной рабочей среды вокруг модели, чтобы она давала надёжные результаты. Речь не о том, чтобы писать лучшие промпты. Речь о проектировании системы, в которой модель работает.
 
 Harness состоит из пяти подсистем:
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Что на самом деле означает Harness Engineering" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Текстовая версия</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -171,6 +204,8 @@ Harness состоит из пяти подсистем:
     Harness не делает модель умнее.
     Он делает вывод модели надёжным.
 ```
+
+</details>
 
 Каждая подсистема выполняет свою задачу:
 
@@ -295,6 +330,18 @@ Harness состоит из пяти подсистем:
 
 Курс рассчитан на последовательное прохождение. Каждая фаза строится на предыдущей.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="Путь обучения" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Текстовая версия</summary>
+
 ```text
     Фаза 1: УВИДЕТЬ ПРОБЛЕМУ              Фаза 2: СТРУКТУРИРОВАТЬ РЕПОЗИТОРИЙ
     ==========================            ===================================
@@ -355,6 +402,8 @@ Harness состоит из пяти подсистем:
           расписанию, maker-checker)             fan-out/fan-in,
                                                 ребро отката, человек+машина)
 ```
+
+</details>
 
 Каждая фаза занимает примерно неделю при обучении параллельно с основной работой. Если двигаться быстрее, фазы 1–3 можно пройти за длинные выходные.
 
@@ -456,6 +505,18 @@ Harness состоит из пяти подсистем:
 
 Одна из ключевых идей этого курса: **сессия агента должна следовать структурированному жизненному циклу, а не быть свободным плаванием.** Вот как это выглядит:
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Жизненный цикл агентской сессии" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Текстовая версия</summary>
+
 ```text
     ЖИЗНЕННЫЙ ЦИКЛ СЕССИИ АГЕНТА
     =============================
@@ -496,6 +557,8 @@ Harness состоит из пяти подсистем:
     Без harness шаг 9 превращается в «агент говорит, что всё выглядит нормально».
     С harness шаг 9 — это «тесты пройдены, линт чист, типы в порядке».
 ```
+
+</details>
 
 ---
 

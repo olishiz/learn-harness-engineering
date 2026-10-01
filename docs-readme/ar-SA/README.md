@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="تعلّم هندسة الحزام (Learn Harness Engineering)" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# تعلّم هندسة الحزام (Learn Harness Engineering)
 
 > **دورة تعليمية قائمة على المشاريع حول بناء البيئة وإدارة الحالة وآليات التحقق والتحكم التي تجعل وكلاء البرمجة بالذكاء الاصطناعي يعملون بشكل موثوق.**
 
@@ -112,6 +119,18 @@
 
 **هذه الدورة تعلّمك كيف تبني تلك البيئة.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="النموذج ذكي، الحزام يجعله موثوقاً" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>نسخة نصية</summary>
+
 ```text
                     نمط الحزام
                     ===========
@@ -131,6 +150,8 @@
                                            يجتاز التحقق
 ```
 
+</details>
+
 ---
 
 ## ما تعنيه هندسة الحزام فعلياً
@@ -138,6 +159,18 @@
 هندسة الحزام تدور حول بناء بيئة عمل كاملة حول النموذج حتى ينتج نتائج موثوقة. الأمر لا يتعلق بكتابة موجهات أفضل. بل يتعلق بتصميم النظام الذي يعمل النموذج داخله.
 
 يتكون الحزام من خمس أنظمة فرعية:
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="ما تعنيه هندسة الحزام فعلياً" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>نسخة نصية</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@
     الحزام لا يجعل النموذج أذكى.
     بل يجعل مخرجات النموذج موثوقة.
 ```
+
+</details>
 
 لكل نظام فرعي وظيفة واحدة:
 
@@ -287,6 +322,18 @@
 
 الدورة مصممة لتُنفذ بالترتيب. كل مرحلة تبني على سابقتها.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="مسار التعلم" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>نسخة نصية</summary>
+
 ```text
     المرحلة 1: شاهد المشكلة                 المرحلة 2: هيكل المستودع
     =======================                 ========================
@@ -350,6 +397,8 @@
          (رسم صريح، fan-out/fan-in متوازي،
           حواف تراجع، تعاون بشري)
 ```
+
+</details>
 
 كل مرحلة تستغرق حوالي أسبوع إذا كنت تعمل بدوام جزئي. إذا كنت تريد السرعة، يمكن إنجاز المراحل 1-3 في عطلة نهاية أسبوع طويلة.
 
@@ -445,6 +494,18 @@
 
 إحدى الأفكار الأساسية في هذه الدورة: **يجب أن تتبع جلسة الوكيل دورة حياة منظمة، وليست عشوائية.** إليك كيف تبدو:
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="دورة حياة جلسة الوكيل" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>نسخة نصية</summary>
+
 ```text
     دورة حياة جلسة الوكيل
     =====================
@@ -485,6 +546,8 @@
     بدون الحزام، الخطوة 9 تصبح "الوكيل يقول يبدو جيداً."
     مع الحزام، الخطوة 9 هي "الاختبارات تجتاز، التنسيق نظيف، الأنواع صحيحة."
 ```
+
+</details>
 
 ---
 

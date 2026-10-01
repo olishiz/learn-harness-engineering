@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **Khóa học dựa trên dự án về xây dựng môi trường, quản lý trạng thái, cơ chế kiểm chứng và điều khiển giúp các agent viết code AI hoạt động đáng tin cậy.**
 
@@ -112,6 +119,18 @@ OpenAI cũng báo cáo điều tương tự với Codex: trong một kho mã đ�
 
 **Khóa học này dạy bạn cách xây dựng môi trường đó.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="Mô hình thì thông minh, Harness giúp nó đáng tin cậy" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Phiên bản văn bản</summary>
+
 ```text
                     MÔ HÌNH HARNESS
                     ===============
@@ -131,6 +150,8 @@ OpenAI cũng báo cáo điều tương tự với Codex: trong một kho mã đ�
                                          kiểm chứng đạt yêu cầu
 ```
 
+</details>
+
 ---
 
 ## Harness Engineering thực sự có nghĩa là gì
@@ -138,6 +159,18 @@ OpenAI cũng báo cáo điều tương tự với Codex: trong một kho mã đ�
 Harness engineering là về việc xây dựng một môi trường làm việc hoàn chỉnh xung quanh mô hình để nó tạo ra kết quả đáng tin cậy. Nó không phải là về việc viết prompt tốt hơn. Nó là về việc thiết kế hệ thống mà mô hình hoạt động bên trong.
 
 Một harness có năm hệ thống con:
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering thực sự có nghĩa là gì" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Phiên bản văn bản</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@ Một harness có năm hệ thống con:
     Harness không làm mô hình thông minh hơn.
     Nó làm đầu ra của mô hình đáng tin cậy hơn.
 ```
+
+</details>
 
 Mỗi hệ thống con có một nhiệm vụ duy nhất:
 
@@ -288,6 +323,18 @@ Mỗi starter/solution của dự án khóa học là một bản sao hoàn ch�
 
 Khóa học được thiết kế để hoàn thành theo thứ tự. Mỗi giai đoạn xây dựng dựa trên giai đoạn trước.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="Lộ trình học tập" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Phiên bản văn bản</summary>
+
 ```text
     Giai đoạn 1: NHÌN VẤN ĐỀ              Giai đoạn 2: TỔ CHỨC KHO MÃ
     =========================              ===========================
@@ -352,6 +399,8 @@ Khóa học được thiết kế để hoàn thành theo thứ tự. Mỗi giai
          (đồ thị tường minh, fan-out/fan-in song song,
           cạnh quay lại, người-máy cộng tác)
 ```
+
+</details>
 
 Mỗi giai đoạn mất khoảng một tuần nếu bạn học bán thời gian. Nếu bạn muốn đi nhanh hơn, các giai đoạn 1-3 có thể hoàn thành trong một cuối tuần dài.
 
@@ -450,6 +499,18 @@ Mỗi giai đoạn mất khoảng một tuần nếu bạn học bán thời gia
 
 Một trong những ý tưởng cốt lõi trong khóa học này: **phiên của agent nên tuân theo một vòng đời có cấu trúc, không phải tự do không kiểm soát.** Đây là cách nó trông như thế này:
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Vòng đời phiên Agent" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Phiên bản văn bản</summary>
+
 ```text
     VÒNG ĐỜI PHIÊN AGENT
     ====================
@@ -490,6 +551,8 @@ Một trong những ý tưởng cốt lõi trong khóa học này: **phiên củ
     Không có harness, bước 9 trở thành "agent nói trông ổn rồi."
     Có harness, bước 9 là "bài kiểm tra đạt, lint sạch, kiểu đúng."
 ```
+
+</details>
 
 ---
 

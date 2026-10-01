@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **AIコーディングエージェントを確実に動作させるための環境、状態管理、検証、制御メカニズムを構築するプロジェクトベースのコース。**
 
@@ -112,6 +119,18 @@ OpenAI も Codex で同じことを報告しています：適切にハーネス
 
 **このコースは、その環境の構築方法を教えます。**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="モデルは賢い、ハーネスがそれを確実にする" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>テキスト版</summary>
+
 ```text
                     ハーネスパターン
                     ================
@@ -131,6 +150,8 @@ OpenAI も Codex で同じことを報告しています：適切にハーネス
                                                        通過した時のみ停止
 ```
 
+</details>
+
 ---
 
 ## Harness Engineering が本当に意味すること
@@ -138,6 +159,18 @@ OpenAI も Codex で同じことを報告しています：適切にハーネス
 Harness Engineering は、モデルの周囲に完全な作業環境を構築し、信頼性の高い結果を生成させることです。より良いプロンプトを書くことではありません。モデルが内部で動作するシステムを設計することです。
 
 ハーネスには5つのサブシステムがあります：
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering が本当に意味すること" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>テキスト版</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@ Harness Engineering は、モデルの周囲に完全な作業環境を構築し
     ハーネスはモデルを賢くするわけではない。
     モデルの出力を信頼性のあるものにする。
 ```
+
+</details>
 
 各サブシステムには一つの役割があります：
 
@@ -287,6 +322,18 @@ Harness Engineering は、モデルの周囲に完全な作業環境を構築し
 
 このコースは順番に進めるように設計されています。各フェーズは前のフェーズの上に構築されます。
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="学習パス" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>テキスト版</summary>
+
 ```text
     フェーズ1: 問題を見る                      フェーズ2: リポジトリを構造化
     =================================         =================================
@@ -349,6 +396,8 @@ Harness Engineering は、モデルの周囲に完全な作業環境を構築し
          （明示グラフ、並列 fan-out/fan-in、
           フォールバックエッジ、人間と機械の協働）
 ```
+
+</details>
 
 パートタイムで進める場合、各フェーズは約1週間です。より速く進めたい場合、フェーズ1〜3は長い週末で完了できます。
 
@@ -444,6 +493,18 @@ Harness Engineering は、モデルの周囲に完全な作業環境を構築し
 
 このコースのコアアイデアの一つ：**エージェントのセッションは自由放任ではなく、構造化されたライフサイクルに従うべきです。** どのようなものか：
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="エージェントセッションライフサイクル" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>テキスト版</summary>
+
 ```text
     エージェントセッションライフサイクル
     ====================================
@@ -484,6 +545,8 @@ Harness Engineering は、モデルの周囲に完全な作業環境を構築し
     ハーネスなしでは、ステップ9は「エージェントが大丈夫そうだと言う」になる。
     ハーネスありでは、ステップ9は「テスト通過、lintクリーン、型チェックOK」になる。
 ```
+
+</details>
 
 ---
 

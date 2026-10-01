@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **Muhitlar, holat boshqaruvi, tekshiruv va nazorat mexanizmlarini qurishga bagʻishlangan, KI kod yozuvchi agentlarini ishonchli qiladigan loyihaga asoslangan kurs.**
 
@@ -112,6 +119,18 @@ OpenAI Codex bilan xuddi shu haqida xabar berdi: yaxshi harnesslangan repozitori
 
 **Ushbu kurs sizga shu muhitni qanday qurishni oʻrgatadi.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="Model aqlli, harness uni ishonchli qiladi" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Matnli versiya</summary>
+
 ```text
                     HARNESS NAMUNASI
                     ================
@@ -131,6 +150,8 @@ OpenAI Codex bilan xuddi shu haqida xabar berdi: yaxshi harnesslangan repozitori
                                                    oʻtganda toʻxtaydi
 ```
 
+</details>
+
 ---
 
 ## Harness Engineering nima degani
@@ -138,6 +159,18 @@ OpenAI Codex bilan xuddi shu haqida xabar berdi: yaxshi harnesslangan repozitori
 Harness Engineering — model atrofida toʻliq ish muhiti qurishdir, shunda u ishonchli natijalar beradi. Bu yaxshi promptʼlar yozish haqida emas. Bu model ishlaydigan tizimni loyihalash haqida.
 
 Harnessʼning beshta quyi tizimi bor:
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering nima degani" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Matnli versiya</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@ Harnessʼning beshta quyi tizimi bor:
     Harness modelni aqlliroq qilmaydi.
     U model natijasini ishonchli qiladi.
 ```
+
+</details>
 
 Har bir quyi tizimning oʻz vazifasi bor:
 
@@ -288,6 +323,18 @@ Har bir kurs loyihasi (boshlangʻich/yechim) ushbu Electron ilovasining mos rivo
 
 Kurs xronologik tartibda bajarish uchun moʻljallangan. Har bir bosqich oldingisiga asoslanadi.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="Oʻqish yoʻli" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Matnli versiya</summary>
+
 ```text
     1-bosqich: MUAMMONI KOʻRISH             2-bosqich: REPONI TUZISH
     ===========================             ========================
@@ -352,6 +399,8 @@ Kurs xronologik tartibda bajarish uchun moʻljallangan. Har bir bosqich oldingis
          (eksplisit grafik, parallel fan-out/fan-in,
           qaytish chekkalari, inson ishtiroki)
 ```
+
+</details>
 
 Agar parallel oʻqisangiz, har bir bosqich taxminan bir hafta davom etadi. Agar tezroq borishni xohlasangiz, 1–3 bosqichlarni bitta uzun dam olish kunlarida tugatishingiz mumkin.
 
@@ -447,6 +496,18 @@ Agar parallel oʻqisangiz, har bir bosqich taxminan bir hafta davom etadi. Agar 
 
 Ushbu kursning asosiy gʻoyalaridan biri: **Agent sessiyasi tuzilgan hayot sikliga amal qilishi kerak, emas xohlagancha ishlashiga.** Bu quyidagicha koʻrinadi:
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Agent sessiyasi hayot sikli" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Matnli versiya</summary>
+
 ```text
     AGENT SESSIYA HAYOT SIKLI
     =========================
@@ -487,6 +548,8 @@ Ushbu kursning asosiy gʻoyalaridan biri: **Agent sessiyasi tuzilgan hayot sikli
     Harnessʼsiz 9-qadam "agent yaxshi koʻrinadi deydi" ga aylanadi.
     Harness bilan 9-qadam "testlar oʻtdi, lint toza, turlar tekshirildi" boʻladi.
 ```
+
+</details>
 
 ---
 

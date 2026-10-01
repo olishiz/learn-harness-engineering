@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **Un cours basé sur des projets consacré à la construction de l'environnement, de la gestion d'état, de la vérification et des mécanismes de contrôle qui permettent aux agents de codage IA de fonctionner de manière fiable.**
 
@@ -112,6 +119,18 @@ OpenAI a rapporté la même chose avec Codex : dans un dépôt bien équipé d'u
 
 **Ce cours vous apprend à construire cet environnement.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="Le modèle est intelligent, le harness le rend fiable" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Version texte</summary>
+
 ```text
                     LE MODÈLE HARNESS
                     =================
@@ -131,6 +150,8 @@ OpenAI a rapporté la même chose avec Codex : dans un dépôt bien équipé d'u
                                                 la vérification réussit
 ```
 
+</details>
+
 ---
 
 ## Ce que signifie réellement Harness Engineering
@@ -138,6 +159,18 @@ OpenAI a rapporté la même chose avec Codex : dans un dépôt bien équipé d'u
 Le Harness Engineering consiste à construire un environnement de travail complet autour du modèle pour qu'il produise des résultats fiables. Il ne s'agit pas d'écrire de meilleurs prompts. Il s'agit de concevoir le système dans lequel le modèle opère.
 
 Un harness comporte cinq sous-systèmes :
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Ce que signifie réellement Harness Engineering" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Version texte</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@ Un harness comporte cinq sous-systèmes :
     Le harness ne rend pas le modèle plus intelligent.
     Il rend la sortie du modèle fiable.
 ```
+
+</details>
 
 Chaque sous-système a une seule responsabilité :
 
@@ -287,6 +322,18 @@ Le starter/solution de chaque projet du cours est une copie complète de cette a
 
 Le cours est conçu pour être suivi dans l'ordre. Chaque phase s'appuie sur la précédente.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="Parcours d'Apprentissage" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Version texte</summary>
+
 ```text
     Phase 1 : VOIR LE PROBLÈME             Phase 2 : STRUCTURER LE DÉPÔT
     ===========================            =============================
@@ -351,6 +398,8 @@ Le cours est conçu pour être suivi dans l'ordre. Chaque phase s'appuie sur la 
          (graphe explicite, fan-out/fan-in parallèle,
           arête de retour arrière, collaboration homme-machine)
 ```
+
+</details>
 
 Chaque phase prend environ une semaine si vous suivez le cours à temps partiel. Si vous souhaitez aller plus vite, les phases 1 à 3 peuvent être effectuées en un long week-end.
 
@@ -449,6 +498,18 @@ Chaque phase prend environ une semaine si vous suivez le cours à temps partiel.
 
 L'une des idées centrales de ce cours : **la session de l'agent doit suivre un cycle de vie structuré, pas être laissée au hasard.** Voici à quoi cela ressemble :
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Le Cycle de Vie de la Session de l'Agent" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Version texte</summary>
+
 ```text
     CYCLE DE VIE DE LA SESSION DE L'AGENT
     ======================================
@@ -489,6 +550,8 @@ L'une des idées centrales de ce cours : **la session de l'agent doit suivre un 
     Sans le harness, l'étape 9 devient « l'agent dit que ça a l'air correct ».
     Avec le harness, l'étape 9 est « les tests passent, le lint est propre, les types sont valides ».
 ```
+
+</details>
 
 ---
 

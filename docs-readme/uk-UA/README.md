@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-<h1 align="center">Learn Harness Engineering</h1>
 
 <p align="center"><strong>Практичний курс із побудови середовища, управління станом, верифікації та механізмів контролю, які забезпечують надійну роботу AI-агентів для написання коду.</strong></p>
 
@@ -122,6 +129,18 @@ OpenAI повідомив про те саме з Codex: у добре осна�
 
 **Цей курс вчить вас будувати таке середовище.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="Модель розумна — harness робить її надійною" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Текстова версія</summary>
+
 ```text
                     THE HARNESS PATTERN
                     ====================
@@ -141,6 +160,8 @@ OpenAI повідомив про те саме з Codex: у добре осна�
                                          verification passes
 ```
 
+</details>
+
 ---
 
 ## Що насправді означає Harness Engineering
@@ -148,6 +169,18 @@ OpenAI повідомив про те саме з Codex: у добре осна�
 Harness Engineering — це побудова повноцінного робочого середовища навколо моделі, щоб вона давала надійні результати. Мова йде не про написання кращих промптів. Мова йде про проєктування системи, всередині якої функціонує модель.
 
 Harness складається з п'яти підсистем:
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Що насправді означає Harness Engineering" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Текстова версія</summary>
 
 ```text
     ┌────────────────────────────────────────────────────────────────┐
@@ -178,6 +211,8 @@ Harness складається з п'яти підсистем:
     The harness doesn't make the model smarter.
     It makes the model's output reliable.
 ```
+
+</details>
 
 Кожна підсистема виконує одне завдання:
 
@@ -297,6 +332,18 @@ Harness складається з п'яти підсистем:
 
 Курс спроєктовано для проходження по порядку. Кожна фаза спирається на попередню.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="Навчальний маршрут" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Текстова версія</summary>
+
 ```text
     Phase 1: SEE THE PROBLEM              Phase 2: STRUCTURE THE REPO
     ========================              ==========================
@@ -359,6 +406,8 @@ Harness складається з п'яти підсистем:
          (explicit graph, parallel fan-out/fan-in,
           fallback edge, human-in-the-loop)
 ```
+
+</details>
 
 Кожна фаза займає приблизно тиждень при навчанні неповний робочий день. Якщо ви хочете просуватися швидше, фази 1–3 можна пройти за довгий вихідний.
 
@@ -454,6 +503,18 @@ Harness складається з п'яти підсистем:
 
 Одна з ключових ідей курсу: **сесія агента має дотримуватися структурованого життєвого циклу, а не відбуватися хаотично.** Ось як це виглядає:
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Життєвий цикл агентної сесії" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Текстова версія</summary>
+
 ```text
     AGENT SESSION LIFECYCLE
     ======================
@@ -494,6 +555,8 @@ Harness складається з п'яти підсистем:
     Without the harness, step 9 becomes "agent says it looks fine."
     With the harness, step 9 is "tests pass, lint is clean, types check."
 ```
+
+</details>
 
 ---
 

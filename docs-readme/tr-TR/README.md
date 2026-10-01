@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **Yapay zeka kod yazma ajanlarının güvenilir biçimde çalışmasını sağlayan ortamı, durum yönetimini, doğrulamayı ve kontrol mekanizmalarını kurmaya odaklanan, proje tabanlı bir kurs.**
 
@@ -112,6 +119,18 @@ OpenAI Codex ile aynı şeyi bildirdi: iyi harness'lanmış bir depoda aynı mod
 
 **Bu kurs size o ortamı nasıl kuracağınızı öğretir.**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="Model akıllıdır, harness onu güvenilir kılar" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Metin sürümü</summary>
+
 ```text
                     HARNESS DESENİ
                     ==============
@@ -131,6 +150,8 @@ OpenAI Codex ile aynı şeyi bildirdi: iyi harness'lanmış bir depoda aynı mod
                                                      başarılı olduğunda durur
 ```
 
+</details>
+
 ---
 
 ## Harness engineering aslında ne demek
@@ -138,6 +159,18 @@ OpenAI Codex ile aynı şeyi bildirdi: iyi harness'lanmış bir depoda aynı mod
 Harness engineering, modelin güvenilir sonuçlar üretmesi için etrafına eksiksiz bir çalışma ortamı kurmakla ilgilidir. Daha iyi prompt yazmakla ilgili değildir. Modelin içinde çalıştığı sistemi tasarlamakla ilgilidir.
 
 Bir harness'ın beş alt sistemi vardır:
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Harness engineering aslında ne demek" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Metin sürümü</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@ Bir harness'ın beş alt sistemi vardır:
     Harness modeli daha akıllı yapmaz.
     Modelin çıktısını güvenilir yapar.
 ```
+
+</details>
 
 Her alt sistemin bir görevi vardır:
 
@@ -287,6 +322,18 @@ Her kurs projesinin starter/solution'ı, bu Electron uygulamasının o evrimsel 
 
 Kurs sırayla yapılacak şekilde tasarlanmıştır. Her aşama bir öncekinin üzerine inşa edilir.
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="Öğrenme yolu" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Metin sürümü</summary>
+
 ```text
     Aşama 1: PROBLEMİ GÖR                  Aşama 2: DEPOYU YAPILANDIR
     =====================                  ===========================
@@ -349,6 +396,8 @@ Kurs sırayla yapılacak şekilde tasarlanmıştır. Her aşama bir öncekinin �
          (açık graf, paralel fan-out/fan-in,
           geri alma kenarı, insan-ortada)
 ```
+
+</details>
 
 Yarı zamanlı ilerliyorsanız her aşama yaklaşık bir hafta sürer. Daha hızlı gitmek istiyorsanız 1-3. aşamalar uzun bir hafta sonunda tamamlanabilir.
 
@@ -444,6 +493,18 @@ Yarı zamanlı ilerliyorsanız her aşama yaklaşık bir hafta sürer. Daha hız
 
 Bu kursun temel fikirlerinden biri: **ajanın oturumu serbest takılma değil, yapılandırılmış bir yaşam döngüsünü izlemelidir.** İşte bunun nasıl göründüğü:
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="Ajan oturumunun yaşam döngüsü" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>Metin sürümü</summary>
+
 ```text
     AJAN OTURUMU YAŞAM DÖNGÜSÜ
     ==========================
@@ -484,6 +545,8 @@ Bu kursun temel fikirlerinden biri: **ajanın oturumu serbest takılma değil, y
     Harness olmadan 9. adım "ajan iyi görünüyor diyor" olur.
     Harness ile 9. adım "testler geçiyor, lint temiz, tipler kontrol edildi" olur.
 ```
+
+</details>
 
 ---
 

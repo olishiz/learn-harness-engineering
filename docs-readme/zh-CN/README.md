@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact-dark.svg">
+    <source media="(max-width: 600px)" srcset="../../assets/readme/harness-wordmark-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-wordmark-dark.svg">
+    <img src="../../assets/readme/harness-wordmark.svg" alt="Learn Harness Engineering" width="880">
+  </picture>
+</h1>
+
 <p align="center">
   <a href="../../README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-blue?style=flat-square"></a>
   <a href="../zh-CN/README.md"><img alt="简体中文" src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square"></a>
@@ -15,8 +24,6 @@
   <a href="../pt-BR/README.md"><img alt="Português-BR" src="https://img.shields.io/badge/PT--BR-Português-1A8BBA?style=flat-square"></a>
   <a href="../uk-UA/README.md"><img alt="Українська" src="https://img.shields.io/badge/UK-Українська-0057B7?style=flat-square"></a>
 </p>
-
-# Learn Harness Engineering
 
 > **一门基于项目的课程，教你构建让 AI 编程代理可靠工作的环境、状态管理、验证和控制机制。**
 
@@ -112,6 +119,18 @@ OpenAI 在 Codex 上也报告了同样的事情：在一个良好 Harness 的仓
 
 **这门课程教你如何构建那个环境。**
 
+<p align="center">
+  <a href="../../assets/readme/harness-pattern.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-pattern-dark.svg">
+      <img src="../../assets/readme/harness-pattern.png" alt="模型很聪明，Harness 让它可靠" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>文本版</summary>
+
 ```text
                     HARNESS 模式
                     =============
@@ -131,6 +150,8 @@ OpenAI 在 Codex 上也报告了同样的事情：在一个良好 Harness 的仓
                                          才会停止
 ```
 
+</details>
+
 ---
 
 ## Harness Engineering 到底是什么意思
@@ -138,6 +159,18 @@ OpenAI 在 Codex 上也报告了同样的事情：在一个良好 Harness 的仓
 Harness Engineering 是围绕模型构建一个完整的工作环境，使其产生可靠的结果。它不是关于写更好的提示词。它是关于设计模型运行其中的系统。
 
 一个 Harness 有五个子系统：
+
+<p align="center">
+  <a href="../../assets/readme/harness-subsystems.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-subsystems-dark.svg">
+      <img src="../../assets/readme/harness-subsystems.png" alt="Harness Engineering 到底是什么意思" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>文本版</summary>
 
 ```text
     ┌─────────────────────────────────────────────────────────────────┐
@@ -168,6 +201,8 @@ Harness Engineering 是围绕模型构建一个完整的工作环境，使其产
     Harness 不会让模型更聪明。
     它让模型的输出更可靠。
 ```
+
+</details>
 
 每个子系统各司其职：
 
@@ -286,6 +321,18 @@ Harness Engineering 是围绕模型构建一个完整的工作环境，使其产
 
 课程按顺序设计。每个阶段建立在前一个之上。
 
+<p align="center">
+  <a href="../../assets/readme/harness-learning-path.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-learning-path-dark.svg">
+      <img src="../../assets/readme/harness-learning-path.png" alt="学习路径" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>文本版</summary>
+
 ```text
     阶段 1：看到问题                        阶段 2：结构化仓库
     =======================                 ==========================
@@ -347,6 +394,8 @@ Harness Engineering 是围绕模型构建一个完整的工作环境，使其产
          （显式图、并行 fan-out/fan-in、
           回退边、人机协同）
 ```
+
+</details>
 
 如果你是业余时间学习，每个阶段大约需要一周。如果你想加快速度，阶段 1-3 可以在一个长周末完成。
 
@@ -444,6 +493,18 @@ Harness Engineering 是围绕模型构建一个完整的工作环境，使其产
 
 这门课程的核心观点之一：**代理的会话应该遵循结构化的生命周期，而不是放任自流。** 如下所示：
 
+<p align="center">
+  <a href="../../assets/readme/harness-session-lifecycle.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../../assets/readme/harness-session-lifecycle-dark.svg">
+      <img src="../../assets/readme/harness-session-lifecycle.png" alt="代理会话生命周期" width="920">
+    </picture>
+  </a>
+</p>
+
+<details>
+<summary>文本版</summary>
+
 ```text
     代理会话生命周期
     ======================
@@ -484,6 +545,8 @@ Harness Engineering 是围绕模型构建一个完整的工作环境，使其产
     没有 Harness，第 9 步变成"代理说看起来没问题"。
     有了 Harness，第 9 步是"测试通过，lint 干净，类型检查通过"。
 ```
+
+</details>
 
 ---
 
